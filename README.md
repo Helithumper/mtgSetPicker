@@ -14,6 +14,8 @@ So:
 What set contains the largest number of cards that I'm
 looking for?
 
+![An example run](docFiles/run1.png)
+
 ## Usage
 
 Update cardLists/want.csv with the list of cards you want to search for. The first
@@ -34,7 +36,6 @@ Example complex usage:
 ```sh
 python main.py -c cardLists/want.csv -t 7 --no-nice
 ```
-
 
 ## Bonus Features
 
