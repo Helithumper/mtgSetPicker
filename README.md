@@ -14,6 +14,16 @@ So:
 What set contains the largest number of cards that I'm
 looking for?
 
+## Usage
+
+```sh
+python main.py -c cardLists/want.csv
+```
+
+This will use the provided csv to search for cards, you can update that csv or point to your own. The name of the card you are searching for **must** be the first column of the csv.
+
+This tool only searches using the card name, all other fields are ignored.
+
 ## Bonus Features
 
 1. Cache data from scryfall so I don't overwhelp their API.

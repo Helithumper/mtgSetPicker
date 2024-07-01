@@ -106,8 +106,8 @@
             "story_spotlight": false,
             "edhrec_rank": 648,
             "prices": {
-                "usd": "3.35",
-                "usd_foil": "3.81",
+                "usd": "3.19",
+                "usd_foil": "3.59",
                 "usd_etched": null,
                 "eur": "2.70",
                 "eur_foil": "1.41",
@@ -224,7 +224,7 @@
             "story_spotlight": false,
             "edhrec_rank": 648,
             "prices": {
-                "usd": "5.34",
+                "usd": "5.23",
                 "usd_foil": "14.43",
                 "usd_etched": null,
                 "eur": "4.64",
@@ -464,7 +464,7 @@
                 "usd_etched": null,
                 "eur": "16.22",
                 "eur_foil": null,
-                "tix": "1.38"
+                "tix": "1.15"
             },
             "related_uris": {
                 "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4612&printed=false",
@@ -577,8 +577,8 @@
             "story_spotlight": false,
             "edhrec_rank": 648,
             "prices": {
-                "usd": "8.65",
-                "usd_foil": "17.26",
+                "usd": "8.24",
+                "usd_foil": "16.58",
                 "usd_etched": null,
                 "eur": null,
                 "eur_foil": null,

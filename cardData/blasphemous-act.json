@@ -1,0 +1,3708 @@
+{
+    "object": "list",
+    "total_cards": 30,
+    "has_more": false,
+    "data": [
+        {
+            "object": "card",
+            "id": "8aa9682d-5176-4475-a0bd-e000f1d6999a",
+            "oracle_id": "7a2484a9-04fd-41a0-8224-610c1c07ed10",
+            "multiverse_ids": [
+                640512
+            ],
+            "mtgo_id": 118832,
+            "tcgplayer_id": 525808,
+            "cardmarket_id": 743568,
+            "name": "Blasphemous Act",
+            "lang": "en",
+            "released_at": "2023-11-17",
+            "uri": "https://api.scryfall.com/cards/8aa9682d-5176-4475-a0bd-e000f1d6999a",
+            "scryfall_uri": "https://scryfall.com/card/lcc/216/blasphemous-act?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/8/a/8aa9682d-5176-4475-a0bd-e000f1d6999a.jpg?1698988297",
+                "normal": "https://cards.scryfall.io/normal/front/8/a/8aa9682d-5176-4475-a0bd-e000f1d6999a.jpg?1698988297",
+                "large": "https://cards.scryfall.io/large/front/8/a/8aa9682d-5176-4475-a0bd-e000f1d6999a.jpg?1698988297",
+                "png": "https://cards.scryfall.io/png/front/8/a/8aa9682d-5176-4475-a0bd-e000f1d6999a.png?1698988297",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/8/a/8aa9682d-5176-4475-a0bd-e000f1d6999a.jpg?1698988297",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/8/a/8aa9682d-5176-4475-a0bd-e000f1d6999a.jpg?1698988297"
+            },
+            "mana_cost": "{8}{R}",
+            "cmc": 9.0,
+            "type_line": "Sorcery",
+            "oracle_text": "This spell costs {1} less to cast for each creature on the battlefield.\nBlasphemous Act deals 13 damage to each creature.",
+            "colors": [
+                "R"
+            ],
+            "color_identity": [
+                "R"
+            ],
+            "keywords": [],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "not_legal",
+                "timeless": "not_legal",
+                "gladiator": "not_legal",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "not_legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "not_legal",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "not_legal"
+            },
+            "games": [
+                "paper",
+                "mtgo"
+            ],
+            "reserved": false,
+            "foil": false,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "d253edc3-5bc7-4cf1-9446-a8540dedffa5",
+            "set": "lcc",
+            "set_name": "The Lost Caverns of Ixalan Commander",
+            "set_type": "commander",
+            "set_uri": "https://api.scryfall.com/sets/d253edc3-5bc7-4cf1-9446-a8540dedffa5",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Alcc&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/lcc?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/8aa9682d-5176-4475-a0bd-e000f1d6999a/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7a2484a9-04fd-41a0-8224-610c1c07ed10&unique=prints",
+            "collector_number": "216",
+            "digital": false,
+            "rarity": "rare",
+            "flavor_text": "\"Holy places are no longer sanctuary from death, and death is no longer sanctuary from anything.\"\n\u2014Thalia, Knight-Cathar",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Daarken",
+            "artist_ids": [
+                "e607a0d4-fc12-4c01-9e3f-501f5269b9cb"
+            ],
+            "illustration_id": "6ea08730-d12d-445f-b31f-8f55374f194d",
+            "border_color": "black",
+            "frame": "2015",
+            "security_stamp": "oval",
+            "full_art": false,
+            "textless": false,
+            "booster": false,
+            "story_spotlight": false,
+            "edhrec_rank": 26,
+            "penny_rank": 2362,
+            "prices": {
+                "usd": "2.06",
+                "usd_foil": null,
+                "usd_etched": null,
+                "eur": "2.01",
+                "eur_foil": null,
+                "tix": null
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=640512&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "edhrec": "https://edhrec.com/route/?cc=Blasphemous+Act"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F525808%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Commander-The-Lost-Caverns-of-Ixalan/Blasphemous-Act?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards/118832?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "cd15a627-f7a6-4d66-abb5-5aaa167b41a9",
+            "oracle_id": "7a2484a9-04fd-41a0-8224-610c1c07ed10",
+            "multiverse_ids": [
+                625277
+            ],
+            "mtgo_id": 114085,
+            "tcgplayer_id": 505788,
+            "cardmarket_id": 722964,
+            "name": "Blasphemous Act",
+            "lang": "en",
+            "released_at": "2023-08-04",
+            "uri": "https://api.scryfall.com/cards/cd15a627-f7a6-4d66-abb5-5aaa167b41a9",
+            "scryfall_uri": "https://scryfall.com/card/cmm/872/blasphemous-act?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/c/d/cd15a627-f7a6-4d66-abb5-5aaa167b41a9.jpg?1690004610",
+                "normal": "https://cards.scryfall.io/normal/front/c/d/cd15a627-f7a6-4d66-abb5-5aaa167b41a9.jpg?1690004610",
+                "large": "https://cards.scryfall.io/large/front/c/d/cd15a627-f7a6-4d66-abb5-5aaa167b41a9.jpg?1690004610",
+                "png": "https://cards.scryfall.io/png/front/c/d/cd15a627-f7a6-4d66-abb5-5aaa167b41a9.png?1690004610",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/c/d/cd15a627-f7a6-4d66-abb5-5aaa167b41a9.jpg?1690004610",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/c/d/cd15a627-f7a6-4d66-abb5-5aaa167b41a9.jpg?1690004610"
+            },
+            "mana_cost": "{8}{R}",
+            "cmc": 9.0,
+            "type_line": "Sorcery",
+            "oracle_text": "This spell costs {1} less to cast for each creature on the battlefield.\nBlasphemous Act deals 13 damage to each creature.",
+            "colors": [
+                "R"
+            ],
+            "color_identity": [
+                "R"
+            ],
+            "keywords": [],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "not_legal",
+                "timeless": "not_legal",
+                "gladiator": "not_legal",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "not_legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "not_legal",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "not_legal"
+            },
+            "games": [
+                "paper",
+                "mtgo"
+            ],
+            "reserved": false,
+            "foil": false,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "cd05036f-2698-43e6-a48e-5c8d82f0a551",
+            "set": "cmm",
+            "set_name": "Commander Masters",
+            "set_type": "masters",
+            "set_uri": "https://api.scryfall.com/sets/cd05036f-2698-43e6-a48e-5c8d82f0a551",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acmm&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/cmm?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/cd15a627-f7a6-4d66-abb5-5aaa167b41a9/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7a2484a9-04fd-41a0-8224-610c1c07ed10&unique=prints",
+            "collector_number": "872",
+            "digital": false,
+            "rarity": "rare",
+            "flavor_text": "\"Holy places are no longer sanctuary from death, and death is no longer sanctuary from anything.\"\n\u2014Thalia, Knight-Cathar",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Daarken",
+            "artist_ids": [
+                "e607a0d4-fc12-4c01-9e3f-501f5269b9cb"
+            ],
+            "illustration_id": "6ea08730-d12d-445f-b31f-8f55374f194d",
+            "border_color": "black",
+            "frame": "2015",
+            "security_stamp": "oval",
+            "full_art": false,
+            "textless": false,
+            "booster": false,
+            "story_spotlight": false,
+            "edhrec_rank": 26,
+            "penny_rank": 2362,
+            "prices": {
+                "usd": "2.36",
+                "usd_foil": null,
+                "usd_etched": null,
+                "eur": "2.63",
+                "eur_foil": null,
+                "tix": "0.07"
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=625277&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "edhrec": "https://edhrec.com/route/?cc=Blasphemous+Act"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F505788%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Commander-Masters-Extras/Blasphemous-Act?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards/114085?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "ba975f60-ca29-4fc8-b2f0-416be395f200",
+            "oracle_id": "7a2484a9-04fd-41a0-8224-610c1c07ed10",
+            "multiverse_ids": [
+                567597
+            ],
+            "tcgplayer_id": 273577,
+            "cardmarket_id": 661921,
+            "name": "Blasphemous Act",
+            "lang": "en",
+            "released_at": "2022-06-10",
+            "uri": "https://api.scryfall.com/cards/ba975f60-ca29-4fc8-b2f0-416be395f200",
+            "scryfall_uri": "https://scryfall.com/card/clb/780/blasphemous-act?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/b/a/ba975f60-ca29-4fc8-b2f0-416be395f200.jpg?1674141874",
+                "normal": "https://cards.scryfall.io/normal/front/b/a/ba975f60-ca29-4fc8-b2f0-416be395f200.jpg?1674141874",
+                "large": "https://cards.scryfall.io/large/front/b/a/ba975f60-ca29-4fc8-b2f0-416be395f200.jpg?1674141874",
+                "png": "https://cards.scryfall.io/png/front/b/a/ba975f60-ca29-4fc8-b2f0-416be395f200.png?1674141874",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/b/a/ba975f60-ca29-4fc8-b2f0-416be395f200.jpg?1674141874",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/b/a/ba975f60-ca29-4fc8-b2f0-416be395f200.jpg?1674141874"
+            },
+            "mana_cost": "{8}{R}",
+            "cmc": 9.0,
+            "type_line": "Sorcery",
+            "oracle_text": "This spell costs {1} less to cast for each creature on the battlefield.\nBlasphemous Act deals 13 damage to each creature.",
+            "colors": [
+                "R"
+            ],
+            "color_identity": [
+                "R"
+            ],
+            "keywords": [],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "not_legal",
+                "timeless": "not_legal",
+                "gladiator": "not_legal",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "not_legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "not_legal",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "not_legal"
+            },
+            "games": [
+                "paper"
+            ],
+            "reserved": false,
+            "foil": false,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "5e4c3fe8-fd57-4b20-ad56-c03790a16cea",
+            "set": "clb",
+            "set_name": "Commander Legends: Battle for Baldur's Gate",
+            "set_type": "draft_innovation",
+            "set_uri": "https://api.scryfall.com/sets/5e4c3fe8-fd57-4b20-ad56-c03790a16cea",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aclb&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/clb?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/ba975f60-ca29-4fc8-b2f0-416be395f200/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7a2484a9-04fd-41a0-8224-610c1c07ed10&unique=prints",
+            "collector_number": "780",
+            "digital": false,
+            "rarity": "rare",
+            "flavor_text": "\"Holy places are no longer sanctuary from death, and death is no longer sanctuary from anything.\"\n\u2014Thalia, Knight-Cathar",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Daarken",
+            "artist_ids": [
+                "e607a0d4-fc12-4c01-9e3f-501f5269b9cb"
+            ],
+            "illustration_id": "6ea08730-d12d-445f-b31f-8f55374f194d",
+            "border_color": "black",
+            "frame": "2015",
+            "security_stamp": "oval",
+            "full_art": false,
+            "textless": false,
+            "booster": false,
+            "story_spotlight": false,
+            "edhrec_rank": 26,
+            "penny_rank": 2362,
+            "prices": {
+                "usd": "2.42",
+                "usd_foil": null,
+                "usd_etched": null,
+                "eur": "2.21",
+                "eur_foil": null,
+                "tix": null
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=567597&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "edhrec": "https://edhrec.com/route/?cc=Blasphemous+Act"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F273577%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Commander-Legends-Battle-for-Baldurs-Gate-Extras/Blasphemous-Act?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Blasphemous+Act&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "0b98a8ac-9255-416d-b86a-46621c4bea4f",
+            "oracle_id": "7a2484a9-04fd-41a0-8224-610c1c07ed10",
+            "multiverse_ids": [
+                559836
+            ],
+            "tcgplayer_id": 269716,
+            "cardmarket_id": 652848,
+            "name": "Blasphemous Act",
+            "lang": "en",
+            "released_at": "2022-04-29",
+            "uri": "https://api.scryfall.com/cards/0b98a8ac-9255-416d-b86a-46621c4bea4f",
+            "scryfall_uri": "https://scryfall.com/card/ncc/264/blasphemous-act?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/0/b/0b98a8ac-9255-416d-b86a-46621c4bea4f.jpg?1673484303",
+                "normal": "https://cards.scryfall.io/normal/front/0/b/0b98a8ac-9255-416d-b86a-46621c4bea4f.jpg?1673484303",
+                "large": "https://cards.scryfall.io/large/front/0/b/0b98a8ac-9255-416d-b86a-46621c4bea4f.jpg?1673484303",
+                "png": "https://cards.scryfall.io/png/front/0/b/0b98a8ac-9255-416d-b86a-46621c4bea4f.png?1673484303",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/0/b/0b98a8ac-9255-416d-b86a-46621c4bea4f.jpg?1673484303",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/0/b/0b98a8ac-9255-416d-b86a-46621c4bea4f.jpg?1673484303"
+            },
+            "mana_cost": "{8}{R}",
+            "cmc": 9.0,
+            "type_line": "Sorcery",
+            "oracle_text": "This spell costs {1} less to cast for each creature on the battlefield.\nBlasphemous Act deals 13 damage to each creature.",
+            "colors": [
+                "R"
+            ],
+            "color_identity": [
+                "R"
+            ],
+            "keywords": [],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "not_legal",
+                "timeless": "not_legal",
+                "gladiator": "not_legal",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "not_legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "not_legal",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "not_legal"
+            },
+            "games": [
+                "paper"
+            ],
+            "reserved": false,
+            "foil": false,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "c51de34b-d4d6-4179-a432-573744ded119",
+            "set": "ncc",
+            "set_name": "New Capenna Commander",
+            "set_type": "commander",
+            "set_uri": "https://api.scryfall.com/sets/c51de34b-d4d6-4179-a432-573744ded119",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ancc&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/ncc?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/0b98a8ac-9255-416d-b86a-46621c4bea4f/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7a2484a9-04fd-41a0-8224-610c1c07ed10&unique=prints",
+            "collector_number": "264",
+            "digital": false,
+            "rarity": "rare",
+            "flavor_text": "\"Holy places are no longer sanctuary from death, and death is no longer sanctuary from anything.\"\n\u2014Thalia, Knight-Cathar",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Daarken",
+            "artist_ids": [
+                "e607a0d4-fc12-4c01-9e3f-501f5269b9cb"
+            ],
+            "illustration_id": "6ea08730-d12d-445f-b31f-8f55374f194d",
+            "border_color": "black",
+            "frame": "2015",
+            "security_stamp": "oval",
+            "full_art": false,
+            "textless": false,
+            "booster": false,
+            "story_spotlight": false,
+            "edhrec_rank": 26,
+            "penny_rank": 2362,
+            "prices": {
+                "usd": "2.33",
+                "usd_foil": null,
+                "usd_etched": null,
+                "eur": "2.25",
+                "eur_foil": null,
+                "tix": null
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=559836&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "edhrec": "https://edhrec.com/route/?cc=Blasphemous+Act"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F269716%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Commander-Streets-of-New-Capenna/Blasphemous-Act?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Blasphemous+Act&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "65254343-8b47-49b9-8834-b71bd11f4ab7",
+            "oracle_id": "7a2484a9-04fd-41a0-8224-610c1c07ed10",
+            "multiverse_ids": [
+                545763
+            ],
+            "tcgplayer_id": 254242,
+            "cardmarket_id": 584123,
+            "name": "Blasphemous Act",
+            "lang": "en",
+            "released_at": "2021-11-19",
+            "uri": "https://api.scryfall.com/cards/65254343-8b47-49b9-8834-b71bd11f4ab7",
+            "scryfall_uri": "https://scryfall.com/card/voc/143/blasphemous-act?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/6/5/65254343-8b47-49b9-8834-b71bd11f4ab7.jpg?1641603073",
+                "normal": "https://cards.scryfall.io/normal/front/6/5/65254343-8b47-49b9-8834-b71bd11f4ab7.jpg?1641603073",
+                "large": "https://cards.scryfall.io/large/front/6/5/65254343-8b47-49b9-8834-b71bd11f4ab7.jpg?1641603073",
+                "png": "https://cards.scryfall.io/png/front/6/5/65254343-8b47-49b9-8834-b71bd11f4ab7.png?1641603073",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/6/5/65254343-8b47-49b9-8834-b71bd11f4ab7.jpg?1641603073",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/6/5/65254343-8b47-49b9-8834-b71bd11f4ab7.jpg?1641603073"
+            },
+            "mana_cost": "{8}{R}",
+            "cmc": 9.0,
+            "type_line": "Sorcery",
+            "oracle_text": "This spell costs {1} less to cast for each creature on the battlefield.\nBlasphemous Act deals 13 damage to each creature.",
+            "colors": [
+                "R"
+            ],
+            "color_identity": [
+                "R"
+            ],
+            "keywords": [],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "not_legal",
+                "timeless": "not_legal",
+                "gladiator": "not_legal",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "not_legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "not_legal",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "not_legal"
+            },
+            "games": [
+                "paper"
+            ],
+            "reserved": false,
+            "foil": false,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "b2e444f7-41e6-4172-ba01-47d91d5e7bbc",
+            "set": "voc",
+            "set_name": "Crimson Vow Commander",
+            "set_type": "commander",
+            "set_uri": "https://api.scryfall.com/sets/b2e444f7-41e6-4172-ba01-47d91d5e7bbc",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Avoc&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/voc?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/65254343-8b47-49b9-8834-b71bd11f4ab7/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7a2484a9-04fd-41a0-8224-610c1c07ed10&unique=prints",
+            "collector_number": "143",
+            "digital": false,
+            "rarity": "rare",
+            "flavor_text": "\"Holy places are no longer sanctuary from death, and death is no longer sanctuary from anything.\"\n\u2014Thalia, Knight-Cathar",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Daarken",
+            "artist_ids": [
+                "e607a0d4-fc12-4c01-9e3f-501f5269b9cb"
+            ],
+            "illustration_id": "6ea08730-d12d-445f-b31f-8f55374f194d",
+            "border_color": "black",
+            "frame": "2015",
+            "security_stamp": "oval",
+            "full_art": false,
+            "textless": false,
+            "booster": false,
+            "story_spotlight": false,
+            "edhrec_rank": 26,
+            "penny_rank": 2362,
+            "prices": {
+                "usd": "2.41",
+                "usd_foil": null,
+                "usd_etched": null,
+                "eur": "2.26",
+                "eur_foil": null,
+                "tix": null
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=545763&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "edhrec": "https://edhrec.com/route/?cc=Blasphemous+Act"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F254242%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Commander-Innistrad-Crimson-Vow/Blasphemous-Act?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Blasphemous+Act&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "827bc177-e0d4-4607-97f6-18bb40d16ec8",
+            "oracle_id": "7a2484a9-04fd-41a0-8224-610c1c07ed10",
+            "multiverse_ids": [
+                519194
+            ],
+            "mtgo_id": 89419,
+            "tcgplayer_id": 236194,
+            "cardmarket_id": 558782,
+            "name": "Blasphemous Act",
+            "lang": "en",
+            "released_at": "2021-04-23",
+            "uri": "https://api.scryfall.com/cards/827bc177-e0d4-4607-97f6-18bb40d16ec8",
+            "scryfall_uri": "https://scryfall.com/card/c21/159/blasphemous-act?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/8/2/827bc177-e0d4-4607-97f6-18bb40d16ec8.jpg?1625193528",
+                "normal": "https://cards.scryfall.io/normal/front/8/2/827bc177-e0d4-4607-97f6-18bb40d16ec8.jpg?1625193528",
+                "large": "https://cards.scryfall.io/large/front/8/2/827bc177-e0d4-4607-97f6-18bb40d16ec8.jpg?1625193528",
+                "png": "https://cards.scryfall.io/png/front/8/2/827bc177-e0d4-4607-97f6-18bb40d16ec8.png?1625193528",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/8/2/827bc177-e0d4-4607-97f6-18bb40d16ec8.jpg?1625193528",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/8/2/827bc177-e0d4-4607-97f6-18bb40d16ec8.jpg?1625193528"
+            },
+            "mana_cost": "{8}{R}",
+            "cmc": 9.0,
+            "type_line": "Sorcery",
+            "oracle_text": "This spell costs {1} less to cast for each creature on the battlefield.\nBlasphemous Act deals 13 damage to each creature.",
+            "colors": [
+                "R"
+            ],
+            "color_identity": [
+                "R"
+            ],
+            "keywords": [],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "not_legal",
+                "timeless": "not_legal",
+                "gladiator": "not_legal",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "not_legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "not_legal",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "not_legal"
+            },
+            "games": [
+                "paper",
+                "mtgo"
+            ],
+            "reserved": false,
+            "foil": false,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "27bf6dbd-a9e1-4904-afa7-d28fc7745c4f",
+            "set": "c21",
+            "set_name": "Commander 2021",
+            "set_type": "commander",
+            "set_uri": "https://api.scryfall.com/sets/27bf6dbd-a9e1-4904-afa7-d28fc7745c4f",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ac21&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/c21?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/827bc177-e0d4-4607-97f6-18bb40d16ec8/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7a2484a9-04fd-41a0-8224-610c1c07ed10&unique=prints",
+            "collector_number": "159",
+            "digital": false,
+            "rarity": "rare",
+            "flavor_text": "\"Holy places are no longer sanctuary from death, and death is no longer sanctuary from anything.\"\n\u2014Thalia, Knight-Cathar",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Daarken",
+            "artist_ids": [
+                "e607a0d4-fc12-4c01-9e3f-501f5269b9cb"
+            ],
+            "illustration_id": "6ea08730-d12d-445f-b31f-8f55374f194d",
+            "border_color": "black",
+            "frame": "2015",
+            "security_stamp": "oval",
+            "full_art": false,
+            "textless": false,
+            "booster": false,
+            "story_spotlight": false,
+            "edhrec_rank": 26,
+            "penny_rank": 2362,
+            "prices": {
+                "usd": "2.13",
+                "usd_foil": null,
+                "usd_etched": null,
+                "eur": "2.11",
+                "eur_foil": null,
+                "tix": null
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=519194&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "edhrec": "https://edhrec.com/route/?cc=Blasphemous+Act"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F236194%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Commander-Strixhaven/Blasphemous-Act?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards/89419?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "40e1ef14-cb26-486e-9b54-0b532f5b7435",
+            "oracle_id": "7a2484a9-04fd-41a0-8224-610c1c07ed10",
+            "multiverse_ids": [
+                497682
+            ],
+            "mtgo_id": 85106,
+            "tcgplayer_id": 226866,
+            "cardmarket_id": 511125,
+            "name": "Blasphemous Act",
+            "lang": "en",
+            "released_at": "2020-11-20",
+            "uri": "https://api.scryfall.com/cards/40e1ef14-cb26-486e-9b54-0b532f5b7435",
+            "scryfall_uri": "https://scryfall.com/card/cmr/162/blasphemous-act?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/4/0/40e1ef14-cb26-486e-9b54-0b532f5b7435.jpg?1608910060",
+                "normal": "https://cards.scryfall.io/normal/front/4/0/40e1ef14-cb26-486e-9b54-0b532f5b7435.jpg?1608910060",
+                "large": "https://cards.scryfall.io/large/front/4/0/40e1ef14-cb26-486e-9b54-0b532f5b7435.jpg?1608910060",
+                "png": "https://cards.scryfall.io/png/front/4/0/40e1ef14-cb26-486e-9b54-0b532f5b7435.png?1608910060",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/4/0/40e1ef14-cb26-486e-9b54-0b532f5b7435.jpg?1608910060",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/4/0/40e1ef14-cb26-486e-9b54-0b532f5b7435.jpg?1608910060"
+            },
+            "mana_cost": "{8}{R}",
+            "cmc": 9.0,
+            "type_line": "Sorcery",
+            "oracle_text": "This spell costs {1} less to cast for each creature on the battlefield.\nBlasphemous Act deals 13 damage to each creature.",
+            "colors": [
+                "R"
+            ],
+            "color_identity": [
+                "R"
+            ],
+            "keywords": [],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "not_legal",
+                "timeless": "not_legal",
+                "gladiator": "not_legal",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "not_legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "not_legal",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "not_legal"
+            },
+            "games": [
+                "paper",
+                "mtgo"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil",
+                "foil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "39de6fbf-1f11-48d0-8f04-f0407f6a0732",
+            "set": "cmr",
+            "set_name": "Commander Legends",
+            "set_type": "draft_innovation",
+            "set_uri": "https://api.scryfall.com/sets/39de6fbf-1f11-48d0-8f04-f0407f6a0732",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acmr&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/cmr?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/40e1ef14-cb26-486e-9b54-0b532f5b7435/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7a2484a9-04fd-41a0-8224-610c1c07ed10&unique=prints",
+            "collector_number": "162",
+            "digital": false,
+            "rarity": "rare",
+            "flavor_text": "\"Holy places are no longer sanctuary from death, and death is no longer sanctuary from anything.\"\n\u2014Thalia, Knight-Cathar",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Daarken",
+            "artist_ids": [
+                "e607a0d4-fc12-4c01-9e3f-501f5269b9cb"
+            ],
+            "illustration_id": "6ea08730-d12d-445f-b31f-8f55374f194d",
+            "border_color": "black",
+            "frame": "2015",
+            "security_stamp": "oval",
+            "full_art": false,
+            "textless": false,
+            "booster": true,
+            "story_spotlight": false,
+            "edhrec_rank": 26,
+            "penny_rank": 2362,
+            "preview": {
+                "source": "Pinnoel",
+                "source_uri": "https://www.twitch.tv/videos/787632456",
+                "previewed_at": "2020-10-31"
+            },
+            "prices": {
+                "usd": "2.34",
+                "usd_foil": "2.16",
+                "usd_etched": null,
+                "eur": "1.84",
+                "eur_foil": "3.46",
+                "tix": "0.03"
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=497682&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "edhrec": "https://edhrec.com/route/?cc=Blasphemous+Act"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F226866%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Commander-Legends/Blasphemous-Act?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards/85106?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "fff02fcd-241e-4a3e-a0d0-5adc90e7d0db",
+            "oracle_id": "7a2484a9-04fd-41a0-8224-610c1c07ed10",
+            "multiverse_ids": [
+                489790
+            ],
+            "mtgo_id": 82268,
+            "tcgplayer_id": 218595,
+            "cardmarket_id": 484034,
+            "name": "Blasphemous Act",
+            "lang": "en",
+            "released_at": "2020-08-07",
+            "uri": "https://api.scryfall.com/cards/fff02fcd-241e-4a3e-a0d0-5adc90e7d0db",
+            "scryfall_uri": "https://scryfall.com/card/2xm/117/blasphemous-act?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/f/f/fff02fcd-241e-4a3e-a0d0-5adc90e7d0db.jpg?1599706202",
+                "normal": "https://cards.scryfall.io/normal/front/f/f/fff02fcd-241e-4a3e-a0d0-5adc90e7d0db.jpg?1599706202",
+                "large": "https://cards.scryfall.io/large/front/f/f/fff02fcd-241e-4a3e-a0d0-5adc90e7d0db.jpg?1599706202",
+                "png": "https://cards.scryfall.io/png/front/f/f/fff02fcd-241e-4a3e-a0d0-5adc90e7d0db.png?1599706202",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/f/f/fff02fcd-241e-4a3e-a0d0-5adc90e7d0db.jpg?1599706202",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/f/f/fff02fcd-241e-4a3e-a0d0-5adc90e7d0db.jpg?1599706202"
+            },
+            "mana_cost": "{8}{R}",
+            "cmc": 9.0,
+            "type_line": "Sorcery",
+            "oracle_text": "This spell costs {1} less to cast for each creature on the battlefield.\nBlasphemous Act deals 13 damage to each creature.",
+            "colors": [
+                "R"
+            ],
+            "color_identity": [
+                "R"
+            ],
+            "keywords": [],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "not_legal",
+                "timeless": "not_legal",
+                "gladiator": "not_legal",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "not_legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "not_legal",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "not_legal"
+            },
+            "games": [
+                "paper",
+                "mtgo"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil",
+                "foil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "372dafe8-b5d1-4b81-998f-3ae96b59498a",
+            "set": "2xm",
+            "set_name": "Double Masters",
+            "set_type": "masters",
+            "set_uri": "https://api.scryfall.com/sets/372dafe8-b5d1-4b81-998f-3ae96b59498a",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3A2xm&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/2xm?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/fff02fcd-241e-4a3e-a0d0-5adc90e7d0db/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7a2484a9-04fd-41a0-8224-610c1c07ed10&unique=prints",
+            "collector_number": "117",
+            "digital": false,
+            "rarity": "rare",
+            "flavor_text": "\"Holy places are no longer sanctuary from death, and death is no longer sanctuary from anything.\"\n\u2014Thalia, Knight-Cathar",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Daarken",
+            "artist_ids": [
+                "e607a0d4-fc12-4c01-9e3f-501f5269b9cb"
+            ],
+            "illustration_id": "6ea08730-d12d-445f-b31f-8f55374f194d",
+            "border_color": "black",
+            "frame": "2015",
+            "security_stamp": "oval",
+            "full_art": false,
+            "textless": false,
+            "booster": true,
+            "story_spotlight": false,
+            "edhrec_rank": 26,
+            "penny_rank": 2362,
+            "preview": {
+                "source": "Becca Scott",
+                "source_uri": "https://twitter.com/thebeccascott/status/1286050509229498368",
+                "previewed_at": "2020-07-22"
+            },
+            "prices": {
+                "usd": "2.30",
+                "usd_foil": "3.47",
+                "usd_etched": null,
+                "eur": "2.42",
+                "eur_foil": "3.87",
+                "tix": "0.03"
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=489790&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "edhrec": "https://edhrec.com/route/?cc=Blasphemous+Act"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F218595%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Double-Masters/Blasphemous-Act?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards/82268?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "a09bb94a-1e47-43e7-a7e8-627c10cf8c1f",
+            "oracle_id": "7a2484a9-04fd-41a0-8224-610c1c07ed10",
+            "multiverse_ids": [
+                451075
+            ],
+            "tcgplayer_id": 171108,
+            "cardmarket_id": 362021,
+            "name": "Blasphemous Act",
+            "lang": "en",
+            "released_at": "2018-08-09",
+            "uri": "https://api.scryfall.com/cards/a09bb94a-1e47-43e7-a7e8-627c10cf8c1f",
+            "scryfall_uri": "https://scryfall.com/card/c18/120/blasphemous-act?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/a/0/a09bb94a-1e47-43e7-a7e8-627c10cf8c1f.jpg?1592710745",
+                "normal": "https://cards.scryfall.io/normal/front/a/0/a09bb94a-1e47-43e7-a7e8-627c10cf8c1f.jpg?1592710745",
+                "large": "https://cards.scryfall.io/large/front/a/0/a09bb94a-1e47-43e7-a7e8-627c10cf8c1f.jpg?1592710745",
+                "png": "https://cards.scryfall.io/png/front/a/0/a09bb94a-1e47-43e7-a7e8-627c10cf8c1f.png?1592710745",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/a/0/a09bb94a-1e47-43e7-a7e8-627c10cf8c1f.jpg?1592710745",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/a/0/a09bb94a-1e47-43e7-a7e8-627c10cf8c1f.jpg?1592710745"
+            },
+            "mana_cost": "{8}{R}",
+            "cmc": 9.0,
+            "type_line": "Sorcery",
+            "oracle_text": "This spell costs {1} less to cast for each creature on the battlefield.\nBlasphemous Act deals 13 damage to each creature.",
+            "colors": [
+                "R"
+            ],
+            "color_identity": [
+                "R"
+            ],
+            "keywords": [],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "not_legal",
+                "timeless": "not_legal",
+                "gladiator": "not_legal",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "not_legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "not_legal",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "not_legal"
+            },
+            "games": [
+                "paper"
+            ],
+            "reserved": false,
+            "foil": false,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "06ce6bc2-85cd-4cca-85b1-8c620d3e0902",
+            "set": "c18",
+            "set_name": "Commander 2018",
+            "set_type": "commander",
+            "set_uri": "https://api.scryfall.com/sets/06ce6bc2-85cd-4cca-85b1-8c620d3e0902",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ac18&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/c18?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/a09bb94a-1e47-43e7-a7e8-627c10cf8c1f/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7a2484a9-04fd-41a0-8224-610c1c07ed10&unique=prints",
+            "collector_number": "120",
+            "digital": false,
+            "rarity": "rare",
+            "flavor_text": "\"Holy places are no longer sanctuary from death, and death is no longer sanctuary from anything.\"\n\u2014Thalia, Knight-Cathar",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Daarken",
+            "artist_ids": [
+                "e607a0d4-fc12-4c01-9e3f-501f5269b9cb"
+            ],
+            "illustration_id": "6ea08730-d12d-445f-b31f-8f55374f194d",
+            "border_color": "black",
+            "frame": "2015",
+            "security_stamp": "oval",
+            "full_art": false,
+            "textless": false,
+            "booster": false,
+            "story_spotlight": false,
+            "edhrec_rank": 26,
+            "penny_rank": 2362,
+            "prices": {
+                "usd": "2.09",
+                "usd_foil": null,
+                "usd_etched": null,
+                "eur": "2.02",
+                "eur_foil": null,
+                "tix": null
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451075&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "edhrec": "https://edhrec.com/route/?cc=Blasphemous+Act"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F171108%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Commander-2018/Blasphemous-Act?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Blasphemous+Act&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "fc048207-502a-478c-9195-5e20382652af",
+            "oracle_id": "7a2484a9-04fd-41a0-8224-610c1c07ed10",
+            "multiverse_ids": [
+                446821
+            ],
+            "tcgplayer_id": 166737,
+            "cardmarket_id": 358738,
+            "name": "Blasphemous Act",
+            "lang": "en",
+            "released_at": "2018-06-08",
+            "uri": "https://api.scryfall.com/cards/fc048207-502a-478c-9195-5e20382652af",
+            "scryfall_uri": "https://scryfall.com/card/cm2/85/blasphemous-act?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/f/c/fc048207-502a-478c-9195-5e20382652af.jpg?1562276571",
+                "normal": "https://cards.scryfall.io/normal/front/f/c/fc048207-502a-478c-9195-5e20382652af.jpg?1562276571",
+                "large": "https://cards.scryfall.io/large/front/f/c/fc048207-502a-478c-9195-5e20382652af.jpg?1562276571",
+                "png": "https://cards.scryfall.io/png/front/f/c/fc048207-502a-478c-9195-5e20382652af.png?1562276571",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/f/c/fc048207-502a-478c-9195-5e20382652af.jpg?1562276571",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/f/c/fc048207-502a-478c-9195-5e20382652af.jpg?1562276571"
+            },
+            "mana_cost": "{8}{R}",
+            "cmc": 9.0,
+            "type_line": "Sorcery",
+            "oracle_text": "This spell costs {1} less to cast for each creature on the battlefield.\nBlasphemous Act deals 13 damage to each creature.",
+            "colors": [
+                "R"
+            ],
+            "color_identity": [
+                "R"
+            ],
+            "keywords": [],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "not_legal",
+                "timeless": "not_legal",
+                "gladiator": "not_legal",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "not_legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "not_legal",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "not_legal"
+            },
+            "games": [
+                "paper"
+            ],
+            "reserved": false,
+            "foil": false,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "2ba5b1a3-40ed-422e-981d-56753004dfc6",
+            "set": "cm2",
+            "set_name": "Commander Anthology Volume II",
+            "set_type": "commander",
+            "set_uri": "https://api.scryfall.com/sets/2ba5b1a3-40ed-422e-981d-56753004dfc6",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acm2&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/cm2?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/fc048207-502a-478c-9195-5e20382652af/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7a2484a9-04fd-41a0-8224-610c1c07ed10&unique=prints",
+            "collector_number": "85",
+            "digital": false,
+            "rarity": "rare",
+            "flavor_text": "\"Holy places are no longer sanctuary from death, and death is no longer sanctuary from anything.\"\n\u2014Thalia, Knight-Cathar",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Daarken",
+            "artist_ids": [
+                "e607a0d4-fc12-4c01-9e3f-501f5269b9cb"
+            ],
+            "illustration_id": "6ea08730-d12d-445f-b31f-8f55374f194d",
+            "border_color": "black",
+            "frame": "2015",
+            "security_stamp": "oval",
+            "full_art": false,
+            "textless": false,
+            "booster": false,
+            "story_spotlight": false,
+            "edhrec_rank": 26,
+            "penny_rank": 2362,
+            "prices": {
+                "usd": "2.25",
+                "usd_foil": null,
+                "usd_etched": null,
+                "eur": "2.00",
+                "eur_foil": null,
+                "tix": null
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446821&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "edhrec": "https://edhrec.com/route/?cc=Blasphemous+Act"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F166737%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Commander-Anthology-II/Blasphemous-Act?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Blasphemous+Act&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "4412df00-abfd-4e8f-882d-4566eaa74ee4",
+            "oracle_id": "7a2484a9-04fd-41a0-8224-610c1c07ed10",
+            "multiverse_ids": [
+                420737
+            ],
+            "tcgplayer_id": 124405,
+            "cardmarket_id": 293617,
+            "name": "Blasphemous Act",
+            "lang": "en",
+            "released_at": "2016-11-11",
+            "uri": "https://api.scryfall.com/cards/4412df00-abfd-4e8f-882d-4566eaa74ee4",
+            "scryfall_uri": "https://scryfall.com/card/c16/120/blasphemous-act?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/4/4/4412df00-abfd-4e8f-882d-4566eaa74ee4.jpg?1562397501",
+                "normal": "https://cards.scryfall.io/normal/front/4/4/4412df00-abfd-4e8f-882d-4566eaa74ee4.jpg?1562397501",
+                "large": "https://cards.scryfall.io/large/front/4/4/4412df00-abfd-4e8f-882d-4566eaa74ee4.jpg?1562397501",
+                "png": "https://cards.scryfall.io/png/front/4/4/4412df00-abfd-4e8f-882d-4566eaa74ee4.png?1562397501",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/4/4/4412df00-abfd-4e8f-882d-4566eaa74ee4.jpg?1562397501",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/4/4/4412df00-abfd-4e8f-882d-4566eaa74ee4.jpg?1562397501"
+            },
+            "mana_cost": "{8}{R}",
+            "cmc": 9.0,
+            "type_line": "Sorcery",
+            "oracle_text": "This spell costs {1} less to cast for each creature on the battlefield.\nBlasphemous Act deals 13 damage to each creature.",
+            "colors": [
+                "R"
+            ],
+            "color_identity": [
+                "R"
+            ],
+            "keywords": [],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "not_legal",
+                "timeless": "not_legal",
+                "gladiator": "not_legal",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "not_legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "not_legal",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "not_legal"
+            },
+            "games": [
+                "paper"
+            ],
+            "reserved": false,
+            "foil": false,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "3e0d713a-b5cb-4287-81b9-a57d4dcaf415",
+            "set": "c16",
+            "set_name": "Commander 2016",
+            "set_type": "commander",
+            "set_uri": "https://api.scryfall.com/sets/3e0d713a-b5cb-4287-81b9-a57d4dcaf415",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ac16&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/c16?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/4412df00-abfd-4e8f-882d-4566eaa74ee4/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7a2484a9-04fd-41a0-8224-610c1c07ed10&unique=prints",
+            "collector_number": "120",
+            "digital": false,
+            "rarity": "rare",
+            "flavor_text": "\"Holy places are no longer sanctuary from death, and death is no longer sanctuary from anything.\"\n\u2014Thalia, Knight-Cathar",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Daarken",
+            "artist_ids": [
+                "e607a0d4-fc12-4c01-9e3f-501f5269b9cb"
+            ],
+            "illustration_id": "6ea08730-d12d-445f-b31f-8f55374f194d",
+            "border_color": "black",
+            "frame": "2015",
+            "security_stamp": "oval",
+            "full_art": false,
+            "textless": false,
+            "booster": false,
+            "story_spotlight": false,
+            "edhrec_rank": 26,
+            "penny_rank": 2362,
+            "prices": {
+                "usd": "2.13",
+                "usd_foil": null,
+                "usd_etched": null,
+                "eur": "2.08",
+                "eur_foil": null,
+                "tix": null
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420737&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "edhrec": "https://edhrec.com/route/?cc=Blasphemous+Act"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F124405%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Commander-2016/Blasphemous-Act?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Blasphemous+Act&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "bd26e2f4-42d3-4d4c-912e-8c4a7388106d",
+            "oracle_id": "7a2484a9-04fd-41a0-8224-610c1c07ed10",
+            "multiverse_ids": [
+                389443
+            ],
+            "mtgo_id": 54961,
+            "mtgo_foil_id": 54962,
+            "tcgplayer_id": 94334,
+            "cardmarket_id": 270631,
+            "name": "Blasphemous Act",
+            "lang": "en",
+            "released_at": "2014-11-07",
+            "uri": "https://api.scryfall.com/cards/bd26e2f4-42d3-4d4c-912e-8c4a7388106d",
+            "scryfall_uri": "https://scryfall.com/card/c14/172/blasphemous-act?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/b/d/bd26e2f4-42d3-4d4c-912e-8c4a7388106d.jpg?1561957037",
+                "normal": "https://cards.scryfall.io/normal/front/b/d/bd26e2f4-42d3-4d4c-912e-8c4a7388106d.jpg?1561957037",
+                "large": "https://cards.scryfall.io/large/front/b/d/bd26e2f4-42d3-4d4c-912e-8c4a7388106d.jpg?1561957037",
+                "png": "https://cards.scryfall.io/png/front/b/d/bd26e2f4-42d3-4d4c-912e-8c4a7388106d.png?1561957037",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/b/d/bd26e2f4-42d3-4d4c-912e-8c4a7388106d.jpg?1561957037",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/b/d/bd26e2f4-42d3-4d4c-912e-8c4a7388106d.jpg?1561957037"
+            },
+            "mana_cost": "{8}{R}",
+            "cmc": 9.0,
+            "type_line": "Sorcery",
+            "oracle_text": "This spell costs {1} less to cast for each creature on the battlefield.\nBlasphemous Act deals 13 damage to each creature.",
+            "colors": [
+                "R"
+            ],
+            "color_identity": [
+                "R"
+            ],
+            "keywords": [],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "not_legal",
+                "timeless": "not_legal",
+                "gladiator": "not_legal",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "not_legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "not_legal",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "not_legal"
+            },
+            "games": [
+                "paper",
+                "mtgo"
+            ],
+            "reserved": false,
+            "foil": false,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "0980a6e2-eb78-4ad2-8396-cef08fce365e",
+            "set": "c14",
+            "set_name": "Commander 2014",
+            "set_type": "commander",
+            "set_uri": "https://api.scryfall.com/sets/0980a6e2-eb78-4ad2-8396-cef08fce365e",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ac14&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/c14?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/bd26e2f4-42d3-4d4c-912e-8c4a7388106d/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7a2484a9-04fd-41a0-8224-610c1c07ed10&unique=prints",
+            "collector_number": "172",
+            "digital": false,
+            "rarity": "rare",
+            "flavor_text": "\"Holy places are no longer sanctuary from death, and death is no longer sanctuary from anything.\"\n\u2014Thalia, Knight-Cathar",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Daarken",
+            "artist_ids": [
+                "e607a0d4-fc12-4c01-9e3f-501f5269b9cb"
+            ],
+            "illustration_id": "6ea08730-d12d-445f-b31f-8f55374f194d",
+            "border_color": "black",
+            "frame": "2015",
+            "security_stamp": "oval",
+            "full_art": false,
+            "textless": false,
+            "booster": false,
+            "story_spotlight": false,
+            "edhrec_rank": 26,
+            "penny_rank": 2362,
+            "prices": {
+                "usd": "2.08",
+                "usd_foil": null,
+                "usd_etched": null,
+                "eur": "2.12",
+                "eur_foil": null,
+                "tix": "0.14"
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389443&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "edhrec": "https://edhrec.com/route/?cc=Blasphemous+Act"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F94334%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Commander-2014/Blasphemous-Act?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards/54961?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "509ce648-fb76-486d-8b39-183e368b7cb7",
+            "oracle_id": "7a2484a9-04fd-41a0-8224-610c1c07ed10",
+            "multiverse_ids": [
+                222206
+            ],
+            "mtgo_id": 42410,
+            "mtgo_foil_id": 42411,
+            "tcgplayer_id": 55902,
+            "cardmarket_id": 250579,
+            "name": "Blasphemous Act",
+            "lang": "en",
+            "released_at": "2011-09-30",
+            "uri": "https://api.scryfall.com/cards/509ce648-fb76-486d-8b39-183e368b7cb7",
+            "scryfall_uri": "https://scryfall.com/card/isd/130/blasphemous-act?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/5/0/509ce648-fb76-486d-8b39-183e368b7cb7.jpg?1562830111",
+                "normal": "https://cards.scryfall.io/normal/front/5/0/509ce648-fb76-486d-8b39-183e368b7cb7.jpg?1562830111",
+                "large": "https://cards.scryfall.io/large/front/5/0/509ce648-fb76-486d-8b39-183e368b7cb7.jpg?1562830111",
+                "png": "https://cards.scryfall.io/png/front/5/0/509ce648-fb76-486d-8b39-183e368b7cb7.png?1562830111",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/5/0/509ce648-fb76-486d-8b39-183e368b7cb7.jpg?1562830111",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/5/0/509ce648-fb76-486d-8b39-183e368b7cb7.jpg?1562830111"
+            },
+            "mana_cost": "{8}{R}",
+            "cmc": 9.0,
+            "type_line": "Sorcery",
+            "oracle_text": "This spell costs {1} less to cast for each creature on the battlefield.\nBlasphemous Act deals 13 damage to each creature.",
+            "colors": [
+                "R"
+            ],
+            "color_identity": [
+                "R"
+            ],
+            "keywords": [],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "not_legal",
+                "timeless": "not_legal",
+                "gladiator": "not_legal",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "not_legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "not_legal",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "not_legal"
+            },
+            "games": [
+                "paper",
+                "mtgo"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil",
+                "foil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": false,
+            "variation": false,
+            "set_id": "d1026945-2969-42b9-be53-f941405a58cb",
+            "set": "isd",
+            "set_name": "Innistrad",
+            "set_type": "expansion",
+            "set_uri": "https://api.scryfall.com/sets/d1026945-2969-42b9-be53-f941405a58cb",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aisd&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/isd?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/509ce648-fb76-486d-8b39-183e368b7cb7/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7a2484a9-04fd-41a0-8224-610c1c07ed10&unique=prints",
+            "collector_number": "130",
+            "digital": false,
+            "rarity": "rare",
+            "flavor_text": "\"Holy places are no longer sanctuary from death, and death is no longer sanctuary from anything.\"\n\u2014Thalia, Knight-Cathar",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Daarken",
+            "artist_ids": [
+                "e607a0d4-fc12-4c01-9e3f-501f5269b9cb"
+            ],
+            "illustration_id": "6ea08730-d12d-445f-b31f-8f55374f194d",
+            "border_color": "black",
+            "frame": "2003",
+            "full_art": false,
+            "textless": false,
+            "booster": true,
+            "story_spotlight": false,
+            "edhrec_rank": 26,
+            "penny_rank": 2362,
+            "prices": {
+                "usd": "2.14",
+                "usd_foil": "9.40",
+                "usd_etched": null,
+                "eur": "1.65",
+                "eur_foil": "6.86",
+                "tix": "0.02"
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=222206&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "edhrec": "https://edhrec.com/route/?cc=Blasphemous+Act"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F55902%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Innistrad/Blasphemous-Act?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards/42410?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "de9c16b7-63c2-4071-9117-184cb1a04f14",
+            "oracle_id": "7a2484a9-04fd-41a0-8224-610c1c07ed10",
+            "multiverse_ids": [
+                653151
+            ],
+            "tcgplayer_id": 539397,
+            "cardmarket_id": 757709,
+            "name": "Blasphemous Act",
+            "lang": "en",
+            "released_at": "2024-03-08",
+            "uri": "https://api.scryfall.com/cards/de9c16b7-63c2-4071-9117-184cb1a04f14",
+            "scryfall_uri": "https://scryfall.com/card/pip/188/blasphemous-act?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/d/e/de9c16b7-63c2-4071-9117-184cb1a04f14.jpg?1708742959",
+                "normal": "https://cards.scryfall.io/normal/front/d/e/de9c16b7-63c2-4071-9117-184cb1a04f14.jpg?1708742959",
+                "large": "https://cards.scryfall.io/large/front/d/e/de9c16b7-63c2-4071-9117-184cb1a04f14.jpg?1708742959",
+                "png": "https://cards.scryfall.io/png/front/d/e/de9c16b7-63c2-4071-9117-184cb1a04f14.png?1708742959",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/d/e/de9c16b7-63c2-4071-9117-184cb1a04f14.jpg?1708742959",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/d/e/de9c16b7-63c2-4071-9117-184cb1a04f14.jpg?1708742959"
+            },
+            "mana_cost": "{8}{R}",
+            "cmc": 9.0,
+            "type_line": "Sorcery",
+            "oracle_text": "This spell costs {1} less to cast for each creature on the battlefield.\nBlasphemous Act deals 13 damage to each creature.",
+            "colors": [
+                "R"
+            ],
+            "color_identity": [
+                "R"
+            ],
+            "keywords": [],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "not_legal",
+                "timeless": "not_legal",
+                "gladiator": "not_legal",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "not_legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "not_legal",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "not_legal"
+            },
+            "games": [
+                "paper"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil",
+                "foil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "d84d7a49-2ef4-4808-83b4-8c65b4aa0e2d",
+            "set": "pip",
+            "set_name": "Fallout",
+            "set_type": "commander",
+            "set_uri": "https://api.scryfall.com/sets/d84d7a49-2ef4-4808-83b4-8c65b4aa0e2d",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apip&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/pip?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/de9c16b7-63c2-4071-9117-184cb1a04f14/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7a2484a9-04fd-41a0-8224-610c1c07ed10&unique=prints",
+            "collector_number": "188",
+            "digital": false,
+            "rarity": "rare",
+            "flavor_text": "Everyone knew the bombs were coming. Everyone but the public.",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Chris Cold",
+            "artist_ids": [
+                "2622d22b-3fd8-4831-9b2b-adc5fac01b85"
+            ],
+            "illustration_id": "bc8e2662-7d47-449a-87f6-b43b60059193",
+            "border_color": "black",
+            "frame": "2015",
+            "security_stamp": "triangle",
+            "full_art": false,
+            "textless": false,
+            "booster": false,
+            "story_spotlight": false,
+            "promo_types": [
+                "boosterfun"
+            ],
+            "edhrec_rank": 26,
+            "penny_rank": 2362,
+            "preview": {
+                "source": "ChannelFireball",
+                "source_uri": "https://twitter.com/ChannelFireball/status/1760046729540333666",
+                "previewed_at": "2024-02-20"
+            },
+            "prices": {
+                "usd": "2.24",
+                "usd_foil": "4.58",
+                "usd_etched": null,
+                "eur": "2.24",
+                "eur_foil": "2.85",
+                "tix": null
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=653151&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "edhrec": "https://edhrec.com/route/?cc=Blasphemous+Act"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F539397%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Universes-Beyond-Fallout/Blasphemous-Act?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Blasphemous+Act&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "f1dab546-6392-40cd-bcdd-14952b458e5e",
+            "oracle_id": "7a2484a9-04fd-41a0-8224-610c1c07ed10",
+            "multiverse_ids": [
+                654680
+            ],
+            "tcgplayer_id": 539611,
+            "name": "Blasphemous Act",
+            "lang": "en",
+            "released_at": "2024-03-08",
+            "uri": "https://api.scryfall.com/cards/f1dab546-6392-40cd-bcdd-14952b458e5e",
+            "scryfall_uri": "https://scryfall.com/card/pip/465/blasphemous-act?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/f/1/f1dab546-6392-40cd-bcdd-14952b458e5e.jpg?1708744138",
+                "normal": "https://cards.scryfall.io/normal/front/f/1/f1dab546-6392-40cd-bcdd-14952b458e5e.jpg?1708744138",
+                "large": "https://cards.scryfall.io/large/front/f/1/f1dab546-6392-40cd-bcdd-14952b458e5e.jpg?1708744138",
+                "png": "https://cards.scryfall.io/png/front/f/1/f1dab546-6392-40cd-bcdd-14952b458e5e.png?1708744138",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/f/1/f1dab546-6392-40cd-bcdd-14952b458e5e.jpg?1708744138",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/f/1/f1dab546-6392-40cd-bcdd-14952b458e5e.jpg?1708744138"
+            },
+            "mana_cost": "{8}{R}",
+            "cmc": 9.0,
+            "type_line": "Sorcery",
+            "oracle_text": "This spell costs {1} less to cast for each creature on the battlefield.\nBlasphemous Act deals 13 damage to each creature.",
+            "colors": [
+                "R"
+            ],
+            "color_identity": [
+                "R"
+            ],
+            "keywords": [],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "not_legal",
+                "timeless": "not_legal",
+                "gladiator": "not_legal",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "not_legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "not_legal",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "not_legal"
+            },
+            "games": [
+                "paper"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil",
+                "foil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "d84d7a49-2ef4-4808-83b4-8c65b4aa0e2d",
+            "set": "pip",
+            "set_name": "Fallout",
+            "set_type": "commander",
+            "set_uri": "https://api.scryfall.com/sets/d84d7a49-2ef4-4808-83b4-8c65b4aa0e2d",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apip&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/pip?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/f1dab546-6392-40cd-bcdd-14952b458e5e/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7a2484a9-04fd-41a0-8224-610c1c07ed10&unique=prints",
+            "collector_number": "465",
+            "digital": false,
+            "rarity": "rare",
+            "flavor_text": "Everyone knew the bombs were coming. Everyone but the public.",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Chris Cold",
+            "artist_ids": [
+                "2622d22b-3fd8-4831-9b2b-adc5fac01b85"
+            ],
+            "illustration_id": "bc8e2662-7d47-449a-87f6-b43b60059193",
+            "border_color": "black",
+            "frame": "2015",
+            "frame_effects": [
+                "extendedart"
+            ],
+            "security_stamp": "triangle",
+            "full_art": false,
+            "textless": false,
+            "booster": false,
+            "story_spotlight": false,
+            "promo_types": [
+                "boosterfun"
+            ],
+            "edhrec_rank": 26,
+            "penny_rank": 2362,
+            "prices": {
+                "usd": "4.23",
+                "usd_foil": "3.35",
+                "usd_etched": null,
+                "eur": null,
+                "eur_foil": null,
+                "tix": null
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=654680&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "edhrec": "https://edhrec.com/route/?cc=Blasphemous+Act"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F539611%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Blasphemous+Act&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Blasphemous+Act&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "3e821a9f-6e5a-4314-82e7-8009d9aef1be",
+            "oracle_id": "7a2484a9-04fd-41a0-8224-610c1c07ed10",
+            "multiverse_ids": [],
+            "tcgplayer_id": 539612,
+            "name": "Blasphemous Act",
+            "lang": "en",
+            "released_at": "2024-03-08",
+            "uri": "https://api.scryfall.com/cards/3e821a9f-6e5a-4314-82e7-8009d9aef1be",
+            "scryfall_uri": "https://scryfall.com/card/pip/716/blasphemous-act?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/3/e/3e821a9f-6e5a-4314-82e7-8009d9aef1be.jpg?1708745112",
+                "normal": "https://cards.scryfall.io/normal/front/3/e/3e821a9f-6e5a-4314-82e7-8009d9aef1be.jpg?1708745112",
+                "large": "https://cards.scryfall.io/large/front/3/e/3e821a9f-6e5a-4314-82e7-8009d9aef1be.jpg?1708745112",
+                "png": "https://cards.scryfall.io/png/front/3/e/3e821a9f-6e5a-4314-82e7-8009d9aef1be.png?1708745112",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/3/e/3e821a9f-6e5a-4314-82e7-8009d9aef1be.jpg?1708745112",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/3/e/3e821a9f-6e5a-4314-82e7-8009d9aef1be.jpg?1708745112"
+            },
+            "mana_cost": "{8}{R}",
+            "cmc": 9.0,
+            "type_line": "Sorcery",
+            "oracle_text": "This spell costs {1} less to cast for each creature on the battlefield.\nBlasphemous Act deals 13 damage to each creature.",
+            "colors": [
+                "R"
+            ],
+            "color_identity": [
+                "R"
+            ],
+            "keywords": [],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "not_legal",
+                "timeless": "not_legal",
+                "gladiator": "not_legal",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "not_legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "not_legal",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "not_legal"
+            },
+            "games": [
+                "paper"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": false,
+            "finishes": [
+                "foil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "d84d7a49-2ef4-4808-83b4-8c65b4aa0e2d",
+            "set": "pip",
+            "set_name": "Fallout",
+            "set_type": "commander",
+            "set_uri": "https://api.scryfall.com/sets/d84d7a49-2ef4-4808-83b4-8c65b4aa0e2d",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apip&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/pip?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/3e821a9f-6e5a-4314-82e7-8009d9aef1be/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7a2484a9-04fd-41a0-8224-610c1c07ed10&unique=prints",
+            "collector_number": "716",
+            "digital": false,
+            "rarity": "rare",
+            "flavor_text": "Everyone knew the bombs were coming. Everyone but the public.",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Chris Cold",
+            "artist_ids": [
+                "2622d22b-3fd8-4831-9b2b-adc5fac01b85"
+            ],
+            "illustration_id": "bc8e2662-7d47-449a-87f6-b43b60059193",
+            "border_color": "black",
+            "frame": "2015",
+            "security_stamp": "triangle",
+            "full_art": false,
+            "textless": false,
+            "booster": false,
+            "story_spotlight": false,
+            "promo_types": [
+                "surgefoil",
+                "boosterfun"
+            ],
+            "edhrec_rank": 26,
+            "penny_rank": 2362,
+            "prices": {
+                "usd": null,
+                "usd_foil": "4.27",
+                "usd_etched": null,
+                "eur": null,
+                "eur_foil": null,
+                "tix": null
+            },
+            "related_uris": {
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "edhrec": "https://edhrec.com/route/?cc=Blasphemous+Act"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F539612%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Blasphemous+Act&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Blasphemous+Act&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "889a828d-8915-4c2b-8650-f368172890e8",
+            "oracle_id": "7a2484a9-04fd-41a0-8224-610c1c07ed10",
+            "multiverse_ids": [],
+            "tcgplayer_id": 539613,
+            "name": "Blasphemous Act",
+            "lang": "en",
+            "released_at": "2024-03-08",
+            "uri": "https://api.scryfall.com/cards/889a828d-8915-4c2b-8650-f368172890e8",
+            "scryfall_uri": "https://scryfall.com/card/pip/993/blasphemous-act?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/8/8/889a828d-8915-4c2b-8650-f368172890e8.jpg?1708746272",
+                "normal": "https://cards.scryfall.io/normal/front/8/8/889a828d-8915-4c2b-8650-f368172890e8.jpg?1708746272",
+                "large": "https://cards.scryfall.io/large/front/8/8/889a828d-8915-4c2b-8650-f368172890e8.jpg?1708746272",
+                "png": "https://cards.scryfall.io/png/front/8/8/889a828d-8915-4c2b-8650-f368172890e8.png?1708746272",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/8/8/889a828d-8915-4c2b-8650-f368172890e8.jpg?1708746272",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/8/8/889a828d-8915-4c2b-8650-f368172890e8.jpg?1708746272"
+            },
+            "mana_cost": "{8}{R}",
+            "cmc": 9.0,
+            "type_line": "Sorcery",
+            "oracle_text": "This spell costs {1} less to cast for each creature on the battlefield.\nBlasphemous Act deals 13 damage to each creature.",
+            "colors": [
+                "R"
+            ],
+            "color_identity": [
+                "R"
+            ],
+            "keywords": [],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "not_legal",
+                "timeless": "not_legal",
+                "gladiator": "not_legal",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "not_legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "not_legal",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "not_legal"
+            },
+            "games": [
+                "paper"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": false,
+            "finishes": [
+                "foil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "d84d7a49-2ef4-4808-83b4-8c65b4aa0e2d",
+            "set": "pip",
+            "set_name": "Fallout",
+            "set_type": "commander",
+            "set_uri": "https://api.scryfall.com/sets/d84d7a49-2ef4-4808-83b4-8c65b4aa0e2d",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apip&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/pip?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/889a828d-8915-4c2b-8650-f368172890e8/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7a2484a9-04fd-41a0-8224-610c1c07ed10&unique=prints",
+            "collector_number": "993",
+            "digital": false,
+            "rarity": "rare",
+            "flavor_text": "Everyone knew the bombs were coming. Everyone but the public.",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Chris Cold",
+            "artist_ids": [
+                "2622d22b-3fd8-4831-9b2b-adc5fac01b85"
+            ],
+            "illustration_id": "bc8e2662-7d47-449a-87f6-b43b60059193",
+            "border_color": "black",
+            "frame": "2015",
+            "frame_effects": [
+                "extendedart"
+            ],
+            "security_stamp": "triangle",
+            "full_art": false,
+            "textless": false,
+            "booster": false,
+            "story_spotlight": false,
+            "promo_types": [
+                "surgefoil",
+                "boosterfun"
+            ],
+            "edhrec_rank": 26,
+            "penny_rank": 2362,
+            "prices": {
+                "usd": null,
+                "usd_foil": "5.30",
+                "usd_etched": null,
+                "eur": null,
+                "eur_foil": null,
+                "tix": null
+            },
+            "related_uris": {
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "edhrec": "https://edhrec.com/route/?cc=Blasphemous+Act"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F539613%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Blasphemous+Act&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Blasphemous+Act&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "34e5d93b-2f1f-43ed-b8ff-ee00d98eb46c",
+            "oracle_id": "7a2484a9-04fd-41a0-8224-610c1c07ed10",
+            "multiverse_ids": [
+                635550
+            ],
+            "tcgplayer_id": 519751,
+            "cardmarket_id": 739086,
+            "name": "Blasphemous Act",
+            "lang": "en",
+            "released_at": "2023-10-13",
+            "uri": "https://api.scryfall.com/cards/34e5d93b-2f1f-43ed-b8ff-ee00d98eb46c",
+            "scryfall_uri": "https://scryfall.com/card/who/224/blasphemous-act?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/3/4/34e5d93b-2f1f-43ed-b8ff-ee00d98eb46c.jpg?1696644883",
+                "normal": "https://cards.scryfall.io/normal/front/3/4/34e5d93b-2f1f-43ed-b8ff-ee00d98eb46c.jpg?1696644883",
+                "large": "https://cards.scryfall.io/large/front/3/4/34e5d93b-2f1f-43ed-b8ff-ee00d98eb46c.jpg?1696644883",
+                "png": "https://cards.scryfall.io/png/front/3/4/34e5d93b-2f1f-43ed-b8ff-ee00d98eb46c.png?1696644883",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/3/4/34e5d93b-2f1f-43ed-b8ff-ee00d98eb46c.jpg?1696644883",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/3/4/34e5d93b-2f1f-43ed-b8ff-ee00d98eb46c.jpg?1696644883"
+            },
+            "mana_cost": "{8}{R}",
+            "cmc": 9.0,
+            "type_line": "Sorcery",
+            "oracle_text": "This spell costs {1} less to cast for each creature on the battlefield.\nBlasphemous Act deals 13 damage to each creature.",
+            "colors": [
+                "R"
+            ],
+            "color_identity": [
+                "R"
+            ],
+            "keywords": [],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "not_legal",
+                "timeless": "not_legal",
+                "gladiator": "not_legal",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "not_legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "not_legal",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "not_legal"
+            },
+            "games": [
+                "paper"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil",
+                "foil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "efdfdd99-cee7-4c11-a5e9-03d60f88bdd6",
+            "set": "who",
+            "set_name": "Doctor Who",
+            "set_type": "commander",
+            "set_uri": "https://api.scryfall.com/sets/efdfdd99-cee7-4c11-a5e9-03d60f88bdd6",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awho&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/who?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/34e5d93b-2f1f-43ed-b8ff-ee00d98eb46c/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7a2484a9-04fd-41a0-8224-610c1c07ed10&unique=prints",
+            "collector_number": "224",
+            "digital": false,
+            "rarity": "rare",
+            "flavor_text": "\"I had to make them pay for what I discovered. They lied to us, the founding fathers of Gallifrey. Everything we were told was a lie.\"\n\u2014The Master",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Eliz Roxs",
+            "artist_ids": [
+                "17e629f2-3465-44cc-82f6-4e2386341bd7"
+            ],
+            "illustration_id": "d45a53d6-384f-46fd-b38e-677d965723bb",
+            "border_color": "black",
+            "frame": "2015",
+            "security_stamp": "triangle",
+            "full_art": false,
+            "textless": false,
+            "booster": false,
+            "story_spotlight": false,
+            "edhrec_rank": 26,
+            "penny_rank": 2362,
+            "preview": {
+                "source": "Wizards of the Coast",
+                "source_uri": "https://www.instagram.com/p/CyCAvrhuUhB/",
+                "previewed_at": "2023-10-05"
+            },
+            "prices": {
+                "usd": "2.32",
+                "usd_foil": "5.68",
+                "usd_etched": null,
+                "eur": "1.94",
+                "eur_foil": "2.44",
+                "tix": null
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=635550&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "edhrec": "https://edhrec.com/route/?cc=Blasphemous+Act"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F519751%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Universes-Beyond-Doctor-Who/Blasphemous-Act?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Blasphemous+Act&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "b37d8206-22a1-436c-bb1a-62cdd9f8a266",
+            "oracle_id": "7a2484a9-04fd-41a0-8224-610c1c07ed10",
+            "multiverse_ids": [
+                634110
+            ],
+            "tcgplayer_id": 519847,
+            "name": "Blasphemous Act",
+            "lang": "en",
+            "released_at": "2023-10-13",
+            "uri": "https://api.scryfall.com/cards/b37d8206-22a1-436c-bb1a-62cdd9f8a266",
+            "scryfall_uri": "https://scryfall.com/card/who/472/blasphemous-act?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/b/3/b37d8206-22a1-436c-bb1a-62cdd9f8a266.jpg?1696637496",
+                "normal": "https://cards.scryfall.io/normal/front/b/3/b37d8206-22a1-436c-bb1a-62cdd9f8a266.jpg?1696637496",
+                "large": "https://cards.scryfall.io/large/front/b/3/b37d8206-22a1-436c-bb1a-62cdd9f8a266.jpg?1696637496",
+                "png": "https://cards.scryfall.io/png/front/b/3/b37d8206-22a1-436c-bb1a-62cdd9f8a266.png?1696637496",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/b/3/b37d8206-22a1-436c-bb1a-62cdd9f8a266.jpg?1696637496",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/b/3/b37d8206-22a1-436c-bb1a-62cdd9f8a266.jpg?1696637496"
+            },
+            "mana_cost": "{8}{R}",
+            "cmc": 9.0,
+            "type_line": "Sorcery",
+            "oracle_text": "This spell costs {1} less to cast for each creature on the battlefield.\nBlasphemous Act deals 13 damage to each creature.",
+            "colors": [
+                "R"
+            ],
+            "color_identity": [
+                "R"
+            ],
+            "keywords": [],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "not_legal",
+                "timeless": "not_legal",
+                "gladiator": "not_legal",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "not_legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "not_legal",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "not_legal"
+            },
+            "games": [
+                "paper"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil",
+                "foil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "efdfdd99-cee7-4c11-a5e9-03d60f88bdd6",
+            "set": "who",
+            "set_name": "Doctor Who",
+            "set_type": "commander",
+            "set_uri": "https://api.scryfall.com/sets/efdfdd99-cee7-4c11-a5e9-03d60f88bdd6",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awho&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/who?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/b37d8206-22a1-436c-bb1a-62cdd9f8a266/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7a2484a9-04fd-41a0-8224-610c1c07ed10&unique=prints",
+            "collector_number": "472",
+            "digital": false,
+            "rarity": "rare",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Eliz Roxs",
+            "artist_ids": [
+                "17e629f2-3465-44cc-82f6-4e2386341bd7"
+            ],
+            "illustration_id": "d45a53d6-384f-46fd-b38e-677d965723bb",
+            "border_color": "black",
+            "frame": "2015",
+            "frame_effects": [
+                "extendedart"
+            ],
+            "security_stamp": "triangle",
+            "full_art": false,
+            "textless": false,
+            "booster": false,
+            "story_spotlight": false,
+            "promo_types": [
+                "boosterfun"
+            ],
+            "edhrec_rank": 26,
+            "penny_rank": 2362,
+            "preview": {
+                "source": "Wizards of the Coast",
+                "source_uri": "https://www.instagram.com/p/CyCAvrhuUhB/",
+                "previewed_at": "2023-10-06"
+            },
+            "prices": {
+                "usd": "4.03",
+                "usd_foil": "4.20",
+                "usd_etched": null,
+                "eur": null,
+                "eur_foil": null,
+                "tix": null
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=634110&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "edhrec": "https://edhrec.com/route/?cc=Blasphemous+Act"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F519847%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Blasphemous+Act&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Blasphemous+Act&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "3f14e29c-a4f6-4491-a318-bf0cff4ae91c",
+            "oracle_id": "7a2484a9-04fd-41a0-8224-610c1c07ed10",
+            "multiverse_ids": [],
+            "tcgplayer_id": 519850,
+            "name": "Blasphemous Act",
+            "lang": "en",
+            "released_at": "2023-10-13",
+            "uri": "https://api.scryfall.com/cards/3f14e29c-a4f6-4491-a318-bf0cff4ae91c",
+            "scryfall_uri": "https://scryfall.com/card/who/815/blasphemous-act?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/3/f/3f14e29c-a4f6-4491-a318-bf0cff4ae91c.jpg?1696644839",
+                "normal": "https://cards.scryfall.io/normal/front/3/f/3f14e29c-a4f6-4491-a318-bf0cff4ae91c.jpg?1696644839",
+                "large": "https://cards.scryfall.io/large/front/3/f/3f14e29c-a4f6-4491-a318-bf0cff4ae91c.jpg?1696644839",
+                "png": "https://cards.scryfall.io/png/front/3/f/3f14e29c-a4f6-4491-a318-bf0cff4ae91c.png?1696644839",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/3/f/3f14e29c-a4f6-4491-a318-bf0cff4ae91c.jpg?1696644839",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/3/f/3f14e29c-a4f6-4491-a318-bf0cff4ae91c.jpg?1696644839"
+            },
+            "mana_cost": "{8}{R}",
+            "cmc": 9.0,
+            "type_line": "Sorcery",
+            "oracle_text": "This spell costs {1} less to cast for each creature on the battlefield.\nBlasphemous Act deals 13 damage to each creature.",
+            "colors": [
+                "R"
+            ],
+            "color_identity": [
+                "R"
+            ],
+            "keywords": [],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "not_legal",
+                "timeless": "not_legal",
+                "gladiator": "not_legal",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "not_legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "not_legal",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "not_legal"
+            },
+            "games": [
+                "paper"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": false,
+            "finishes": [
+                "foil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "efdfdd99-cee7-4c11-a5e9-03d60f88bdd6",
+            "set": "who",
+            "set_name": "Doctor Who",
+            "set_type": "commander",
+            "set_uri": "https://api.scryfall.com/sets/efdfdd99-cee7-4c11-a5e9-03d60f88bdd6",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awho&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/who?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/3f14e29c-a4f6-4491-a318-bf0cff4ae91c/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7a2484a9-04fd-41a0-8224-610c1c07ed10&unique=prints",
+            "collector_number": "815",
+            "digital": false,
+            "rarity": "rare",
+            "flavor_text": "\"I had to make them pay for what I discovered. They lied to us, the founding fathers of Gallifrey. Everything we were told was a lie.\"\n\u2014The Master",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Eliz Roxs",
+            "artist_ids": [
+                "17e629f2-3465-44cc-82f6-4e2386341bd7"
+            ],
+            "illustration_id": "d45a53d6-384f-46fd-b38e-677d965723bb",
+            "border_color": "black",
+            "frame": "2015",
+            "security_stamp": "triangle",
+            "full_art": false,
+            "textless": false,
+            "booster": false,
+            "story_spotlight": false,
+            "promo_types": [
+                "surgefoil",
+                "boosterfun"
+            ],
+            "edhrec_rank": 26,
+            "penny_rank": 2362,
+            "prices": {
+                "usd": null,
+                "usd_foil": "3.72",
+                "usd_etched": null,
+                "eur": null,
+                "eur_foil": null,
+                "tix": null
+            },
+            "related_uris": {
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "edhrec": "https://edhrec.com/route/?cc=Blasphemous+Act"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F519850%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Blasphemous+Act&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Blasphemous+Act&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "3cb016ec-ceff-4145-8118-8902e96aba57",
+            "oracle_id": "7a2484a9-04fd-41a0-8224-610c1c07ed10",
+            "multiverse_ids": [],
+            "tcgplayer_id": 519868,
+            "name": "Blasphemous Act",
+            "lang": "en",
+            "released_at": "2023-10-13",
+            "uri": "https://api.scryfall.com/cards/3cb016ec-ceff-4145-8118-8902e96aba57",
+            "scryfall_uri": "https://scryfall.com/card/who/1063/blasphemous-act?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/3/c/3cb016ec-ceff-4145-8118-8902e96aba57.jpg?1696644842",
+                "normal": "https://cards.scryfall.io/normal/front/3/c/3cb016ec-ceff-4145-8118-8902e96aba57.jpg?1696644842",
+                "large": "https://cards.scryfall.io/large/front/3/c/3cb016ec-ceff-4145-8118-8902e96aba57.jpg?1696644842",
+                "png": "https://cards.scryfall.io/png/front/3/c/3cb016ec-ceff-4145-8118-8902e96aba57.png?1696644842",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/3/c/3cb016ec-ceff-4145-8118-8902e96aba57.jpg?1696644842",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/3/c/3cb016ec-ceff-4145-8118-8902e96aba57.jpg?1696644842"
+            },
+            "mana_cost": "{8}{R}",
+            "cmc": 9.0,
+            "type_line": "Sorcery",
+            "oracle_text": "This spell costs {1} less to cast for each creature on the battlefield.\nBlasphemous Act deals 13 damage to each creature.",
+            "colors": [
+                "R"
+            ],
+            "color_identity": [
+                "R"
+            ],
+            "keywords": [],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "not_legal",
+                "timeless": "not_legal",
+                "gladiator": "not_legal",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "not_legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "not_legal",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "not_legal"
+            },
+            "games": [
+                "paper"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": false,
+            "finishes": [
+                "foil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "efdfdd99-cee7-4c11-a5e9-03d60f88bdd6",
+            "set": "who",
+            "set_name": "Doctor Who",
+            "set_type": "commander",
+            "set_uri": "https://api.scryfall.com/sets/efdfdd99-cee7-4c11-a5e9-03d60f88bdd6",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awho&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/who?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/3cb016ec-ceff-4145-8118-8902e96aba57/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7a2484a9-04fd-41a0-8224-610c1c07ed10&unique=prints",
+            "collector_number": "1063",
+            "digital": false,
+            "rarity": "rare",
+            "flavor_text": "\"I had to make them pay for what I discovered. They lied to us, the founding fathers of Gallifrey. Everything we were told was a lie.\"\n\u2014The Master",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Eliz Roxs",
+            "artist_ids": [
+                "17e629f2-3465-44cc-82f6-4e2386341bd7"
+            ],
+            "illustration_id": "d45a53d6-384f-46fd-b38e-677d965723bb",
+            "border_color": "black",
+            "frame": "2015",
+            "frame_effects": [
+                "extendedart"
+            ],
+            "security_stamp": "triangle",
+            "full_art": false,
+            "textless": false,
+            "booster": false,
+            "story_spotlight": false,
+            "promo_types": [
+                "surgefoil",
+                "boosterfun"
+            ],
+            "edhrec_rank": 26,
+            "penny_rank": 2362,
+            "prices": {
+                "usd": null,
+                "usd_foil": "4.37",
+                "usd_etched": null,
+                "eur": null,
+                "eur_foil": null,
+                "tix": null
+            },
+            "related_uris": {
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "edhrec": "https://edhrec.com/route/?cc=Blasphemous+Act"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F519868%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Blasphemous+Act&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Blasphemous+Act&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "cf9e842f-4840-49e3-b4f3-c2fad395d41a",
+            "oracle_id": "7a2484a9-04fd-41a0-8224-610c1c07ed10",
+            "multiverse_ids": [
+                621321
+            ],
+            "mtgo_id": 112776,
+            "tcgplayer_id": 499613,
+            "cardmarket_id": 717411,
+            "name": "Blasphemous Act",
+            "lang": "en",
+            "released_at": "2023-06-23",
+            "uri": "https://api.scryfall.com/cards/cf9e842f-4840-49e3-b4f3-c2fad395d41a",
+            "scryfall_uri": "https://scryfall.com/card/ltc/211/blasphemous-act?utm_source=api",
+            "layout": "normal",
+            "highres_image": false,
+            "image_status": "lowres",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/c/f/cf9e842f-4840-49e3-b4f3-c2fad395d41a.jpg?1687551723",
+                "normal": "https://cards.scryfall.io/normal/front/c/f/cf9e842f-4840-49e3-b4f3-c2fad395d41a.jpg?1687551723",
+                "large": "https://cards.scryfall.io/large/front/c/f/cf9e842f-4840-49e3-b4f3-c2fad395d41a.jpg?1687551723",
+                "png": "https://cards.scryfall.io/png/front/c/f/cf9e842f-4840-49e3-b4f3-c2fad395d41a.png?1687551723",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/c/f/cf9e842f-4840-49e3-b4f3-c2fad395d41a.jpg?1687551723",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/c/f/cf9e842f-4840-49e3-b4f3-c2fad395d41a.jpg?1687551723"
+            },
+            "mana_cost": "{8}{R}",
+            "cmc": 9.0,
+            "type_line": "Sorcery",
+            "oracle_text": "This spell costs {1} less to cast for each creature on the battlefield.\nBlasphemous Act deals 13 damage to each creature.",
+            "colors": [
+                "R"
+            ],
+            "color_identity": [
+                "R"
+            ],
+            "keywords": [],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "not_legal",
+                "timeless": "not_legal",
+                "gladiator": "not_legal",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "not_legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "not_legal",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "not_legal"
+            },
+            "games": [
+                "paper",
+                "mtgo"
+            ],
+            "reserved": false,
+            "foil": false,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "e567c19c-0fe4-446e-a7bf-fce8a150cd2e",
+            "set": "ltc",
+            "set_name": "Tales of Middle-earth Commander",
+            "set_type": "commander",
+            "set_uri": "https://api.scryfall.com/sets/e567c19c-0fe4-446e-a7bf-fce8a150cd2e",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Altc&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/ltc?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/cf9e842f-4840-49e3-b4f3-c2fad395d41a/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7a2484a9-04fd-41a0-8224-610c1c07ed10&unique=prints",
+            "collector_number": "211",
+            "digital": false,
+            "rarity": "rare",
+            "flavor_text": "\"And there are some things, of course, whose side I am altogether *not* on: these *bur\u00e1rum*\u2014these Orcs, and their masters.\"\n\u2014Treebeard",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Andrea Piparo",
+            "artist_ids": [
+                "e8ab9604-1b3c-4bb5-9290-dfb3fd3cf01d"
+            ],
+            "illustration_id": "ece5738b-7aef-47ad-9077-64cd06445daa",
+            "border_color": "black",
+            "frame": "2015",
+            "security_stamp": "triangle",
+            "full_art": false,
+            "textless": false,
+            "booster": false,
+            "story_spotlight": false,
+            "edhrec_rank": 26,
+            "penny_rank": 2362,
+            "prices": {
+                "usd": "2.46",
+                "usd_foil": null,
+                "usd_etched": null,
+                "eur": "2.36",
+                "eur_foil": null,
+                "tix": "0.50"
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=621321&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "edhrec": "https://edhrec.com/route/?cc=Blasphemous+Act"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F499613%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Commander-The-Lord-of-the-Rings-Tales-of-Middle-earth/Blasphemous-Act?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards/112776?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "70d1135e-ac1e-40f0-b47d-abc5b427ce55",
+            "oracle_id": "7a2484a9-04fd-41a0-8224-610c1c07ed10",
+            "multiverse_ids": [],
+            "mtgo_id": 103826,
+            "mtgo_foil_id": 103827,
+            "tcgplayer_id": 456959,
+            "cardmarket_id": 689019,
+            "name": "Blasphemous Act",
+            "lang": "en",
+            "released_at": "2022-12-02",
+            "uri": "https://api.scryfall.com/cards/70d1135e-ac1e-40f0-b47d-abc5b427ce55",
+            "scryfall_uri": "https://scryfall.com/card/scd/124/blasphemous-act?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/7/0/70d1135e-ac1e-40f0-b47d-abc5b427ce55.jpg?1674675041",
+                "normal": "https://cards.scryfall.io/normal/front/7/0/70d1135e-ac1e-40f0-b47d-abc5b427ce55.jpg?1674675041",
+                "large": "https://cards.scryfall.io/large/front/7/0/70d1135e-ac1e-40f0-b47d-abc5b427ce55.jpg?1674675041",
+                "png": "https://cards.scryfall.io/png/front/7/0/70d1135e-ac1e-40f0-b47d-abc5b427ce55.png?1674675041",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/7/0/70d1135e-ac1e-40f0-b47d-abc5b427ce55.jpg?1674675041",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/7/0/70d1135e-ac1e-40f0-b47d-abc5b427ce55.jpg?1674675041"
+            },
+            "mana_cost": "{8}{R}",
+            "cmc": 9.0,
+            "type_line": "Sorcery",
+            "oracle_text": "This spell costs {1} less to cast for each creature on the battlefield.\nBlasphemous Act deals 13 damage to each creature.",
+            "colors": [
+                "R"
+            ],
+            "color_identity": [
+                "R"
+            ],
+            "keywords": [],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "not_legal",
+                "timeless": "not_legal",
+                "gladiator": "not_legal",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "not_legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "not_legal",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "not_legal"
+            },
+            "games": [
+                "paper"
+            ],
+            "reserved": false,
+            "foil": false,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "adc5d965-43ea-46bc-aebd-8a39282ce168",
+            "set": "scd",
+            "set_name": "Starter Commander Decks",
+            "set_type": "commander",
+            "set_uri": "https://api.scryfall.com/sets/adc5d965-43ea-46bc-aebd-8a39282ce168",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ascd&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/scd?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/70d1135e-ac1e-40f0-b47d-abc5b427ce55/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7a2484a9-04fd-41a0-8224-610c1c07ed10&unique=prints",
+            "collector_number": "124",
+            "digital": false,
+            "rarity": "rare",
+            "flavor_text": "\"Holy places are no longer sanctuary from death, and death is no longer sanctuary from anything.\"\n\u2014Thalia, Knight-Cathar",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Daarken",
+            "artist_ids": [
+                "e607a0d4-fc12-4c01-9e3f-501f5269b9cb"
+            ],
+            "illustration_id": "6ea08730-d12d-445f-b31f-8f55374f194d",
+            "border_color": "black",
+            "frame": "2015",
+            "security_stamp": "oval",
+            "full_art": false,
+            "textless": false,
+            "booster": false,
+            "story_spotlight": false,
+            "edhrec_rank": 26,
+            "penny_rank": 2362,
+            "prices": {
+                "usd": "2.28",
+                "usd_foil": null,
+                "usd_etched": null,
+                "eur": "2.53",
+                "eur_foil": null,
+                "tix": null
+            },
+            "related_uris": {
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "edhrec": "https://edhrec.com/route/?cc=Blasphemous+Act"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F456959%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Starter-Commander-Decks/Blasphemous-Act?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards/103826?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "310abe1d-153e-44c7-974c-441a2fbc19bf",
+            "oracle_id": "7a2484a9-04fd-41a0-8224-610c1c07ed10",
+            "multiverse_ids": [
+                588724
+            ],
+            "mtgo_id": 105348,
+            "tcgplayer_id": 452234,
+            "cardmarket_id": 682747,
+            "name": "Blasphemous Act",
+            "lang": "en",
+            "released_at": "2022-11-18",
+            "uri": "https://api.scryfall.com/cards/310abe1d-153e-44c7-974c-441a2fbc19bf",
+            "scryfall_uri": "https://scryfall.com/card/brc/113/blasphemous-act?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/3/1/310abe1d-153e-44c7-974c-441a2fbc19bf.jpg?1673300500",
+                "normal": "https://cards.scryfall.io/normal/front/3/1/310abe1d-153e-44c7-974c-441a2fbc19bf.jpg?1673300500",
+                "large": "https://cards.scryfall.io/large/front/3/1/310abe1d-153e-44c7-974c-441a2fbc19bf.jpg?1673300500",
+                "png": "https://cards.scryfall.io/png/front/3/1/310abe1d-153e-44c7-974c-441a2fbc19bf.png?1673300500",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/3/1/310abe1d-153e-44c7-974c-441a2fbc19bf.jpg?1673300500",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/3/1/310abe1d-153e-44c7-974c-441a2fbc19bf.jpg?1673300500"
+            },
+            "mana_cost": "{8}{R}",
+            "cmc": 9.0,
+            "type_line": "Sorcery",
+            "oracle_text": "This spell costs {1} less to cast for each creature on the battlefield.\nBlasphemous Act deals 13 damage to each creature.",
+            "colors": [
+                "R"
+            ],
+            "color_identity": [
+                "R"
+            ],
+            "keywords": [],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "not_legal",
+                "timeless": "not_legal",
+                "gladiator": "not_legal",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "not_legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "not_legal",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "not_legal"
+            },
+            "games": [
+                "paper",
+                "mtgo"
+            ],
+            "reserved": false,
+            "foil": false,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "81d56780-1efc-4487-9803-43d634ca13d0",
+            "set": "brc",
+            "set_name": "The Brothers' War Commander",
+            "set_type": "commander",
+            "set_uri": "https://api.scryfall.com/sets/81d56780-1efc-4487-9803-43d634ca13d0",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Abrc&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/brc?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/310abe1d-153e-44c7-974c-441a2fbc19bf/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7a2484a9-04fd-41a0-8224-610c1c07ed10&unique=prints",
+            "collector_number": "113",
+            "digital": false,
+            "rarity": "rare",
+            "flavor_text": "\"Holy places are no longer sanctuary from death, and death is no longer sanctuary from anything.\"\n\u2014Thalia, Knight-Cathar",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Daarken",
+            "artist_ids": [
+                "e607a0d4-fc12-4c01-9e3f-501f5269b9cb"
+            ],
+            "illustration_id": "6ea08730-d12d-445f-b31f-8f55374f194d",
+            "border_color": "black",
+            "frame": "1997",
+            "full_art": false,
+            "textless": false,
+            "booster": false,
+            "story_spotlight": false,
+            "edhrec_rank": 26,
+            "penny_rank": 2362,
+            "prices": {
+                "usd": "2.67",
+                "usd_foil": null,
+                "usd_etched": null,
+                "eur": "2.16",
+                "eur_foil": null,
+                "tix": "0.15"
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=588724&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "edhrec": "https://edhrec.com/route/?cc=Blasphemous+Act"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F452234%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Commander-The-Brothers-War/Blasphemous-Act?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards/105348?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "23ed787e-8034-45c7-b4cf-1a05d300beea",
+            "oracle_id": "7a2484a9-04fd-41a0-8224-610c1c07ed10",
+            "multiverse_ids": [
+                582453
+            ],
+            "mtgo_id": 108262,
+            "tcgplayer_id": 286137,
+            "cardmarket_id": 675215,
+            "name": "Blasphemous Act",
+            "lang": "en",
+            "released_at": "2022-10-07",
+            "uri": "https://api.scryfall.com/cards/23ed787e-8034-45c7-b4cf-1a05d300beea",
+            "scryfall_uri": "https://scryfall.com/card/40k/204/blasphemous-act?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/2/3/23ed787e-8034-45c7-b4cf-1a05d300beea.jpg?1673309996",
+                "normal": "https://cards.scryfall.io/normal/front/2/3/23ed787e-8034-45c7-b4cf-1a05d300beea.jpg?1673309996",
+                "large": "https://cards.scryfall.io/large/front/2/3/23ed787e-8034-45c7-b4cf-1a05d300beea.jpg?1673309996",
+                "png": "https://cards.scryfall.io/png/front/2/3/23ed787e-8034-45c7-b4cf-1a05d300beea.png?1673309996",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/2/3/23ed787e-8034-45c7-b4cf-1a05d300beea.jpg?1673309996",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/2/3/23ed787e-8034-45c7-b4cf-1a05d300beea.jpg?1673309996"
+            },
+            "mana_cost": "{8}{R}",
+            "cmc": 9.0,
+            "type_line": "Sorcery",
+            "oracle_text": "This spell costs {1} less to cast for each creature on the battlefield.\nBlasphemous Act deals 13 damage to each creature.",
+            "colors": [
+                "R"
+            ],
+            "color_identity": [
+                "R"
+            ],
+            "keywords": [],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "not_legal",
+                "timeless": "not_legal",
+                "gladiator": "not_legal",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "not_legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "not_legal",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "not_legal"
+            },
+            "games": [
+                "paper",
+                "mtgo"
+            ],
+            "reserved": false,
+            "foil": false,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "f35f5dd8-5b95-4f52-bbe7-1c62909a8d08",
+            "set": "40k",
+            "set_name": "Warhammer 40,000 Commander",
+            "set_type": "commander",
+            "set_uri": "https://api.scryfall.com/sets/f35f5dd8-5b95-4f52-bbe7-1c62909a8d08",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3A40k&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/40k?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/23ed787e-8034-45c7-b4cf-1a05d300beea/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7a2484a9-04fd-41a0-8224-610c1c07ed10&unique=prints",
+            "collector_number": "204",
+            "digital": false,
+            "rarity": "rare",
+            "flavor_text": "In the roiling depths of the Eye of Terror, the bloodthirsty hordes of Chaos Marines plot the downfall of their loyalist brethren.",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Games Workshop",
+            "artist_ids": [
+                "9456da4e-410b-4932-8bf3-a69a2da3cdc9"
+            ],
+            "illustration_id": "13a2d407-f005-4178-ae06-aa98acfb8433",
+            "border_color": "black",
+            "frame": "2015",
+            "security_stamp": "triangle",
+            "full_art": false,
+            "textless": false,
+            "booster": false,
+            "story_spotlight": false,
+            "edhrec_rank": 26,
+            "penny_rank": 2362,
+            "prices": {
+                "usd": "2.31",
+                "usd_foil": null,
+                "usd_etched": null,
+                "eur": "2.34",
+                "eur_foil": null,
+                "tix": "0.04"
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=582453&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "edhrec": "https://edhrec.com/route/?cc=Blasphemous+Act"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F286137%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Universes-Beyond-Warhammer-40000/Blasphemous-Act?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards/108262?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "d026eee2-7bbe-435e-84de-3cd223ad6133",
+            "oracle_id": "7a2484a9-04fd-41a0-8224-610c1c07ed10",
+            "multiverse_ids": [],
+            "tcgplayer_id": 286213,
+            "name": "Blasphemous Act",
+            "lang": "en",
+            "released_at": "2022-10-07",
+            "uri": "https://api.scryfall.com/cards/d026eee2-7bbe-435e-84de-3cd223ad6133",
+            "scryfall_uri": "https://scryfall.com/card/40k/204%E2%98%85/blasphemous-act?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/d/0/d026eee2-7bbe-435e-84de-3cd223ad6133.jpg?1674060244",
+                "normal": "https://cards.scryfall.io/normal/front/d/0/d026eee2-7bbe-435e-84de-3cd223ad6133.jpg?1674060244",
+                "large": "https://cards.scryfall.io/large/front/d/0/d026eee2-7bbe-435e-84de-3cd223ad6133.jpg?1674060244",
+                "png": "https://cards.scryfall.io/png/front/d/0/d026eee2-7bbe-435e-84de-3cd223ad6133.png?1674060244",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/d/0/d026eee2-7bbe-435e-84de-3cd223ad6133.jpg?1674060244",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/d/0/d026eee2-7bbe-435e-84de-3cd223ad6133.jpg?1674060244"
+            },
+            "mana_cost": "{8}{R}",
+            "cmc": 9.0,
+            "type_line": "Sorcery",
+            "oracle_text": "This spell costs {1} less to cast for each creature on the battlefield.\nBlasphemous Act deals 13 damage to each creature.",
+            "colors": [
+                "R"
+            ],
+            "color_identity": [
+                "R"
+            ],
+            "keywords": [],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "not_legal",
+                "timeless": "not_legal",
+                "gladiator": "not_legal",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "not_legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "not_legal",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "not_legal"
+            },
+            "games": [
+                "paper"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": false,
+            "finishes": [
+                "foil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "f35f5dd8-5b95-4f52-bbe7-1c62909a8d08",
+            "set": "40k",
+            "set_name": "Warhammer 40,000 Commander",
+            "set_type": "commander",
+            "set_uri": "https://api.scryfall.com/sets/f35f5dd8-5b95-4f52-bbe7-1c62909a8d08",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3A40k&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/40k?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/d026eee2-7bbe-435e-84de-3cd223ad6133/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7a2484a9-04fd-41a0-8224-610c1c07ed10&unique=prints",
+            "collector_number": "204\u2605",
+            "digital": false,
+            "rarity": "rare",
+            "flavor_text": "In the roiling depths of the Eye of Terror, the bloodthirsty hordes of Chaos Marines plot the downfall of their loyalist brethren.",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Games Workshop",
+            "artist_ids": [
+                "9456da4e-410b-4932-8bf3-a69a2da3cdc9"
+            ],
+            "illustration_id": "13a2d407-f005-4178-ae06-aa98acfb8433",
+            "border_color": "black",
+            "frame": "2015",
+            "security_stamp": "triangle",
+            "full_art": false,
+            "textless": false,
+            "booster": false,
+            "story_spotlight": false,
+            "promo_types": [
+                "surgefoil"
+            ],
+            "edhrec_rank": 26,
+            "penny_rank": 2362,
+            "prices": {
+                "usd": null,
+                "usd_foil": "3.91",
+                "usd_etched": null,
+                "eur": null,
+                "eur_foil": null,
+                "tix": null
+            },
+            "related_uris": {
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "edhrec": "https://edhrec.com/route/?cc=Blasphemous+Act"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F286213%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Blasphemous+Act&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Blasphemous+Act&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "4a184a4a-2c8c-4a10-9b26-a174859fa1e8",
+            "oracle_id": "7a2484a9-04fd-41a0-8224-610c1c07ed10",
+            "multiverse_ids": [],
+            "tcgplayer_id": 251752,
+            "name": "Blasphemous Act",
+            "lang": "en",
+            "released_at": "2021-10-15",
+            "uri": "https://api.scryfall.com/cards/4a184a4a-2c8c-4a10-9b26-a174859fa1e8",
+            "scryfall_uri": "https://scryfall.com/card/sld/322/blasphemous-act?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/4/a/4a184a4a-2c8c-4a10-9b26-a174859fa1e8.jpg?1682689918",
+                "normal": "https://cards.scryfall.io/normal/front/4/a/4a184a4a-2c8c-4a10-9b26-a174859fa1e8.jpg?1682689918",
+                "large": "https://cards.scryfall.io/large/front/4/a/4a184a4a-2c8c-4a10-9b26-a174859fa1e8.jpg?1682689918",
+                "png": "https://cards.scryfall.io/png/front/4/a/4a184a4a-2c8c-4a10-9b26-a174859fa1e8.png?1682689918",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/4/a/4a184a4a-2c8c-4a10-9b26-a174859fa1e8.jpg?1682689918",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/4/a/4a184a4a-2c8c-4a10-9b26-a174859fa1e8.jpg?1682689918"
+            },
+            "mana_cost": "{8}{R}",
+            "cmc": 9.0,
+            "type_line": "Sorcery",
+            "oracle_text": "This spell costs {1} less to cast for each creature on the battlefield.\nBlasphemous Act deals 13 damage to each creature.",
+            "colors": [
+                "R"
+            ],
+            "color_identity": [
+                "R"
+            ],
+            "keywords": [],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "not_legal",
+                "timeless": "not_legal",
+                "gladiator": "not_legal",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "not_legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "not_legal",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "not_legal"
+            },
+            "games": [
+                "paper"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil",
+                "foil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+            "set": "sld",
+            "set_name": "Secret Lair Drop",
+            "set_type": "box",
+            "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/4a184a4a-2c8c-4a10-9b26-a174859fa1e8/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7a2484a9-04fd-41a0-8224-610c1c07ed10&unique=prints",
+            "collector_number": "322",
+            "digital": false,
+            "rarity": "rare",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Martin Ansin",
+            "artist_ids": [
+                "f13b4e0a-ed55-4666-8371-f99c30cad605"
+            ],
+            "illustration_id": "abd4b1b7-cb95-457d-a7d7-430b5bfcf560",
+            "border_color": "borderless",
+            "frame": "2015",
+            "security_stamp": "oval",
+            "full_art": true,
+            "textless": false,
+            "booster": false,
+            "story_spotlight": false,
+            "promo_types": [
+                "poster"
+            ],
+            "edhrec_rank": 26,
+            "penny_rank": 2362,
+            "prices": {
+                "usd": "20.31",
+                "usd_foil": "26.10",
+                "usd_etched": null,
+                "eur": null,
+                "eur_foil": null,
+                "tix": null
+            },
+            "related_uris": {
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "edhrec": "https://edhrec.com/route/?cc=Blasphemous+Act"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F251752%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Blasphemous+Act&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Blasphemous+Act&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "f74475b8-0608-4079-983c-899df8f7cb48",
+            "oracle_id": "7a2484a9-04fd-41a0-8224-610c1c07ed10",
+            "multiverse_ids": [],
+            "mtgo_id": 86074,
+            "name": "Blasphemous Act",
+            "lang": "en",
+            "released_at": "2020-12-15",
+            "uri": "https://api.scryfall.com/cards/f74475b8-0608-4079-983c-899df8f7cb48",
+            "scryfall_uri": "https://scryfall.com/card/prm/86074/blasphemous-act?utm_source=api",
+            "layout": "normal",
+            "highres_image": false,
+            "image_status": "lowres",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/f/7/f74475b8-0608-4079-983c-899df8f7cb48.jpg?1630637911",
+                "normal": "https://cards.scryfall.io/normal/front/f/7/f74475b8-0608-4079-983c-899df8f7cb48.jpg?1630637911",
+                "large": "https://cards.scryfall.io/large/front/f/7/f74475b8-0608-4079-983c-899df8f7cb48.jpg?1630637911",
+                "png": "https://cards.scryfall.io/png/front/f/7/f74475b8-0608-4079-983c-899df8f7cb48.png?1630637911",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/f/7/f74475b8-0608-4079-983c-899df8f7cb48.jpg?1630637911",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/f/7/f74475b8-0608-4079-983c-899df8f7cb48.jpg?1630637911"
+            },
+            "mana_cost": "{8}{R}",
+            "cmc": 9.0,
+            "type_line": "Sorcery",
+            "oracle_text": "This spell costs {1} less to cast for each creature on the battlefield.\nBlasphemous Act deals 13 damage to each creature.",
+            "colors": [
+                "R"
+            ],
+            "color_identity": [
+                "R"
+            ],
+            "keywords": [],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "not_legal",
+                "timeless": "not_legal",
+                "gladiator": "not_legal",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "not_legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "not_legal",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "not_legal"
+            },
+            "games": [
+                "mtgo"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil",
+                "foil"
+            ],
+            "oversized": false,
+            "promo": true,
+            "reprint": true,
+            "variation": false,
+            "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+            "set": "prm",
+            "set_name": "Magic Online Promos",
+            "set_type": "promo",
+            "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/f74475b8-0608-4079-983c-899df8f7cb48/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7a2484a9-04fd-41a0-8224-610c1c07ed10&unique=prints",
+            "collector_number": "86074",
+            "digital": true,
+            "rarity": "rare",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Daarken",
+            "artist_ids": [
+                "e607a0d4-fc12-4c01-9e3f-501f5269b9cb"
+            ],
+            "illustration_id": "6ea08730-d12d-445f-b31f-8f55374f194d",
+            "border_color": "black",
+            "frame": "2015",
+            "security_stamp": "oval",
+            "full_art": false,
+            "textless": false,
+            "booster": false,
+            "story_spotlight": false,
+            "edhrec_rank": 26,
+            "penny_rank": 2362,
+            "prices": {
+                "usd": null,
+                "usd_foil": null,
+                "usd_etched": null,
+                "eur": null,
+                "eur_foil": null,
+                "tix": "0.42"
+            },
+            "related_uris": {
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "edhrec": "https://edhrec.com/route/?cc=Blasphemous+Act"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DBlasphemous%2BAct%26view%3Dgrid",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Blasphemous+Act&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards/86074?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "b8ddab6f-0d13-4ec7-908d-54edb09b5727",
+            "oracle_id": "7a2484a9-04fd-41a0-8224-610c1c07ed10",
+            "multiverse_ids": [
+                502334
+            ],
+            "tcgplayer_id": 226865,
+            "cardmarket_id": 511130,
+            "name": "Blasphemous Act",
+            "lang": "en",
+            "released_at": "2020-11-20",
+            "uri": "https://api.scryfall.com/cards/b8ddab6f-0d13-4ec7-908d-54edb09b5727",
+            "scryfall_uri": "https://scryfall.com/card/cmr/661/blasphemous-act?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/b/8/b8ddab6f-0d13-4ec7-908d-54edb09b5727.jpg?1608918702",
+                "normal": "https://cards.scryfall.io/normal/front/b/8/b8ddab6f-0d13-4ec7-908d-54edb09b5727.jpg?1608918702",
+                "large": "https://cards.scryfall.io/large/front/b/8/b8ddab6f-0d13-4ec7-908d-54edb09b5727.jpg?1608918702",
+                "png": "https://cards.scryfall.io/png/front/b/8/b8ddab6f-0d13-4ec7-908d-54edb09b5727.png?1608918702",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/b/8/b8ddab6f-0d13-4ec7-908d-54edb09b5727.jpg?1608918702",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/b/8/b8ddab6f-0d13-4ec7-908d-54edb09b5727.jpg?1608918702"
+            },
+            "mana_cost": "{8}{R}",
+            "cmc": 9.0,
+            "type_line": "Sorcery",
+            "oracle_text": "This spell costs {1} less to cast for each creature on the battlefield.\nBlasphemous Act deals 13 damage to each creature.",
+            "colors": [
+                "R"
+            ],
+            "color_identity": [
+                "R"
+            ],
+            "keywords": [],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "not_legal",
+                "timeless": "not_legal",
+                "gladiator": "not_legal",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "not_legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "not_legal",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "not_legal"
+            },
+            "games": [
+                "paper",
+                "mtgo"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil",
+                "foil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "39de6fbf-1f11-48d0-8f04-f0407f6a0732",
+            "set": "cmr",
+            "set_name": "Commander Legends",
+            "set_type": "draft_innovation",
+            "set_uri": "https://api.scryfall.com/sets/39de6fbf-1f11-48d0-8f04-f0407f6a0732",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acmr&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/cmr?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/b8ddab6f-0d13-4ec7-908d-54edb09b5727/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7a2484a9-04fd-41a0-8224-610c1c07ed10&unique=prints",
+            "collector_number": "661",
+            "digital": false,
+            "rarity": "rare",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Daarken",
+            "artist_ids": [
+                "e607a0d4-fc12-4c01-9e3f-501f5269b9cb"
+            ],
+            "illustration_id": "6ea08730-d12d-445f-b31f-8f55374f194d",
+            "border_color": "black",
+            "frame": "2015",
+            "frame_effects": [
+                "extendedart"
+            ],
+            "security_stamp": "oval",
+            "full_art": false,
+            "textless": false,
+            "booster": false,
+            "story_spotlight": false,
+            "promo_types": [
+                "boosterfun"
+            ],
+            "edhrec_rank": 26,
+            "penny_rank": 2362,
+            "preview": {
+                "source": "Pinnoel",
+                "source_uri": "https://www.twitch.tv/videos/787632456",
+                "previewed_at": "2020-10-31"
+            },
+            "prices": {
+                "usd": "5.77",
+                "usd_foil": "11.29",
+                "usd_etched": null,
+                "eur": "4.79",
+                "eur_foil": "11.33",
+                "tix": null
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=502334&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "edhrec": "https://edhrec.com/route/?cc=Blasphemous+Act"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F226865%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Commander-Legends-Extras/Blasphemous-Act?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Blasphemous+Act&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "40eb7856-95f7-4a62-bc99-b5d0852606ad",
+            "oracle_id": "7a2484a9-04fd-41a0-8224-610c1c07ed10",
+            "multiverse_ids": [],
+            "tcgplayer_id": 275320,
+            "name": "Blasphemous Act",
+            "lang": "en",
+            "released_at": "2020-09-26",
+            "uri": "https://api.scryfall.com/cards/40eb7856-95f7-4a62-bc99-b5d0852606ad",
+            "scryfall_uri": "https://scryfall.com/card/plst/CMR-162/blasphemous-act?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/4/0/40eb7856-95f7-4a62-bc99-b5d0852606ad.jpg?1661583582",
+                "normal": "https://cards.scryfall.io/normal/front/4/0/40eb7856-95f7-4a62-bc99-b5d0852606ad.jpg?1661583582",
+                "large": "https://cards.scryfall.io/large/front/4/0/40eb7856-95f7-4a62-bc99-b5d0852606ad.jpg?1661583582",
+                "png": "https://cards.scryfall.io/png/front/4/0/40eb7856-95f7-4a62-bc99-b5d0852606ad.png?1661583582",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/4/0/40eb7856-95f7-4a62-bc99-b5d0852606ad.jpg?1661583582",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/4/0/40eb7856-95f7-4a62-bc99-b5d0852606ad.jpg?1661583582"
+            },
+            "mana_cost": "{8}{R}",
+            "cmc": 9.0,
+            "type_line": "Sorcery",
+            "oracle_text": "This spell costs {1} less to cast for each creature on the battlefield.\nBlasphemous Act deals 13 damage to each creature.",
+            "colors": [
+                "R"
+            ],
+            "color_identity": [
+                "R"
+            ],
+            "keywords": [],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "not_legal",
+                "timeless": "not_legal",
+                "gladiator": "not_legal",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "not_legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "not_legal",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "not_legal"
+            },
+            "games": [
+                "paper"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": false,
+            "finishes": [
+                "foil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+            "set": "plst",
+            "set_name": "The List",
+            "set_type": "masters",
+            "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/40eb7856-95f7-4a62-bc99-b5d0852606ad/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7a2484a9-04fd-41a0-8224-610c1c07ed10&unique=prints",
+            "collector_number": "CMR-162",
+            "digital": false,
+            "rarity": "rare",
+            "flavor_text": "\"Holy places are no longer sanctuary from death, and death is no longer sanctuary from anything.\"\n\u2014Thalia, Knight-Cathar",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Daarken",
+            "artist_ids": [
+                "e607a0d4-fc12-4c01-9e3f-501f5269b9cb"
+            ],
+            "illustration_id": "6ea08730-d12d-445f-b31f-8f55374f194d",
+            "border_color": "black",
+            "frame": "2015",
+            "security_stamp": "oval",
+            "full_art": false,
+            "textless": false,
+            "booster": false,
+            "story_spotlight": false,
+            "edhrec_rank": 26,
+            "penny_rank": 2362,
+            "prices": {
+                "usd": null,
+                "usd_foil": "3.55",
+                "usd_etched": null,
+                "eur": null,
+                "eur_foil": null,
+                "tix": null
+            },
+            "related_uris": {
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DBlasphemous%2BAct",
+                "edhrec": "https://edhrec.com/route/?cc=Blasphemous+Act"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F275320%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Blasphemous+Act&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Blasphemous+Act&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        }
+    ]
+}

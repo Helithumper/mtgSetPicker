@@ -1,0 +1,860 @@
+{
+    "object": "list",
+    "total_cards": 6,
+    "has_more": false,
+    "data": [
+        {
+            "object": "card",
+            "id": "170693f5-13db-4191-99b1-e527ffb5b88e",
+            "oracle_id": "5632c2df-71e6-41b7-b8f5-c683812cc0e2",
+            "multiverse_ids": [
+                253624
+            ],
+            "mtgo_id": 46737,
+            "mtgo_foil_id": 46738,
+            "tcgplayer_id": 66385,
+            "cardmarket_id": 258198,
+            "name": "Pack Rat",
+            "lang": "en",
+            "released_at": "2012-10-05",
+            "uri": "https://api.scryfall.com/cards/170693f5-13db-4191-99b1-e527ffb5b88e",
+            "scryfall_uri": "https://scryfall.com/card/rtr/73/pack-rat?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/1/7/170693f5-13db-4191-99b1-e527ffb5b88e.jpg?1562783180",
+                "normal": "https://cards.scryfall.io/normal/front/1/7/170693f5-13db-4191-99b1-e527ffb5b88e.jpg?1562783180",
+                "large": "https://cards.scryfall.io/large/front/1/7/170693f5-13db-4191-99b1-e527ffb5b88e.jpg?1562783180",
+                "png": "https://cards.scryfall.io/png/front/1/7/170693f5-13db-4191-99b1-e527ffb5b88e.png?1562783180",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/1/7/170693f5-13db-4191-99b1-e527ffb5b88e.jpg?1562783180",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/1/7/170693f5-13db-4191-99b1-e527ffb5b88e.jpg?1562783180"
+            },
+            "mana_cost": "{1}{B}",
+            "cmc": 2.0,
+            "type_line": "Creature \u2014 Rat",
+            "oracle_text": "Pack Rat's power and toughness are each equal to the number of Rats you control.\n{2}{B}, Discard a card: Create a token that's a copy of Pack Rat.",
+            "power": "*",
+            "toughness": "*",
+            "colors": [
+                "B"
+            ],
+            "color_identity": [
+                "B"
+            ],
+            "keywords": [],
+            "all_parts": [
+                {
+                    "object": "related_card",
+                    "id": "170693f5-13db-4191-99b1-e527ffb5b88e",
+                    "component": "combo_piece",
+                    "name": "Pack Rat",
+                    "type_line": "Creature \u2014 Rat",
+                    "uri": "https://api.scryfall.com/cards/170693f5-13db-4191-99b1-e527ffb5b88e"
+                },
+                {
+                    "object": "related_card",
+                    "id": "a31d4312-08cd-4f1e-9d8f-72cbe4abb285",
+                    "component": "token",
+                    "name": "Copy",
+                    "type_line": "Token",
+                    "uri": "https://api.scryfall.com/cards/a31d4312-08cd-4f1e-9d8f-72cbe4abb285"
+                }
+            ],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "legal",
+                "timeless": "legal",
+                "gladiator": "legal",
+                "pioneer": "legal",
+                "explorer": "legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "not_legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "legal",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "not_legal"
+            },
+            "games": [
+                "paper",
+                "mtgo"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil",
+                "foil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": false,
+            "variation": false,
+            "set_id": "80b2374d-c5f1-403e-9772-f6c806fd275e",
+            "set": "rtr",
+            "set_name": "Return to Ravnica",
+            "set_type": "expansion",
+            "set_uri": "https://api.scryfall.com/sets/80b2374d-c5f1-403e-9772-f6c806fd275e",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Artr&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/rtr?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/170693f5-13db-4191-99b1-e527ffb5b88e/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5632c2df-71e6-41b7-b8f5-c683812cc0e2&unique=prints",
+            "collector_number": "73",
+            "digital": false,
+            "rarity": "rare",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Kev Walker",
+            "artist_ids": [
+                "f366a0ee-a0cd-466d-ba6a-90058c7a31a6"
+            ],
+            "illustration_id": "9600c897-97e4-4319-9f8f-012865017831",
+            "border_color": "black",
+            "frame": "2003",
+            "full_art": false,
+            "textless": false,
+            "booster": true,
+            "story_spotlight": false,
+            "edhrec_rank": 3569,
+            "penny_rank": 944,
+            "prices": {
+                "usd": "1.16",
+                "usd_foil": "6.20",
+                "usd_etched": null,
+                "eur": "1.22",
+                "eur_foil": "3.37",
+                "tix": "0.02"
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=253624&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DPack%2BRat",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DPack%2BRat",
+                "edhrec": "https://edhrec.com/route/?cc=Pack+Rat"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F66385%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Return-to-Ravnica/Pack-Rat?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards/46737?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "5c2c421c-e7fe-495c-8fbb-e25b1c1f7526",
+            "oracle_id": "5632c2df-71e6-41b7-b8f5-c683812cc0e2",
+            "multiverse_ids": [
+                646351
+            ],
+            "mtgo_id": 120455,
+            "tcgplayer_id": 530982,
+            "name": "Pack Rat",
+            "lang": "en",
+            "released_at": "2024-01-12",
+            "uri": "https://api.scryfall.com/cards/5c2c421c-e7fe-495c-8fbb-e25b1c1f7526",
+            "scryfall_uri": "https://scryfall.com/card/rvr/426/pack-rat?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/5/c/5c2c421c-e7fe-495c-8fbb-e25b1c1f7526.jpg?1702429868",
+                "normal": "https://cards.scryfall.io/normal/front/5/c/5c2c421c-e7fe-495c-8fbb-e25b1c1f7526.jpg?1702429868",
+                "large": "https://cards.scryfall.io/large/front/5/c/5c2c421c-e7fe-495c-8fbb-e25b1c1f7526.jpg?1702429868",
+                "png": "https://cards.scryfall.io/png/front/5/c/5c2c421c-e7fe-495c-8fbb-e25b1c1f7526.png?1702429868",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/5/c/5c2c421c-e7fe-495c-8fbb-e25b1c1f7526.jpg?1702429868",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/5/c/5c2c421c-e7fe-495c-8fbb-e25b1c1f7526.jpg?1702429868"
+            },
+            "mana_cost": "{1}{B}",
+            "cmc": 2.0,
+            "type_line": "Creature \u2014 Rat",
+            "oracle_text": "Pack Rat's power and toughness are each equal to the number of Rats you control.\n{2}{B}, Discard a card: Create a token that's a copy of Pack Rat.",
+            "power": "*",
+            "toughness": "*",
+            "colors": [
+                "B"
+            ],
+            "color_identity": [
+                "B"
+            ],
+            "keywords": [],
+            "all_parts": [
+                {
+                    "object": "related_card",
+                    "id": "d58013ef-d277-4104-a7c4-772d953f59a5",
+                    "component": "combo_piece",
+                    "name": "Pack Rat",
+                    "type_line": "Creature \u2014 Rat",
+                    "uri": "https://api.scryfall.com/cards/d58013ef-d277-4104-a7c4-772d953f59a5"
+                },
+                {
+                    "object": "related_card",
+                    "id": "a31d4312-08cd-4f1e-9d8f-72cbe4abb285",
+                    "component": "token",
+                    "name": "Copy",
+                    "type_line": "Token",
+                    "uri": "https://api.scryfall.com/cards/a31d4312-08cd-4f1e-9d8f-72cbe4abb285"
+                }
+            ],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "legal",
+                "timeless": "legal",
+                "gladiator": "legal",
+                "pioneer": "legal",
+                "explorer": "legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "not_legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "legal",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "not_legal"
+            },
+            "games": [
+                "paper",
+                "mtgo"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil",
+                "foil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "fed2c8cd-ab92-44f6-808a-41e7809bcfe2",
+            "set": "rvr",
+            "set_name": "Ravnica Remastered",
+            "set_type": "masters",
+            "set_uri": "https://api.scryfall.com/sets/fed2c8cd-ab92-44f6-808a-41e7809bcfe2",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Arvr&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/rvr?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/5c2c421c-e7fe-495c-8fbb-e25b1c1f7526/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5632c2df-71e6-41b7-b8f5-c683812cc0e2&unique=prints",
+            "collector_number": "426",
+            "digital": false,
+            "rarity": "rare",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Yukihiro Maruo",
+            "artist_ids": [
+                "3b702975-e3c9-46ec-872d-1e4b3e63d834"
+            ],
+            "illustration_id": "ea65d30f-d74d-4e9e-8fe9-8d9174579bd8",
+            "border_color": "borderless",
+            "frame": "2015",
+            "security_stamp": "oval",
+            "full_art": false,
+            "textless": false,
+            "booster": false,
+            "story_spotlight": false,
+            "promo_types": [
+                "boosterfun"
+            ],
+            "edhrec_rank": 3569,
+            "penny_rank": 944,
+            "prices": {
+                "usd": "1.46",
+                "usd_foil": "2.64",
+                "usd_etched": null,
+                "eur": null,
+                "eur_foil": null,
+                "tix": "0.16"
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=646351&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DPack%2BRat",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DPack%2BRat",
+                "edhrec": "https://edhrec.com/route/?cc=Pack+Rat"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F530982%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Pack+Rat&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards/120455?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "d58013ef-d277-4104-a7c4-772d953f59a5",
+            "oracle_id": "5632c2df-71e6-41b7-b8f5-c683812cc0e2",
+            "multiverse_ids": [
+                645345
+            ],
+            "mtgo_id": 120157,
+            "tcgplayer_id": 530990,
+            "name": "Pack Rat",
+            "lang": "en",
+            "released_at": "2024-01-12",
+            "uri": "https://api.scryfall.com/cards/d58013ef-d277-4104-a7c4-772d953f59a5",
+            "scryfall_uri": "https://scryfall.com/card/rvr/455/pack-rat?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/d/5/d58013ef-d277-4104-a7c4-772d953f59a5.jpg?1702421202",
+                "normal": "https://cards.scryfall.io/normal/front/d/5/d58013ef-d277-4104-a7c4-772d953f59a5.jpg?1702421202",
+                "large": "https://cards.scryfall.io/large/front/d/5/d58013ef-d277-4104-a7c4-772d953f59a5.jpg?1702421202",
+                "png": "https://cards.scryfall.io/png/front/d/5/d58013ef-d277-4104-a7c4-772d953f59a5.png?1702421202",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/d/5/d58013ef-d277-4104-a7c4-772d953f59a5.jpg?1702421202",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/d/5/d58013ef-d277-4104-a7c4-772d953f59a5.jpg?1702421202"
+            },
+            "mana_cost": "{1}{B}",
+            "cmc": 2.0,
+            "type_line": "Creature \u2014 Rat",
+            "oracle_text": "Pack Rat's power and toughness are each equal to the number of Rats you control.\n{2}{B}, Discard a card: Create a token that's a copy of Pack Rat.",
+            "power": "*",
+            "toughness": "*",
+            "colors": [
+                "B"
+            ],
+            "color_identity": [
+                "B"
+            ],
+            "keywords": [],
+            "all_parts": [
+                {
+                    "object": "related_card",
+                    "id": "d58013ef-d277-4104-a7c4-772d953f59a5",
+                    "component": "combo_piece",
+                    "name": "Pack Rat",
+                    "type_line": "Creature \u2014 Rat",
+                    "uri": "https://api.scryfall.com/cards/d58013ef-d277-4104-a7c4-772d953f59a5"
+                },
+                {
+                    "object": "related_card",
+                    "id": "a31d4312-08cd-4f1e-9d8f-72cbe4abb285",
+                    "component": "token",
+                    "name": "Copy",
+                    "type_line": "Token",
+                    "uri": "https://api.scryfall.com/cards/a31d4312-08cd-4f1e-9d8f-72cbe4abb285"
+                }
+            ],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "legal",
+                "timeless": "legal",
+                "gladiator": "legal",
+                "pioneer": "legal",
+                "explorer": "legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "not_legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "legal",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "not_legal"
+            },
+            "games": [
+                "paper",
+                "mtgo"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil",
+                "foil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "fed2c8cd-ab92-44f6-808a-41e7809bcfe2",
+            "set": "rvr",
+            "set_name": "Ravnica Remastered",
+            "set_type": "masters",
+            "set_uri": "https://api.scryfall.com/sets/fed2c8cd-ab92-44f6-808a-41e7809bcfe2",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Arvr&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/rvr?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/d58013ef-d277-4104-a7c4-772d953f59a5/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5632c2df-71e6-41b7-b8f5-c683812cc0e2&unique=prints",
+            "collector_number": "455",
+            "digital": false,
+            "rarity": "rare",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Kev Walker",
+            "artist_ids": [
+                "f366a0ee-a0cd-466d-ba6a-90058c7a31a6"
+            ],
+            "illustration_id": "9600c897-97e4-4319-9f8f-012865017831",
+            "border_color": "black",
+            "frame": "1997",
+            "full_art": false,
+            "textless": false,
+            "booster": false,
+            "story_spotlight": false,
+            "promo_types": [
+                "boosterfun"
+            ],
+            "edhrec_rank": 3569,
+            "penny_rank": 944,
+            "prices": {
+                "usd": "0.70",
+                "usd_foil": "0.70",
+                "usd_etched": null,
+                "eur": null,
+                "eur_foil": null,
+                "tix": "0.30"
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=645345&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DPack%2BRat",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DPack%2BRat",
+                "edhrec": "https://edhrec.com/route/?cc=Pack+Rat"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F530990%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Pack+Rat&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards/120157?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "33fb161c-ff04-4bf2-8320-48302dfb085c",
+            "oracle_id": "5632c2df-71e6-41b7-b8f5-c683812cc0e2",
+            "multiverse_ids": [],
+            "tcgplayer_id": 517893,
+            "name": "Pack Rat",
+            "flavor_name": "Rodents of Unusual Size",
+            "lang": "en",
+            "released_at": "2023-10-02",
+            "uri": "https://api.scryfall.com/cards/33fb161c-ff04-4bf2-8320-48302dfb085c",
+            "scryfall_uri": "https://scryfall.com/card/sld/1448/pack-rat?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/3/3/33fb161c-ff04-4bf2-8320-48302dfb085c.jpg?1695477307",
+                "normal": "https://cards.scryfall.io/normal/front/3/3/33fb161c-ff04-4bf2-8320-48302dfb085c.jpg?1695477307",
+                "large": "https://cards.scryfall.io/large/front/3/3/33fb161c-ff04-4bf2-8320-48302dfb085c.jpg?1695477307",
+                "png": "https://cards.scryfall.io/png/front/3/3/33fb161c-ff04-4bf2-8320-48302dfb085c.png?1695477307",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/3/3/33fb161c-ff04-4bf2-8320-48302dfb085c.jpg?1695477307",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/3/3/33fb161c-ff04-4bf2-8320-48302dfb085c.jpg?1695477307"
+            },
+            "mana_cost": "{1}{B}",
+            "cmc": 2.0,
+            "type_line": "Creature \u2014 Rat",
+            "oracle_text": "Pack Rat's power and toughness are each equal to the number of Rats you control.\n{2}{B}, Discard a card: Create a token that's a copy of Pack Rat.",
+            "power": "*",
+            "toughness": "*",
+            "colors": [
+                "B"
+            ],
+            "color_identity": [
+                "B"
+            ],
+            "keywords": [],
+            "all_parts": [
+                {
+                    "object": "related_card",
+                    "id": "33fb161c-ff04-4bf2-8320-48302dfb085c",
+                    "component": "combo_piece",
+                    "name": "Pack Rat",
+                    "type_line": "Creature \u2014 Rat",
+                    "uri": "https://api.scryfall.com/cards/33fb161c-ff04-4bf2-8320-48302dfb085c"
+                },
+                {
+                    "object": "related_card",
+                    "id": "a31d4312-08cd-4f1e-9d8f-72cbe4abb285",
+                    "component": "token",
+                    "name": "Copy",
+                    "type_line": "Token",
+                    "uri": "https://api.scryfall.com/cards/a31d4312-08cd-4f1e-9d8f-72cbe4abb285"
+                }
+            ],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "legal",
+                "timeless": "legal",
+                "gladiator": "legal",
+                "pioneer": "legal",
+                "explorer": "legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "not_legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "legal",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "not_legal"
+            },
+            "games": [
+                "paper"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil",
+                "foil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+            "set": "sld",
+            "set_name": "Secret Lair Drop",
+            "set_type": "box",
+            "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/33fb161c-ff04-4bf2-8320-48302dfb085c/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5632c2df-71e6-41b7-b8f5-c683812cc0e2&unique=prints",
+            "collector_number": "1448",
+            "digital": false,
+            "rarity": "rare",
+            "flavor_text": "\"Rodents of Unusual Size? I don't think they exist.\"\n\u2014Westley",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "N\u00e9stor Ossand\u00f3n Leal",
+            "artist_ids": [
+                "7a6f1667-a8ac-47f5-a302-f71cb54b2adf"
+            ],
+            "illustration_id": "9d4423cd-6632-4f07-a128-de70afe00194",
+            "border_color": "borderless",
+            "frame": "2015",
+            "frame_effects": [
+                "inverted"
+            ],
+            "security_stamp": "triangle",
+            "full_art": true,
+            "textless": false,
+            "booster": false,
+            "story_spotlight": false,
+            "edhrec_rank": 3569,
+            "penny_rank": 944,
+            "prices": {
+                "usd": "8.99",
+                "usd_foil": "8.22",
+                "usd_etched": null,
+                "eur": null,
+                "eur_foil": null,
+                "tix": null
+            },
+            "related_uris": {
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DPack%2BRat",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DPack%2BRat",
+                "edhrec": "https://edhrec.com/route/?cc=Pack+Rat"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F517893%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Pack+Rat&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Pack+Rat&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "1d9ef80b-6c61-4c2b-8e8a-f7341135d8a2",
+            "oracle_id": "5632c2df-71e6-41b7-b8f5-c683812cc0e2",
+            "multiverse_ids": [
+                547373
+            ],
+            "arena_id": 51435,
+            "name": "Pack Rat",
+            "lang": "en",
+            "released_at": "2020-03-12",
+            "uri": "https://api.scryfall.com/cards/1d9ef80b-6c61-4c2b-8e8a-f7341135d8a2",
+            "scryfall_uri": "https://scryfall.com/card/ha2/8/pack-rat?utm_source=api",
+            "layout": "normal",
+            "highres_image": false,
+            "image_status": "lowres",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/1/d/1d9ef80b-6c61-4c2b-8e8a-f7341135d8a2.jpg?1584098303",
+                "normal": "https://cards.scryfall.io/normal/front/1/d/1d9ef80b-6c61-4c2b-8e8a-f7341135d8a2.jpg?1584098303",
+                "large": "https://cards.scryfall.io/large/front/1/d/1d9ef80b-6c61-4c2b-8e8a-f7341135d8a2.jpg?1584098303",
+                "png": "https://cards.scryfall.io/png/front/1/d/1d9ef80b-6c61-4c2b-8e8a-f7341135d8a2.png?1584098303",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/1/d/1d9ef80b-6c61-4c2b-8e8a-f7341135d8a2.jpg?1584098303",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/1/d/1d9ef80b-6c61-4c2b-8e8a-f7341135d8a2.jpg?1584098303"
+            },
+            "mana_cost": "{1}{B}",
+            "cmc": 2.0,
+            "type_line": "Creature \u2014 Rat",
+            "oracle_text": "Pack Rat's power and toughness are each equal to the number of Rats you control.\n{2}{B}, Discard a card: Create a token that's a copy of Pack Rat.",
+            "power": "*",
+            "toughness": "*",
+            "colors": [
+                "B"
+            ],
+            "color_identity": [
+                "B"
+            ],
+            "keywords": [],
+            "all_parts": [
+                {
+                    "object": "related_card",
+                    "id": "1d9ef80b-6c61-4c2b-8e8a-f7341135d8a2",
+                    "component": "combo_piece",
+                    "name": "Pack Rat",
+                    "type_line": "Creature \u2014 Rat",
+                    "uri": "https://api.scryfall.com/cards/1d9ef80b-6c61-4c2b-8e8a-f7341135d8a2"
+                },
+                {
+                    "object": "related_card",
+                    "id": "a31d4312-08cd-4f1e-9d8f-72cbe4abb285",
+                    "component": "token",
+                    "name": "Copy",
+                    "type_line": "Token",
+                    "uri": "https://api.scryfall.com/cards/a31d4312-08cd-4f1e-9d8f-72cbe4abb285"
+                }
+            ],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "legal",
+                "timeless": "legal",
+                "gladiator": "legal",
+                "pioneer": "legal",
+                "explorer": "legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "not_legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "legal",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "not_legal"
+            },
+            "games": [
+                "arena"
+            ],
+            "reserved": false,
+            "foil": false,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "fcbc31db-d64d-44ad-bdf8-a32b73892bf8",
+            "set": "ha2",
+            "set_name": "Historic Anthology 2",
+            "set_type": "box",
+            "set_uri": "https://api.scryfall.com/sets/fcbc31db-d64d-44ad-bdf8-a32b73892bf8",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aha2&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/ha2?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/1d9ef80b-6c61-4c2b-8e8a-f7341135d8a2/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5632c2df-71e6-41b7-b8f5-c683812cc0e2&unique=prints",
+            "collector_number": "8",
+            "digital": true,
+            "rarity": "rare",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Kev Walker",
+            "artist_ids": [
+                "f366a0ee-a0cd-466d-ba6a-90058c7a31a6"
+            ],
+            "illustration_id": "9600c897-97e4-4319-9f8f-012865017831",
+            "border_color": "black",
+            "frame": "2015",
+            "full_art": false,
+            "textless": false,
+            "booster": false,
+            "story_spotlight": false,
+            "edhrec_rank": 3569,
+            "penny_rank": 944,
+            "prices": {
+                "usd": null,
+                "usd_foil": null,
+                "usd_etched": null,
+                "eur": null,
+                "eur_foil": null,
+                "tix": null
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=547373&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DPack%2BRat",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DPack%2BRat",
+                "edhrec": "https://edhrec.com/route/?cc=Pack+Rat"
+            }
+        },
+        {
+            "object": "card",
+            "id": "f3864bc8-f86e-4c41-b454-e19d1939147b",
+            "oracle_id": "5632c2df-71e6-41b7-b8f5-c683812cc0e2",
+            "multiverse_ids": [
+                479367
+            ],
+            "tcgplayer_id": 207465,
+            "cardmarket_id": 435709,
+            "name": "Pack Rat",
+            "lang": "en",
+            "released_at": "2020-01-27",
+            "uri": "https://api.scryfall.com/cards/f3864bc8-f86e-4c41-b454-e19d1939147b",
+            "scryfall_uri": "https://scryfall.com/card/sld/35/pack-rat?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/f/3/f3864bc8-f86e-4c41-b454-e19d1939147b.jpg?1580687969",
+                "normal": "https://cards.scryfall.io/normal/front/f/3/f3864bc8-f86e-4c41-b454-e19d1939147b.jpg?1580687969",
+                "large": "https://cards.scryfall.io/large/front/f/3/f3864bc8-f86e-4c41-b454-e19d1939147b.jpg?1580687969",
+                "png": "https://cards.scryfall.io/png/front/f/3/f3864bc8-f86e-4c41-b454-e19d1939147b.png?1580687969",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/f/3/f3864bc8-f86e-4c41-b454-e19d1939147b.jpg?1580687969",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/f/3/f3864bc8-f86e-4c41-b454-e19d1939147b.jpg?1580687969"
+            },
+            "mana_cost": "{1}{B}",
+            "cmc": 2.0,
+            "type_line": "Creature \u2014 Rat",
+            "oracle_text": "Pack Rat's power and toughness are each equal to the number of Rats you control.\n{2}{B}, Discard a card: Create a token that's a copy of Pack Rat.",
+            "power": "*",
+            "toughness": "*",
+            "colors": [
+                "B"
+            ],
+            "color_identity": [
+                "B"
+            ],
+            "keywords": [],
+            "all_parts": [
+                {
+                    "object": "related_card",
+                    "id": "33fb161c-ff04-4bf2-8320-48302dfb085c",
+                    "component": "combo_piece",
+                    "name": "Pack Rat",
+                    "type_line": "Creature \u2014 Rat",
+                    "uri": "https://api.scryfall.com/cards/33fb161c-ff04-4bf2-8320-48302dfb085c"
+                },
+                {
+                    "object": "related_card",
+                    "id": "a31d4312-08cd-4f1e-9d8f-72cbe4abb285",
+                    "component": "token",
+                    "name": "Copy",
+                    "type_line": "Token",
+                    "uri": "https://api.scryfall.com/cards/a31d4312-08cd-4f1e-9d8f-72cbe4abb285"
+                }
+            ],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "legal",
+                "timeless": "legal",
+                "gladiator": "legal",
+                "pioneer": "legal",
+                "explorer": "legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "not_legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "legal",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "not_legal"
+            },
+            "games": [
+                "paper"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": false,
+            "finishes": [
+                "foil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+            "set": "sld",
+            "set_name": "Secret Lair Drop",
+            "set_type": "box",
+            "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/f3864bc8-f86e-4c41-b454-e19d1939147b/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5632c2df-71e6-41b7-b8f5-c683812cc0e2&unique=prints",
+            "collector_number": "35",
+            "digital": false,
+            "rarity": "rare",
+            "flavor_text": "A procession of gifts with no end in sight.",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Fiona Hsieh",
+            "artist_ids": [
+                "22211c1d-e15e-4db3-9350-e4a9862928bb"
+            ],
+            "illustration_id": "24b2cd3c-0bf6-4909-8894-28ed0763e706",
+            "border_color": "black",
+            "frame": "2015",
+            "security_stamp": "oval",
+            "full_art": false,
+            "textless": false,
+            "booster": false,
+            "story_spotlight": false,
+            "edhrec_rank": 3569,
+            "penny_rank": 944,
+            "preview": {
+                "source": "Polygon",
+                "source_uri": "https://www.polygon.com/2020/1/16/21067251/magic-the-gathering-secret-lair-announcement-preview-year-of-the-rat-release-date-price",
+                "previewed_at": "2020-01-16"
+            },
+            "prices": {
+                "usd": null,
+                "usd_foil": "13.89",
+                "usd_etched": null,
+                "eur": null,
+                "eur_foil": "13.86",
+                "tix": null
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479367&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DPack%2BRat",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DPack%2BRat",
+                "edhrec": "https://edhrec.com/route/?cc=Pack+Rat"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F207465%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Secret-Lair-Drop-Series/Pack-Rat?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Pack+Rat&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        }
+    ]
+}

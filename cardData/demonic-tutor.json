@@ -1,0 +1,2681 @@
+{
+    "object": "list",
+    "total_cards": 22,
+    "has_more": false,
+    "data": [
+        {
+            "object": "card",
+            "id": "a24b4cb6-cebb-428b-8654-74347a6a8d63",
+            "oracle_id": "82004860-e589-4e38-8d61-8c0210e4ea39",
+            "multiverse_ids": [
+                622758
+            ],
+            "mtgo_id": 115399,
+            "tcgplayer_id": 504566,
+            "cardmarket_id": 722428,
+            "name": "Demonic Tutor",
+            "lang": "en",
+            "released_at": "2023-08-04",
+            "uri": "https://api.scryfall.com/cards/a24b4cb6-cebb-428b-8654-74347a6a8d63",
+            "scryfall_uri": "https://scryfall.com/card/cmm/150/demonic-tutor?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/a/2/a24b4cb6-cebb-428b-8654-74347a6a8d63.jpg?1701989302",
+                "normal": "https://cards.scryfall.io/normal/front/a/2/a24b4cb6-cebb-428b-8654-74347a6a8d63.jpg?1701989302",
+                "large": "https://cards.scryfall.io/large/front/a/2/a24b4cb6-cebb-428b-8654-74347a6a8d63.jpg?1701989302",
+                "png": "https://cards.scryfall.io/png/front/a/2/a24b4cb6-cebb-428b-8654-74347a6a8d63.png?1701989302",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/a/2/a24b4cb6-cebb-428b-8654-74347a6a8d63.jpg?1701989302",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/a/2/a24b4cb6-cebb-428b-8654-74347a6a8d63.jpg?1701989302"
+            },
+            "mana_cost": "{1}{B}",
+            "cmc": 2.0,
+            "type_line": "Sorcery",
+            "oracle_text": "Search your library for a card, put that card into your hand, then shuffle.",
+            "colors": [
+                "B"
+            ],
+            "color_identity": [
+                "B"
+            ],
+            "keywords": [],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "banned",
+                "timeless": "restricted",
+                "gladiator": "banned",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "not_legal",
+                "legacy": "banned",
+                "pauper": "not_legal",
+                "vintage": "restricted",
+                "penny": "not_legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "banned",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "legal"
+            },
+            "games": [
+                "paper",
+                "mtgo"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil",
+                "foil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "cd05036f-2698-43e6-a48e-5c8d82f0a551",
+            "set": "cmm",
+            "set_name": "Commander Masters",
+            "set_type": "masters",
+            "set_uri": "https://api.scryfall.com/sets/cd05036f-2698-43e6-a48e-5c8d82f0a551",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acmm&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/cmm?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/a24b4cb6-cebb-428b-8654-74347a6a8d63/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A82004860-e589-4e38-8d61-8c0210e4ea39&unique=prints",
+            "collector_number": "150",
+            "digital": false,
+            "rarity": "mythic",
+            "flavor_text": "Beware the generosity of demons.",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Zack Stella",
+            "artist_ids": [
+                "17bc7f55-958b-43f4-bb40-09746d05b3f9"
+            ],
+            "illustration_id": "38139ff0-097b-4d15-9e39-13a0234500c1",
+            "border_color": "black",
+            "frame": "2015",
+            "security_stamp": "oval",
+            "full_art": false,
+            "textless": false,
+            "booster": true,
+            "story_spotlight": false,
+            "edhrec_rank": 40,
+            "preview": {
+                "source": "Star City Games",
+                "source_uri": "https://articles.starcitygames.com/magic-the-gathering/demonic-tutor-demonlord-belzenlok-return-in-commander-masters/",
+                "previewed_at": "2023-07-14"
+            },
+            "prices": {
+                "usd": "40.97",
+                "usd_foil": "47.82",
+                "usd_etched": null,
+                "eur": "34.98",
+                "eur_foil": "38.82",
+                "tix": "11.53"
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=622758&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DDemonic%2BTutor",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DDemonic%2BTutor",
+                "edhrec": "https://edhrec.com/route/?cc=Demonic+Tutor"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F504566%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Commander-Masters/Demonic-Tutor?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards/115399?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "3bdbc231-5316-4abd-9d8d-d87cff2c9847",
+            "oracle_id": "82004860-e589-4e38-8d61-8c0210e4ea39",
+            "multiverse_ids": [
+                456689
+            ],
+            "mtgo_id": 70009,
+            "mtgo_foil_id": 70010,
+            "tcgplayer_id": 179462,
+            "cardmarket_id": 366167,
+            "name": "Demonic Tutor",
+            "lang": "en",
+            "released_at": "2018-12-07",
+            "uri": "https://api.scryfall.com/cards/3bdbc231-5316-4abd-9d8d-d87cff2c9847",
+            "scryfall_uri": "https://scryfall.com/card/uma/93/demonic-tutor?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/3/b/3bdbc231-5316-4abd-9d8d-d87cff2c9847.jpg?1687647503",
+                "normal": "https://cards.scryfall.io/normal/front/3/b/3bdbc231-5316-4abd-9d8d-d87cff2c9847.jpg?1687647503",
+                "large": "https://cards.scryfall.io/large/front/3/b/3bdbc231-5316-4abd-9d8d-d87cff2c9847.jpg?1687647503",
+                "png": "https://cards.scryfall.io/png/front/3/b/3bdbc231-5316-4abd-9d8d-d87cff2c9847.png?1687647503",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/3/b/3bdbc231-5316-4abd-9d8d-d87cff2c9847.jpg?1687647503",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/3/b/3bdbc231-5316-4abd-9d8d-d87cff2c9847.jpg?1687647503"
+            },
+            "mana_cost": "{1}{B}",
+            "cmc": 2.0,
+            "type_line": "Sorcery",
+            "oracle_text": "Search your library for a card, put that card into your hand, then shuffle.",
+            "colors": [
+                "B"
+            ],
+            "color_identity": [
+                "B"
+            ],
+            "keywords": [],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "banned",
+                "timeless": "restricted",
+                "gladiator": "banned",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "not_legal",
+                "legacy": "banned",
+                "pauper": "not_legal",
+                "vintage": "restricted",
+                "penny": "not_legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "banned",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "legal"
+            },
+            "games": [
+                "paper",
+                "mtgo"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil",
+                "foil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "2ec77b94-6d47-4891-a480-5d0b4e5c9372",
+            "set": "uma",
+            "set_name": "Ultimate Masters",
+            "set_type": "masters",
+            "set_uri": "https://api.scryfall.com/sets/2ec77b94-6d47-4891-a480-5d0b4e5c9372",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Auma&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/uma?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/3bdbc231-5316-4abd-9d8d-d87cff2c9847/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A82004860-e589-4e38-8d61-8c0210e4ea39&unique=prints",
+            "collector_number": "93",
+            "digital": false,
+            "rarity": "rare",
+            "flavor_text": "Beware the generosity of demons.",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Zack Stella",
+            "artist_ids": [
+                "17bc7f55-958b-43f4-bb40-09746d05b3f9"
+            ],
+            "illustration_id": "38139ff0-097b-4d15-9e39-13a0234500c1",
+            "border_color": "black",
+            "frame": "2015",
+            "security_stamp": "oval",
+            "full_art": false,
+            "textless": false,
+            "booster": true,
+            "story_spotlight": false,
+            "edhrec_rank": 40,
+            "prices": {
+                "usd": "35.43",
+                "usd_foil": "45.87",
+                "usd_etched": null,
+                "eur": "30.92",
+                "eur_foil": "39.16",
+                "tix": "6.63"
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456689&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DDemonic%2BTutor",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DDemonic%2BTutor",
+                "edhrec": "https://edhrec.com/route/?cc=Demonic+Tutor"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F179462%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Ultimate-Masters/Demonic-Tutor?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards/70009?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "68841ca8-a043-4f30-9a17-e983ed960bc2",
+            "oracle_id": "82004860-e589-4e38-8d61-8c0210e4ea39",
+            "multiverse_ids": [
+                394025
+            ],
+            "tcgplayer_id": 93575,
+            "cardmarket_id": 269949,
+            "name": "Demonic Tutor",
+            "lang": "en",
+            "released_at": "2014-12-05",
+            "uri": "https://api.scryfall.com/cards/68841ca8-a043-4f30-9a17-e983ed960bc2",
+            "scryfall_uri": "https://scryfall.com/card/dvd/49/demonic-tutor?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/6/8/68841ca8-a043-4f30-9a17-e983ed960bc2.jpg?1561771499",
+                "normal": "https://cards.scryfall.io/normal/front/6/8/68841ca8-a043-4f30-9a17-e983ed960bc2.jpg?1561771499",
+                "large": "https://cards.scryfall.io/large/front/6/8/68841ca8-a043-4f30-9a17-e983ed960bc2.jpg?1561771499",
+                "png": "https://cards.scryfall.io/png/front/6/8/68841ca8-a043-4f30-9a17-e983ed960bc2.png?1561771499",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/6/8/68841ca8-a043-4f30-9a17-e983ed960bc2.jpg?1561771499",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/6/8/68841ca8-a043-4f30-9a17-e983ed960bc2.jpg?1561771499"
+            },
+            "mana_cost": "{1}{B}",
+            "cmc": 2.0,
+            "type_line": "Sorcery",
+            "oracle_text": "Search your library for a card, put that card into your hand, then shuffle.",
+            "colors": [
+                "B"
+            ],
+            "color_identity": [
+                "B"
+            ],
+            "keywords": [],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "banned",
+                "timeless": "restricted",
+                "gladiator": "banned",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "not_legal",
+                "legacy": "banned",
+                "pauper": "not_legal",
+                "vintage": "restricted",
+                "penny": "not_legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "banned",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "legal"
+            },
+            "games": [
+                "paper"
+            ],
+            "reserved": false,
+            "foil": false,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "02a67a0d-b4da-4ca9-be01-b0d78dc62ed0",
+            "set": "dvd",
+            "set_name": "Duel Decks Anthology: Divine vs. Demonic",
+            "set_type": "duel_deck",
+            "set_uri": "https://api.scryfall.com/sets/02a67a0d-b4da-4ca9-be01-b0d78dc62ed0",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Advd&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/dvd?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/68841ca8-a043-4f30-9a17-e983ed960bc2/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A82004860-e589-4e38-8d61-8c0210e4ea39&unique=prints",
+            "collector_number": "49",
+            "digital": false,
+            "rarity": "uncommon",
+            "flavor_text": "Liliana learned the secrets she sought, but at a price that was etched on her fate.",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Scott Chou",
+            "artist_ids": [
+                "9e048547-f9c3-4958-9c2c-91e45df7c6ae"
+            ],
+            "illustration_id": "e9bc7ac9-f3ea-432f-96a1-bfdfee96fcc1",
+            "border_color": "black",
+            "frame": "2015",
+            "full_art": false,
+            "textless": false,
+            "booster": false,
+            "story_spotlight": false,
+            "edhrec_rank": 40,
+            "prices": {
+                "usd": "40.10",
+                "usd_foil": null,
+                "usd_etched": null,
+                "eur": "31.09",
+                "eur_foil": null,
+                "tix": null
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394025&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DDemonic%2BTutor",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DDemonic%2BTutor",
+                "edhrec": "https://edhrec.com/route/?cc=Demonic+Tutor"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F93575%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Duel-Decks-Anthology/Demonic-Tutor?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Demonic+Tutor&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "baa06b39-cb1e-4166-b9dc-a6f54d5fe04b",
+            "oracle_id": "82004860-e589-4e38-8d61-8c0210e4ea39",
+            "multiverse_ids": [
+                382914
+            ],
+            "mtgo_id": 52849,
+            "mtgo_foil_id": 52850,
+            "name": "Demonic Tutor",
+            "lang": "en",
+            "released_at": "2014-06-16",
+            "uri": "https://api.scryfall.com/cards/baa06b39-cb1e-4166-b9dc-a6f54d5fe04b",
+            "scryfall_uri": "https://scryfall.com/card/vma/116/demonic-tutor?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/b/a/baa06b39-cb1e-4166-b9dc-a6f54d5fe04b.jpg?1562932564",
+                "normal": "https://cards.scryfall.io/normal/front/b/a/baa06b39-cb1e-4166-b9dc-a6f54d5fe04b.jpg?1562932564",
+                "large": "https://cards.scryfall.io/large/front/b/a/baa06b39-cb1e-4166-b9dc-a6f54d5fe04b.jpg?1562932564",
+                "png": "https://cards.scryfall.io/png/front/b/a/baa06b39-cb1e-4166-b9dc-a6f54d5fe04b.png?1562932564",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/b/a/baa06b39-cb1e-4166-b9dc-a6f54d5fe04b.jpg?1562932564",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/b/a/baa06b39-cb1e-4166-b9dc-a6f54d5fe04b.jpg?1562932564"
+            },
+            "mana_cost": "{1}{B}",
+            "cmc": 2.0,
+            "type_line": "Sorcery",
+            "oracle_text": "Search your library for a card, put that card into your hand, then shuffle.",
+            "colors": [
+                "B"
+            ],
+            "color_identity": [
+                "B"
+            ],
+            "keywords": [],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "banned",
+                "timeless": "restricted",
+                "gladiator": "banned",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "not_legal",
+                "legacy": "banned",
+                "pauper": "not_legal",
+                "vintage": "restricted",
+                "penny": "not_legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "banned",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "legal"
+            },
+            "games": [
+                "mtgo"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil",
+                "foil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "a944551a-73fa-41cd-9159-e8d0e4674403",
+            "set": "vma",
+            "set_name": "Vintage Masters",
+            "set_type": "masters",
+            "set_uri": "https://api.scryfall.com/sets/a944551a-73fa-41cd-9159-e8d0e4674403",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Avma&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/vma?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/baa06b39-cb1e-4166-b9dc-a6f54d5fe04b/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A82004860-e589-4e38-8d61-8c0210e4ea39&unique=prints",
+            "collector_number": "116",
+            "digital": true,
+            "rarity": "mythic",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Scott Chou",
+            "artist_ids": [
+                "9e048547-f9c3-4958-9c2c-91e45df7c6ae"
+            ],
+            "illustration_id": "e9bc7ac9-f3ea-432f-96a1-bfdfee96fcc1",
+            "border_color": "black",
+            "frame": "2015",
+            "security_stamp": "oval",
+            "full_art": false,
+            "textless": false,
+            "booster": true,
+            "story_spotlight": false,
+            "edhrec_rank": 40,
+            "prices": {
+                "usd": null,
+                "usd_foil": null,
+                "usd_etched": null,
+                "eur": null,
+                "eur_foil": null,
+                "tix": "6.41"
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382914&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DDemonic%2BTutor",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DDemonic%2BTutor",
+                "edhrec": "https://edhrec.com/route/?cc=Demonic+Tutor"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DDemonic%2BTutor%26view%3Dgrid",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Demonic+Tutor&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards/52849?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "10c0eaca-47f1-4460-80a3-d77e283c807f",
+            "oracle_id": "82004860-e589-4e38-8d61-8c0210e4ea39",
+            "multiverse_ids": [
+                202628
+            ],
+            "mtgo_id": 38508,
+            "mtgo_foil_id": 38509,
+            "name": "Demonic Tutor",
+            "lang": "en",
+            "released_at": "2011-01-10",
+            "uri": "https://api.scryfall.com/cards/10c0eaca-47f1-4460-80a3-d77e283c807f",
+            "scryfall_uri": "https://scryfall.com/card/me4/77/demonic-tutor?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/1/0/10c0eaca-47f1-4460-80a3-d77e283c807f.jpg?1562899016",
+                "normal": "https://cards.scryfall.io/normal/front/1/0/10c0eaca-47f1-4460-80a3-d77e283c807f.jpg?1562899016",
+                "large": "https://cards.scryfall.io/large/front/1/0/10c0eaca-47f1-4460-80a3-d77e283c807f.jpg?1562899016",
+                "png": "https://cards.scryfall.io/png/front/1/0/10c0eaca-47f1-4460-80a3-d77e283c807f.png?1562899016",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/1/0/10c0eaca-47f1-4460-80a3-d77e283c807f.jpg?1562899016",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/1/0/10c0eaca-47f1-4460-80a3-d77e283c807f.jpg?1562899016"
+            },
+            "mana_cost": "{1}{B}",
+            "cmc": 2.0,
+            "type_line": "Sorcery",
+            "oracle_text": "Search your library for a card, put that card into your hand, then shuffle.",
+            "colors": [
+                "B"
+            ],
+            "color_identity": [
+                "B"
+            ],
+            "keywords": [],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "banned",
+                "timeless": "restricted",
+                "gladiator": "banned",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "not_legal",
+                "legacy": "banned",
+                "pauper": "not_legal",
+                "vintage": "restricted",
+                "penny": "not_legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "banned",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "legal"
+            },
+            "games": [
+                "mtgo"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil",
+                "foil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "d38a13b7-6615-4c89-be7d-3b4eaacf1875",
+            "set": "me4",
+            "set_name": "Masters Edition IV",
+            "set_type": "masters",
+            "set_uri": "https://api.scryfall.com/sets/d38a13b7-6615-4c89-be7d-3b4eaacf1875",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ame4&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/me4?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/10c0eaca-47f1-4460-80a3-d77e283c807f/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A82004860-e589-4e38-8d61-8c0210e4ea39&unique=prints",
+            "collector_number": "77",
+            "digital": true,
+            "rarity": "rare",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Douglas Shuler",
+            "artist_ids": [
+                "a9ddb513-51c7-455c-ab8f-5b90aae9f75b"
+            ],
+            "illustration_id": "dc8d2d3d-0b02-4e67-9cd5-7f2e27375623",
+            "border_color": "black",
+            "frame": "1997",
+            "full_art": false,
+            "textless": false,
+            "booster": true,
+            "story_spotlight": false,
+            "edhrec_rank": 40,
+            "prices": {
+                "usd": null,
+                "usd_foil": null,
+                "usd_etched": null,
+                "eur": null,
+                "eur_foil": null,
+                "tix": "9.05"
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=202628&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DDemonic%2BTutor",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DDemonic%2BTutor",
+                "edhrec": "https://edhrec.com/route/?cc=Demonic+Tutor"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DDemonic%2BTutor%26view%3Dgrid",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Demonic+Tutor&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards/38508?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "c1e5fbc6-d129-4843-96a5-ee4406b2700f",
+            "oracle_id": "82004860-e589-4e38-8d61-8c0210e4ea39",
+            "multiverse_ids": [
+                193867
+            ],
+            "mtgo_id": 32062,
+            "mtgo_foil_id": 32154,
+            "tcgplayer_id": 36807,
+            "cardmarket_id": 20865,
+            "name": "Demonic Tutor",
+            "lang": "en",
+            "released_at": "2009-04-10",
+            "uri": "https://api.scryfall.com/cards/c1e5fbc6-d129-4843-96a5-ee4406b2700f",
+            "scryfall_uri": "https://scryfall.com/card/ddc/49/demonic-tutor?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/c/1/c1e5fbc6-d129-4843-96a5-ee4406b2700f.jpg?1562486247",
+                "normal": "https://cards.scryfall.io/normal/front/c/1/c1e5fbc6-d129-4843-96a5-ee4406b2700f.jpg?1562486247",
+                "large": "https://cards.scryfall.io/large/front/c/1/c1e5fbc6-d129-4843-96a5-ee4406b2700f.jpg?1562486247",
+                "png": "https://cards.scryfall.io/png/front/c/1/c1e5fbc6-d129-4843-96a5-ee4406b2700f.png?1562486247",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/c/1/c1e5fbc6-d129-4843-96a5-ee4406b2700f.jpg?1562486247",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/c/1/c1e5fbc6-d129-4843-96a5-ee4406b2700f.jpg?1562486247"
+            },
+            "mana_cost": "{1}{B}",
+            "cmc": 2.0,
+            "type_line": "Sorcery",
+            "oracle_text": "Search your library for a card, put that card into your hand, then shuffle.",
+            "colors": [
+                "B"
+            ],
+            "color_identity": [
+                "B"
+            ],
+            "keywords": [],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "banned",
+                "timeless": "restricted",
+                "gladiator": "banned",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "not_legal",
+                "legacy": "banned",
+                "pauper": "not_legal",
+                "vintage": "restricted",
+                "penny": "not_legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "banned",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "legal"
+            },
+            "games": [
+                "paper",
+                "mtgo"
+            ],
+            "reserved": false,
+            "foil": false,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "4a1b5533-e4a3-456e-9fb1-53e754402c23",
+            "set": "ddc",
+            "set_name": "Duel Decks: Divine vs. Demonic",
+            "set_type": "duel_deck",
+            "set_uri": "https://api.scryfall.com/sets/4a1b5533-e4a3-456e-9fb1-53e754402c23",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Addc&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/ddc?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/c1e5fbc6-d129-4843-96a5-ee4406b2700f/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A82004860-e589-4e38-8d61-8c0210e4ea39&unique=prints",
+            "collector_number": "49",
+            "digital": false,
+            "rarity": "uncommon",
+            "flavor_text": "Liliana learned the secrets she sought, but at a price that was etched on her fate.",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Scott Chou",
+            "artist_ids": [
+                "9e048547-f9c3-4958-9c2c-91e45df7c6ae"
+            ],
+            "illustration_id": "e9bc7ac9-f3ea-432f-96a1-bfdfee96fcc1",
+            "border_color": "black",
+            "frame": "2003",
+            "full_art": false,
+            "textless": false,
+            "booster": false,
+            "story_spotlight": false,
+            "edhrec_rank": 40,
+            "prices": {
+                "usd": "40.73",
+                "usd_foil": null,
+                "usd_etched": null,
+                "eur": "30.11",
+                "eur_foil": null,
+                "tix": "6.63"
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=193867&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DDemonic%2BTutor",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DDemonic%2BTutor",
+                "edhrec": "https://edhrec.com/route/?cc=Demonic+Tutor"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F36807%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Duel-Decks-Divine-vs-Demonic/Demonic-Tutor?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards/32062?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "c8435923-d3eb-4366-a0d5-edf538f9f261",
+            "oracle_id": "82004860-e589-4e38-8d61-8c0210e4ea39",
+            "multiverse_ids": [],
+            "tcgplayer_id": 211801,
+            "cardmarket_id": 16789,
+            "name": "Demonic Tutor",
+            "lang": "en",
+            "released_at": "1994-06-21",
+            "uri": "https://api.scryfall.com/cards/c8435923-d3eb-4366-a0d5-edf538f9f261",
+            "scryfall_uri": "https://scryfall.com/card/sum/105/demonic-tutor?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/c/8/c8435923-d3eb-4366-a0d5-edf538f9f261.jpg?1559592886",
+                "normal": "https://cards.scryfall.io/normal/front/c/8/c8435923-d3eb-4366-a0d5-edf538f9f261.jpg?1559592886",
+                "large": "https://cards.scryfall.io/large/front/c/8/c8435923-d3eb-4366-a0d5-edf538f9f261.jpg?1559592886",
+                "png": "https://cards.scryfall.io/png/front/c/8/c8435923-d3eb-4366-a0d5-edf538f9f261.png?1559592886",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/c/8/c8435923-d3eb-4366-a0d5-edf538f9f261.jpg?1559592886",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/c/8/c8435923-d3eb-4366-a0d5-edf538f9f261.jpg?1559592886"
+            },
+            "mana_cost": "{1}{B}",
+            "cmc": 2.0,
+            "type_line": "Sorcery",
+            "oracle_text": "Search your library for a card, put that card into your hand, then shuffle.",
+            "colors": [
+                "B"
+            ],
+            "color_identity": [
+                "B"
+            ],
+            "keywords": [],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "banned",
+                "timeless": "restricted",
+                "gladiator": "banned",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "not_legal",
+                "legacy": "banned",
+                "pauper": "not_legal",
+                "vintage": "restricted",
+                "penny": "not_legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "banned",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "restricted",
+                "premodern": "not_legal",
+                "predh": "legal"
+            },
+            "games": [
+                "paper"
+            ],
+            "reserved": false,
+            "foil": false,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "7993c591-1361-4dcb-b2af-ac94dd8e86e8",
+            "set": "sum",
+            "set_name": "Summer Magic / Edgar",
+            "set_type": "core",
+            "set_uri": "https://api.scryfall.com/sets/7993c591-1361-4dcb-b2af-ac94dd8e86e8",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asum&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/sum?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/c8435923-d3eb-4366-a0d5-edf538f9f261/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A82004860-e589-4e38-8d61-8c0210e4ea39&unique=prints",
+            "collector_number": "105",
+            "digital": false,
+            "rarity": "uncommon",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Douglas Shuler",
+            "artist_ids": [
+                "a9ddb513-51c7-455c-ab8f-5b90aae9f75b"
+            ],
+            "illustration_id": "dc8d2d3d-0b02-4e67-9cd5-7f2e27375623",
+            "border_color": "white",
+            "frame": "1993",
+            "full_art": false,
+            "textless": false,
+            "booster": true,
+            "story_spotlight": false,
+            "edhrec_rank": 40,
+            "prices": {
+                "usd": null,
+                "usd_foil": null,
+                "usd_etched": null,
+                "eur": "1539.92",
+                "eur_foil": null,
+                "tix": null
+            },
+            "related_uris": {
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DDemonic%2BTutor",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DDemonic%2BTutor",
+                "edhrec": "https://edhrec.com/route/?cc=Demonic+Tutor"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F211801%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Summer-Magic/Demonic-Tutor?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Demonic+Tutor&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "881e5922-b464-4a1a-b074-664bd6c0a7f6",
+            "oracle_id": "82004860-e589-4e38-8d61-8c0210e4ea39",
+            "multiverse_ids": [
+                1155
+            ],
+            "tcgplayer_id": 1388,
+            "cardmarket_id": 5541,
+            "name": "Demonic Tutor",
+            "lang": "en",
+            "released_at": "1994-04-11",
+            "uri": "https://api.scryfall.com/cards/881e5922-b464-4a1a-b074-664bd6c0a7f6",
+            "scryfall_uri": "https://scryfall.com/card/3ed/105/demonic-tutor?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/8/8/881e5922-b464-4a1a-b074-664bd6c0a7f6.jpg?1559596930",
+                "normal": "https://cards.scryfall.io/normal/front/8/8/881e5922-b464-4a1a-b074-664bd6c0a7f6.jpg?1559596930",
+                "large": "https://cards.scryfall.io/large/front/8/8/881e5922-b464-4a1a-b074-664bd6c0a7f6.jpg?1559596930",
+                "png": "https://cards.scryfall.io/png/front/8/8/881e5922-b464-4a1a-b074-664bd6c0a7f6.png?1559596930",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/8/8/881e5922-b464-4a1a-b074-664bd6c0a7f6.jpg?1559596930",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/8/8/881e5922-b464-4a1a-b074-664bd6c0a7f6.jpg?1559596930"
+            },
+            "mana_cost": "{1}{B}",
+            "cmc": 2.0,
+            "type_line": "Sorcery",
+            "oracle_text": "Search your library for a card, put that card into your hand, then shuffle.",
+            "colors": [
+                "B"
+            ],
+            "color_identity": [
+                "B"
+            ],
+            "keywords": [],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "banned",
+                "timeless": "restricted",
+                "gladiator": "banned",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "not_legal",
+                "legacy": "banned",
+                "pauper": "not_legal",
+                "vintage": "restricted",
+                "penny": "not_legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "banned",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "restricted",
+                "premodern": "not_legal",
+                "predh": "legal"
+            },
+            "games": [
+                "paper"
+            ],
+            "reserved": false,
+            "foil": false,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "45a69797-8adf-468e-a4e1-ba81fd9d66ac",
+            "set": "3ed",
+            "set_name": "Revised Edition",
+            "set_type": "core",
+            "set_uri": "https://api.scryfall.com/sets/45a69797-8adf-468e-a4e1-ba81fd9d66ac",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3A3ed&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/3ed?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/881e5922-b464-4a1a-b074-664bd6c0a7f6/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A82004860-e589-4e38-8d61-8c0210e4ea39&unique=prints",
+            "collector_number": "105",
+            "digital": false,
+            "rarity": "uncommon",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Douglas Shuler",
+            "artist_ids": [
+                "a9ddb513-51c7-455c-ab8f-5b90aae9f75b"
+            ],
+            "illustration_id": "dc8d2d3d-0b02-4e67-9cd5-7f2e27375623",
+            "border_color": "white",
+            "frame": "1993",
+            "full_art": false,
+            "textless": false,
+            "booster": true,
+            "story_spotlight": false,
+            "edhrec_rank": 40,
+            "prices": {
+                "usd": "42.40",
+                "usd_foil": null,
+                "usd_etched": null,
+                "eur": "28.25",
+                "eur_foil": null,
+                "tix": null
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1155&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DDemonic%2BTutor",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DDemonic%2BTutor",
+                "edhrec": "https://edhrec.com/route/?cc=Demonic+Tutor"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F1388%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Revised/Demonic-Tutor?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Demonic+Tutor&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "c8d5d6a5-6807-4a80-9460-7633dc430ee9",
+            "oracle_id": "82004860-e589-4e38-8d61-8c0210e4ea39",
+            "multiverse_ids": [
+                657
+            ],
+            "tcgplayer_id": 9034,
+            "cardmarket_id": 4653,
+            "name": "Demonic Tutor",
+            "lang": "en",
+            "released_at": "1993-12-01",
+            "uri": "https://api.scryfall.com/cards/c8d5d6a5-6807-4a80-9460-7633dc430ee9",
+            "scryfall_uri": "https://scryfall.com/card/2ed/105/demonic-tutor?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/c/8/c8d5d6a5-6807-4a80-9460-7633dc430ee9.jpg?1559591813",
+                "normal": "https://cards.scryfall.io/normal/front/c/8/c8d5d6a5-6807-4a80-9460-7633dc430ee9.jpg?1559591813",
+                "large": "https://cards.scryfall.io/large/front/c/8/c8d5d6a5-6807-4a80-9460-7633dc430ee9.jpg?1559591813",
+                "png": "https://cards.scryfall.io/png/front/c/8/c8d5d6a5-6807-4a80-9460-7633dc430ee9.png?1559591813",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/c/8/c8d5d6a5-6807-4a80-9460-7633dc430ee9.jpg?1559591813",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/c/8/c8d5d6a5-6807-4a80-9460-7633dc430ee9.jpg?1559591813"
+            },
+            "mana_cost": "{1}{B}",
+            "cmc": 2.0,
+            "type_line": "Sorcery",
+            "oracle_text": "Search your library for a card, put that card into your hand, then shuffle.",
+            "colors": [
+                "B"
+            ],
+            "color_identity": [
+                "B"
+            ],
+            "keywords": [],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "banned",
+                "timeless": "restricted",
+                "gladiator": "banned",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "not_legal",
+                "legacy": "banned",
+                "pauper": "not_legal",
+                "vintage": "restricted",
+                "penny": "not_legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "banned",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "restricted",
+                "premodern": "not_legal",
+                "predh": "legal"
+            },
+            "games": [
+                "paper"
+            ],
+            "reserved": false,
+            "foil": false,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "cd7694b9-339c-405d-a991-14413d4f6d5c",
+            "set": "2ed",
+            "set_name": "Unlimited Edition",
+            "set_type": "core",
+            "set_uri": "https://api.scryfall.com/sets/cd7694b9-339c-405d-a991-14413d4f6d5c",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3A2ed&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/2ed?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/c8d5d6a5-6807-4a80-9460-7633dc430ee9/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A82004860-e589-4e38-8d61-8c0210e4ea39&unique=prints",
+            "collector_number": "105",
+            "digital": false,
+            "rarity": "uncommon",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Douglas Shuler",
+            "artist_ids": [
+                "a9ddb513-51c7-455c-ab8f-5b90aae9f75b"
+            ],
+            "illustration_id": "dc8d2d3d-0b02-4e67-9cd5-7f2e27375623",
+            "border_color": "white",
+            "frame": "1993",
+            "full_art": false,
+            "textless": false,
+            "booster": true,
+            "story_spotlight": false,
+            "edhrec_rank": 40,
+            "prices": {
+                "usd": "101.51",
+                "usd_foil": null,
+                "usd_etched": null,
+                "eur": "59.08",
+                "eur_foil": null,
+                "tix": null
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=657&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DDemonic%2BTutor",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DDemonic%2BTutor",
+                "edhrec": "https://edhrec.com/route/?cc=Demonic+Tutor"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F9034%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Unlimited/Demonic-Tutor?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Demonic+Tutor&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "a5e571ef-1645-4584-ab53-e7ea5d443dea",
+            "oracle_id": "82004860-e589-4e38-8d61-8c0210e4ea39",
+            "multiverse_ids": [
+                355
+            ],
+            "tcgplayer_id": 8732,
+            "cardmarket_id": 4652,
+            "name": "Demonic Tutor",
+            "lang": "en",
+            "released_at": "1993-10-04",
+            "uri": "https://api.scryfall.com/cards/a5e571ef-1645-4584-ab53-e7ea5d443dea",
+            "scryfall_uri": "https://scryfall.com/card/leb/105/demonic-tutor?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/a/5/a5e571ef-1645-4584-ab53-e7ea5d443dea.jpg?1559591824",
+                "normal": "https://cards.scryfall.io/normal/front/a/5/a5e571ef-1645-4584-ab53-e7ea5d443dea.jpg?1559591824",
+                "large": "https://cards.scryfall.io/large/front/a/5/a5e571ef-1645-4584-ab53-e7ea5d443dea.jpg?1559591824",
+                "png": "https://cards.scryfall.io/png/front/a/5/a5e571ef-1645-4584-ab53-e7ea5d443dea.png?1559591824",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/a/5/a5e571ef-1645-4584-ab53-e7ea5d443dea.jpg?1559591824",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/a/5/a5e571ef-1645-4584-ab53-e7ea5d443dea.jpg?1559591824"
+            },
+            "mana_cost": "{1}{B}",
+            "cmc": 2.0,
+            "type_line": "Sorcery",
+            "oracle_text": "Search your library for a card, put that card into your hand, then shuffle.",
+            "colors": [
+                "B"
+            ],
+            "color_identity": [
+                "B"
+            ],
+            "keywords": [],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "banned",
+                "timeless": "restricted",
+                "gladiator": "banned",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "not_legal",
+                "legacy": "banned",
+                "pauper": "not_legal",
+                "vintage": "restricted",
+                "penny": "not_legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "banned",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "restricted",
+                "premodern": "not_legal",
+                "predh": "legal"
+            },
+            "games": [
+                "paper"
+            ],
+            "reserved": false,
+            "foil": false,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "5307bd88-637c-4a5c-9801-a0d887715302",
+            "set": "leb",
+            "set_name": "Limited Edition Beta",
+            "set_type": "core",
+            "set_uri": "https://api.scryfall.com/sets/5307bd88-637c-4a5c-9801-a0d887715302",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aleb&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/leb?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/a5e571ef-1645-4584-ab53-e7ea5d443dea/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A82004860-e589-4e38-8d61-8c0210e4ea39&unique=prints",
+            "collector_number": "105",
+            "digital": false,
+            "rarity": "uncommon",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Douglas Shuler",
+            "artist_ids": [
+                "a9ddb513-51c7-455c-ab8f-5b90aae9f75b"
+            ],
+            "illustration_id": "dc8d2d3d-0b02-4e67-9cd5-7f2e27375623",
+            "border_color": "black",
+            "frame": "1993",
+            "full_art": false,
+            "textless": false,
+            "booster": true,
+            "story_spotlight": false,
+            "edhrec_rank": 40,
+            "prices": {
+                "usd": "299.75",
+                "usd_foil": null,
+                "usd_etched": null,
+                "eur": "433.85",
+                "eur_foil": null,
+                "tix": null
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=355&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DDemonic%2BTutor",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DDemonic%2BTutor",
+                "edhrec": "https://edhrec.com/route/?cc=Demonic+Tutor"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F8732%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Beta/Demonic-Tutor?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Demonic+Tutor&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "711d4d54-5520-4de8-9b93-79902ed8e562",
+            "oracle_id": "82004860-e589-4e38-8d61-8c0210e4ea39",
+            "multiverse_ids": [
+                60
+            ],
+            "tcgplayer_id": 1087,
+            "cardmarket_id": 5246,
+            "name": "Demonic Tutor",
+            "lang": "en",
+            "released_at": "1993-08-05",
+            "uri": "https://api.scryfall.com/cards/711d4d54-5520-4de8-9b93-79902ed8e562",
+            "scryfall_uri": "https://scryfall.com/card/lea/104/demonic-tutor?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/7/1/711d4d54-5520-4de8-9b93-79902ed8e562.jpg?1559591474",
+                "normal": "https://cards.scryfall.io/normal/front/7/1/711d4d54-5520-4de8-9b93-79902ed8e562.jpg?1559591474",
+                "large": "https://cards.scryfall.io/large/front/7/1/711d4d54-5520-4de8-9b93-79902ed8e562.jpg?1559591474",
+                "png": "https://cards.scryfall.io/png/front/7/1/711d4d54-5520-4de8-9b93-79902ed8e562.png?1559591474",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/7/1/711d4d54-5520-4de8-9b93-79902ed8e562.jpg?1559591474",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/7/1/711d4d54-5520-4de8-9b93-79902ed8e562.jpg?1559591474"
+            },
+            "mana_cost": "{1}{B}",
+            "cmc": 2.0,
+            "type_line": "Sorcery",
+            "oracle_text": "Search your library for a card, put that card into your hand, then shuffle.",
+            "colors": [
+                "B"
+            ],
+            "color_identity": [
+                "B"
+            ],
+            "keywords": [],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "banned",
+                "timeless": "restricted",
+                "gladiator": "banned",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "not_legal",
+                "legacy": "banned",
+                "pauper": "not_legal",
+                "vintage": "restricted",
+                "penny": "not_legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "banned",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "restricted",
+                "premodern": "not_legal",
+                "predh": "legal"
+            },
+            "games": [
+                "paper"
+            ],
+            "reserved": false,
+            "foil": false,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": false,
+            "variation": false,
+            "set_id": "288bd996-960e-448b-a187-9504c1930c2c",
+            "set": "lea",
+            "set_name": "Limited Edition Alpha",
+            "set_type": "core",
+            "set_uri": "https://api.scryfall.com/sets/288bd996-960e-448b-a187-9504c1930c2c",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Alea&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/lea?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/711d4d54-5520-4de8-9b93-79902ed8e562/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A82004860-e589-4e38-8d61-8c0210e4ea39&unique=prints",
+            "collector_number": "104",
+            "digital": false,
+            "rarity": "uncommon",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Douglas Shuler",
+            "artist_ids": [
+                "a9ddb513-51c7-455c-ab8f-5b90aae9f75b"
+            ],
+            "illustration_id": "dc8d2d3d-0b02-4e67-9cd5-7f2e27375623",
+            "border_color": "black",
+            "frame": "1993",
+            "full_art": false,
+            "textless": false,
+            "booster": true,
+            "story_spotlight": false,
+            "edhrec_rank": 40,
+            "prices": {
+                "usd": null,
+                "usd_foil": null,
+                "usd_etched": null,
+                "eur": "1438.91",
+                "eur_foil": null,
+                "tix": null
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=60&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DDemonic%2BTutor",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DDemonic%2BTutor",
+                "edhrec": "https://edhrec.com/route/?cc=Demonic+Tutor"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F1087%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Alpha/Demonic-Tutor?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Demonic+Tutor&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "89153e75-2333-42e8-bc28-1b3d1e4726dd",
+            "oracle_id": "82004860-e589-4e38-8d61-8c0210e4ea39",
+            "multiverse_ids": [
+                626364
+            ],
+            "mtgo_id": 113363,
+            "tcgplayer_etched_id": 504603,
+            "cardmarket_id": 722555,
+            "name": "Demonic Tutor",
+            "lang": "en",
+            "released_at": "2023-08-04",
+            "uri": "https://api.scryfall.com/cards/89153e75-2333-42e8-bc28-1b3d1e4726dd",
+            "scryfall_uri": "https://scryfall.com/card/cmm/509/demonic-tutor?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/8/9/89153e75-2333-42e8-bc28-1b3d1e4726dd.jpg?1690000776",
+                "normal": "https://cards.scryfall.io/normal/front/8/9/89153e75-2333-42e8-bc28-1b3d1e4726dd.jpg?1690000776",
+                "large": "https://cards.scryfall.io/large/front/8/9/89153e75-2333-42e8-bc28-1b3d1e4726dd.jpg?1690000776",
+                "png": "https://cards.scryfall.io/png/front/8/9/89153e75-2333-42e8-bc28-1b3d1e4726dd.png?1690000776",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/8/9/89153e75-2333-42e8-bc28-1b3d1e4726dd.jpg?1690000776",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/8/9/89153e75-2333-42e8-bc28-1b3d1e4726dd.jpg?1690000776"
+            },
+            "mana_cost": "{1}{B}",
+            "cmc": 2.0,
+            "type_line": "Sorcery",
+            "oracle_text": "Search your library for a card, put that card into your hand, then shuffle.",
+            "colors": [
+                "B"
+            ],
+            "color_identity": [
+                "B"
+            ],
+            "keywords": [],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "banned",
+                "timeless": "restricted",
+                "gladiator": "banned",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "not_legal",
+                "legacy": "banned",
+                "pauper": "not_legal",
+                "vintage": "restricted",
+                "penny": "not_legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "banned",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "legal"
+            },
+            "games": [
+                "paper",
+                "mtgo"
+            ],
+            "reserved": false,
+            "foil": false,
+            "nonfoil": false,
+            "finishes": [
+                "etched"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "cd05036f-2698-43e6-a48e-5c8d82f0a551",
+            "set": "cmm",
+            "set_name": "Commander Masters",
+            "set_type": "masters",
+            "set_uri": "https://api.scryfall.com/sets/cd05036f-2698-43e6-a48e-5c8d82f0a551",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acmm&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/cmm?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/89153e75-2333-42e8-bc28-1b3d1e4726dd/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A82004860-e589-4e38-8d61-8c0210e4ea39&unique=prints",
+            "collector_number": "509",
+            "digital": false,
+            "rarity": "mythic",
+            "flavor_text": "Beware the generosity of demons.",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Zack Stella",
+            "artist_ids": [
+                "17bc7f55-958b-43f4-bb40-09746d05b3f9"
+            ],
+            "illustration_id": "38139ff0-097b-4d15-9e39-13a0234500c1",
+            "border_color": "black",
+            "frame": "2015",
+            "frame_effects": [
+                "inverted"
+            ],
+            "security_stamp": "oval",
+            "full_art": false,
+            "textless": false,
+            "booster": false,
+            "story_spotlight": false,
+            "promo_types": [
+                "boosterfun"
+            ],
+            "edhrec_rank": 40,
+            "preview": {
+                "source": "Star City Games",
+                "source_uri": "https://articles.starcitygames.com/magic-the-gathering/demonic-tutor-demonlord-belzenlok-return-in-commander-masters/",
+                "previewed_at": "2023-07-14"
+            },
+            "prices": {
+                "usd": null,
+                "usd_foil": null,
+                "usd_etched": "42.79",
+                "eur": null,
+                "eur_foil": null,
+                "tix": "6.57"
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=626364&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DDemonic%2BTutor",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DDemonic%2BTutor",
+                "edhrec": "https://edhrec.com/route/?cc=Demonic+Tutor"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DDemonic%2BTutor%26view%3Dgrid",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Commander-Masters-Extras/Demonic-Tutor-V1?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards/113363?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "0fbb8533-9404-4af0-a14a-1e136eacdb3a",
+            "oracle_id": "82004860-e589-4e38-8d61-8c0210e4ea39",
+            "multiverse_ids": [
+                624778
+            ],
+            "mtgo_id": 113645,
+            "tcgplayer_id": 504181,
+            "cardmarket_id": 722649,
+            "name": "Demonic Tutor",
+            "lang": "en",
+            "released_at": "2023-08-04",
+            "uri": "https://api.scryfall.com/cards/0fbb8533-9404-4af0-a14a-1e136eacdb3a",
+            "scryfall_uri": "https://scryfall.com/card/cmm/696/demonic-tutor?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/0/f/0fbb8533-9404-4af0-a14a-1e136eacdb3a.jpg?1690002774",
+                "normal": "https://cards.scryfall.io/normal/front/0/f/0fbb8533-9404-4af0-a14a-1e136eacdb3a.jpg?1690002774",
+                "large": "https://cards.scryfall.io/large/front/0/f/0fbb8533-9404-4af0-a14a-1e136eacdb3a.jpg?1690002774",
+                "png": "https://cards.scryfall.io/png/front/0/f/0fbb8533-9404-4af0-a14a-1e136eacdb3a.png?1690002774",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/0/f/0fbb8533-9404-4af0-a14a-1e136eacdb3a.jpg?1690002774",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/0/f/0fbb8533-9404-4af0-a14a-1e136eacdb3a.jpg?1690002774"
+            },
+            "mana_cost": "{1}{B}",
+            "cmc": 2.0,
+            "type_line": "Sorcery",
+            "oracle_text": "Search your library for a card, put that card into your hand, then shuffle.",
+            "colors": [
+                "B"
+            ],
+            "color_identity": [
+                "B"
+            ],
+            "keywords": [],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "banned",
+                "timeless": "restricted",
+                "gladiator": "banned",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "not_legal",
+                "legacy": "banned",
+                "pauper": "not_legal",
+                "vintage": "restricted",
+                "penny": "not_legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "banned",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "legal"
+            },
+            "games": [
+                "paper",
+                "mtgo"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil",
+                "foil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "cd05036f-2698-43e6-a48e-5c8d82f0a551",
+            "set": "cmm",
+            "set_name": "Commander Masters",
+            "set_type": "masters",
+            "set_uri": "https://api.scryfall.com/sets/cd05036f-2698-43e6-a48e-5c8d82f0a551",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acmm&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/cmm?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/0fbb8533-9404-4af0-a14a-1e136eacdb3a/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A82004860-e589-4e38-8d61-8c0210e4ea39&unique=prints",
+            "collector_number": "696",
+            "digital": false,
+            "rarity": "mythic",
+            "flavor_text": "\"Is the knowledge really forbidden because it is dangerous to you? Or perhaps because it is dangerous to those who seek to control you?\"",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Donato Giancola",
+            "artist_ids": [
+                "90332db2-aecb-4d79-917b-95cbeb8d0cb6"
+            ],
+            "illustration_id": "88c922c4-ff23-4254-a99c-dc9f140f18c6",
+            "border_color": "borderless",
+            "frame": "2015",
+            "frame_effects": [
+                "inverted"
+            ],
+            "security_stamp": "oval",
+            "full_art": false,
+            "textless": false,
+            "booster": false,
+            "story_spotlight": false,
+            "promo_types": [
+                "boosterfun"
+            ],
+            "edhrec_rank": 40,
+            "preview": {
+                "source": "Star City Games",
+                "source_uri": "https://articles.starcitygames.com/magic-the-gathering/demonic-tutor-demonlord-belzenlok-return-in-commander-masters/",
+                "previewed_at": "2023-07-14"
+            },
+            "prices": {
+                "usd": "53.17",
+                "usd_foil": "79.64",
+                "usd_etched": null,
+                "eur": "52.37",
+                "eur_foil": "84.26",
+                "tix": "7.96"
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=624778&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DDemonic%2BTutor",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DDemonic%2BTutor",
+                "edhrec": "https://edhrec.com/route/?cc=Demonic+Tutor"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F504181%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Commander-Masters-Extras/Demonic-Tutor-V2?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards/113645?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "a7094d56-4c8b-4b2f-ad3a-83d81c460626",
+            "oracle_id": "82004860-e589-4e38-8d61-8c0210e4ea39",
+            "multiverse_ids": [],
+            "tcgplayer_id": 244397,
+            "cardmarket_id": 571940,
+            "name": "Demonic Tutor",
+            "lang": "en",
+            "released_at": "2021-07-23",
+            "uri": "https://api.scryfall.com/cards/a7094d56-4c8b-4b2f-ad3a-83d81c460626",
+            "scryfall_uri": "https://scryfall.com/card/plst/UMA-93/demonic-tutor?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/a/7/a7094d56-4c8b-4b2f-ad3a-83d81c460626.jpg?1626117661",
+                "normal": "https://cards.scryfall.io/normal/front/a/7/a7094d56-4c8b-4b2f-ad3a-83d81c460626.jpg?1626117661",
+                "large": "https://cards.scryfall.io/large/front/a/7/a7094d56-4c8b-4b2f-ad3a-83d81c460626.jpg?1626117661",
+                "png": "https://cards.scryfall.io/png/front/a/7/a7094d56-4c8b-4b2f-ad3a-83d81c460626.png?1626117661",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/a/7/a7094d56-4c8b-4b2f-ad3a-83d81c460626.jpg?1626117661",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/a/7/a7094d56-4c8b-4b2f-ad3a-83d81c460626.jpg?1626117661"
+            },
+            "mana_cost": "{1}{B}",
+            "cmc": 2.0,
+            "type_line": "Sorcery",
+            "oracle_text": "Search your library for a card, put that card into your hand, then shuffle.",
+            "colors": [
+                "B"
+            ],
+            "color_identity": [
+                "B"
+            ],
+            "keywords": [],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "banned",
+                "timeless": "restricted",
+                "gladiator": "banned",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "not_legal",
+                "legacy": "banned",
+                "pauper": "not_legal",
+                "vintage": "restricted",
+                "penny": "not_legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "banned",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "legal"
+            },
+            "games": [
+                "paper"
+            ],
+            "reserved": false,
+            "foil": false,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+            "set": "plst",
+            "set_name": "The List",
+            "set_type": "masters",
+            "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/a7094d56-4c8b-4b2f-ad3a-83d81c460626/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A82004860-e589-4e38-8d61-8c0210e4ea39&unique=prints",
+            "collector_number": "UMA-93",
+            "digital": false,
+            "rarity": "rare",
+            "flavor_text": "Beware the generosity of demons.",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Zack Stella",
+            "artist_ids": [
+                "17bc7f55-958b-43f4-bb40-09746d05b3f9"
+            ],
+            "illustration_id": "38139ff0-097b-4d15-9e39-13a0234500c1",
+            "border_color": "black",
+            "frame": "2015",
+            "security_stamp": "oval",
+            "full_art": false,
+            "textless": false,
+            "booster": true,
+            "story_spotlight": false,
+            "edhrec_rank": 40,
+            "prices": {
+                "usd": "34.79",
+                "usd_foil": null,
+                "usd_etched": null,
+                "eur": "32.17",
+                "eur_foil": null,
+                "tix": null
+            },
+            "related_uris": {
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DDemonic%2BTutor",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DDemonic%2BTutor",
+                "edhrec": "https://edhrec.com/route/?cc=Demonic+Tutor"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F244397%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/The-List/Demonic-Tutor?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Demonic+Tutor&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "3009ba46-c9f8-46dc-8ffc-2aa4cef7b17c",
+            "oracle_id": "82004860-e589-4e38-8d61-8c0210e4ea39",
+            "multiverse_ids": [
+                517577
+            ],
+            "mtgo_id": 89111,
+            "arena_id": 77506,
+            "tcgplayer_id": 233371,
+            "tcgplayer_etched_id": 233372,
+            "cardmarket_id": 540506,
+            "name": "Demonic Tutor",
+            "lang": "en",
+            "released_at": "2021-04-23",
+            "uri": "https://api.scryfall.com/cards/3009ba46-c9f8-46dc-8ffc-2aa4cef7b17c",
+            "scryfall_uri": "https://scryfall.com/card/sta/27/demonic-tutor?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/3/0/3009ba46-c9f8-46dc-8ffc-2aa4cef7b17c.jpg?1623779988",
+                "normal": "https://cards.scryfall.io/normal/front/3/0/3009ba46-c9f8-46dc-8ffc-2aa4cef7b17c.jpg?1623779988",
+                "large": "https://cards.scryfall.io/large/front/3/0/3009ba46-c9f8-46dc-8ffc-2aa4cef7b17c.jpg?1623779988",
+                "png": "https://cards.scryfall.io/png/front/3/0/3009ba46-c9f8-46dc-8ffc-2aa4cef7b17c.png?1623779988",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/3/0/3009ba46-c9f8-46dc-8ffc-2aa4cef7b17c.jpg?1623779988",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/3/0/3009ba46-c9f8-46dc-8ffc-2aa4cef7b17c.jpg?1623779988"
+            },
+            "mana_cost": "{1}{B}",
+            "cmc": 2.0,
+            "type_line": "Sorcery",
+            "oracle_text": "Search your library for a card, put that card into your hand, then shuffle.",
+            "colors": [
+                "B"
+            ],
+            "color_identity": [
+                "B"
+            ],
+            "keywords": [],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "banned",
+                "timeless": "restricted",
+                "gladiator": "banned",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "not_legal",
+                "legacy": "banned",
+                "pauper": "not_legal",
+                "vintage": "restricted",
+                "penny": "not_legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "banned",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "legal"
+            },
+            "games": [
+                "arena",
+                "paper",
+                "mtgo"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil",
+                "foil",
+                "etched"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "5064a720-907f-4cb6-a425-766dc1dd7374",
+            "set": "sta",
+            "set_name": "Strixhaven Mystical Archive",
+            "set_type": "masterpiece",
+            "set_uri": "https://api.scryfall.com/sets/5064a720-907f-4cb6-a425-766dc1dd7374",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asta&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/sta?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/3009ba46-c9f8-46dc-8ffc-2aa4cef7b17c/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A82004860-e589-4e38-8d61-8c0210e4ea39&unique=prints",
+            "collector_number": "27",
+            "digital": false,
+            "rarity": "mythic",
+            "flavor_text": "\"Demons prefer to deal with those who believe themselves too wise to be fooled.\"\n\u2014Scroll case inscription",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Anato Finnstark",
+            "artist_ids": [
+                "05d233e7-4958-4f79-83e6-f9bf8b6ff78e"
+            ],
+            "illustration_id": "700f02ab-28cd-4556-8764-f283679a58de",
+            "border_color": "borderless",
+            "frame": "2015",
+            "frame_effects": [
+                "showcase"
+            ],
+            "security_stamp": "oval",
+            "full_art": false,
+            "textless": false,
+            "booster": false,
+            "story_spotlight": false,
+            "edhrec_rank": 40,
+            "prices": {
+                "usd": "41.75",
+                "usd_foil": "57.84",
+                "usd_etched": "57.84",
+                "eur": "39.74",
+                "eur_foil": "66.72",
+                "tix": "6.51"
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=517577&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DDemonic%2BTutor",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DDemonic%2BTutor",
+                "edhrec": "https://edhrec.com/route/?cc=Demonic+Tutor"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F233371%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Mystical-Archive/Demonic-Tutor-V1?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards/89111?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "99b6e466-784b-48a6-8e72-beff72f39231",
+            "oracle_id": "82004860-e589-4e38-8d61-8c0210e4ea39",
+            "multiverse_ids": [],
+            "mtgo_id": 99579,
+            "arena_id": 77569,
+            "tcgplayer_id": 233497,
+            "tcgplayer_etched_id": 233496,
+            "cardmarket_id": 540556,
+            "name": "Demonic Tutor",
+            "printed_name": "\u60aa\u9b54\u306e\u6559\u793a\u8005",
+            "lang": "ja",
+            "released_at": "2021-04-23",
+            "uri": "https://api.scryfall.com/cards/99b6e466-784b-48a6-8e72-beff72f39231",
+            "scryfall_uri": "https://scryfall.com/card/sta/90/ja/%E6%82%AA%E9%AD%94%E3%81%AE%E6%95%99%E7%A4%BA%E8%80%85?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/9/9/99b6e466-784b-48a6-8e72-beff72f39231.jpg?1624502333",
+                "normal": "https://cards.scryfall.io/normal/front/9/9/99b6e466-784b-48a6-8e72-beff72f39231.jpg?1624502333",
+                "large": "https://cards.scryfall.io/large/front/9/9/99b6e466-784b-48a6-8e72-beff72f39231.jpg?1624502333",
+                "png": "https://cards.scryfall.io/png/front/9/9/99b6e466-784b-48a6-8e72-beff72f39231.png?1624502333",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/9/9/99b6e466-784b-48a6-8e72-beff72f39231.jpg?1624502333",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/9/9/99b6e466-784b-48a6-8e72-beff72f39231.jpg?1624502333"
+            },
+            "mana_cost": "{1}{B}",
+            "cmc": 2.0,
+            "type_line": "Sorcery",
+            "printed_type_line": "\u30bd\u30fc\u30b5\u30ea\u30fc",
+            "oracle_text": "Search your library for a card, put that card into your hand, then shuffle.",
+            "printed_text": "\u3042\u306a\u305f\u306e\u30e9\u30a4\u30d6\u30e9\u30ea\u30fc\u304b\u3089\u30ab\u30fc\u30c9\uff11\u679a\u3092\u63a2\u3057\u3001\u3042\u306a\u305f\u306e\u624b\u672d\u306b\u52a0\u3048\u308b\u3002\u305d\u306e\u5f8c\u3001\u30e9\u30a4\u30d6\u30e9\u30ea\u30fc\u3092\u5207\u308a\u76f4\u3059\u3002",
+            "colors": [
+                "B"
+            ],
+            "color_identity": [
+                "B"
+            ],
+            "keywords": [],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "banned",
+                "timeless": "restricted",
+                "gladiator": "banned",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "not_legal",
+                "legacy": "banned",
+                "pauper": "not_legal",
+                "vintage": "restricted",
+                "penny": "not_legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "banned",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "legal"
+            },
+            "games": [
+                "arena",
+                "paper",
+                "mtgo"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil",
+                "foil",
+                "etched"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "5064a720-907f-4cb6-a425-766dc1dd7374",
+            "set": "sta",
+            "set_name": "Strixhaven Mystical Archive",
+            "set_type": "masterpiece",
+            "set_uri": "https://api.scryfall.com/sets/5064a720-907f-4cb6-a425-766dc1dd7374",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asta&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/sta?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/99b6e466-784b-48a6-8e72-beff72f39231/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A82004860-e589-4e38-8d61-8c0210e4ea39&unique=prints",
+            "collector_number": "90",
+            "digital": false,
+            "rarity": "mythic",
+            "flavor_text": "\u300c\u60aa\u9b54\u306f\u3001\u81ea\u5206\u304c\u8ce2\u304f\u3001\u9a19\u3055\u308c\u308b\u3053\u3068\u306a\u3069\u306a\u3044\u3068\u4fe1\u3058\u3066\u3044\u308b\u8005\u3092\u597d\u3080\u3002\u300d \u30fc\u5dfb\u7269\u5165\u308c\u306b\u523b\u307e\u308c\u305f\u8a00\u8449",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Sumie Okazu",
+            "artist_ids": [
+                "d32e1d7f-08ff-423e-95d3-2387cfd15ac2"
+            ],
+            "illustration_id": "3d3d4ccf-b3f2-4e9f-bbe1-ba7590d51efb",
+            "border_color": "borderless",
+            "frame": "2015",
+            "security_stamp": "oval",
+            "full_art": false,
+            "textless": false,
+            "booster": false,
+            "story_spotlight": false,
+            "edhrec_rank": 40,
+            "prices": {
+                "usd": "103.43",
+                "usd_foil": "270.22",
+                "usd_etched": "159.29",
+                "eur": "92.71",
+                "eur_foil": "235.47",
+                "tix": "7.15"
+            },
+            "related_uris": {
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DDemonic%2BTutor",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DDemonic%2BTutor",
+                "edhrec": "https://edhrec.com/route/?cc=Demonic+Tutor"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F233497%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Mystical-Archive/Demonic-Tutor-V2?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards/99579?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "fdbe0cf7-38e2-4b2e-8fcb-c08f160caf19",
+            "oracle_id": "82004860-e589-4e38-8d61-8c0210e4ea39",
+            "multiverse_ids": [],
+            "tcgplayer_id": 206251,
+            "cardmarket_id": 428076,
+            "name": "Demonic Tutor",
+            "lang": "en",
+            "released_at": "2020-01-01",
+            "uri": "https://api.scryfall.com/cards/fdbe0cf7-38e2-4b2e-8fcb-c08f160caf19",
+            "scryfall_uri": "https://scryfall.com/card/j20/4/demonic-tutor?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/f/d/fdbe0cf7-38e2-4b2e-8fcb-c08f160caf19.jpg?1592711975",
+                "normal": "https://cards.scryfall.io/normal/front/f/d/fdbe0cf7-38e2-4b2e-8fcb-c08f160caf19.jpg?1592711975",
+                "large": "https://cards.scryfall.io/large/front/f/d/fdbe0cf7-38e2-4b2e-8fcb-c08f160caf19.jpg?1592711975",
+                "png": "https://cards.scryfall.io/png/front/f/d/fdbe0cf7-38e2-4b2e-8fcb-c08f160caf19.png?1592711975",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/f/d/fdbe0cf7-38e2-4b2e-8fcb-c08f160caf19.jpg?1592711975",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/f/d/fdbe0cf7-38e2-4b2e-8fcb-c08f160caf19.jpg?1592711975"
+            },
+            "mana_cost": "{1}{B}",
+            "cmc": 2.0,
+            "type_line": "Sorcery",
+            "oracle_text": "Search your library for a card, put that card into your hand, then shuffle.",
+            "colors": [
+                "B"
+            ],
+            "color_identity": [
+                "B"
+            ],
+            "keywords": [],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "banned",
+                "timeless": "restricted",
+                "gladiator": "banned",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "not_legal",
+                "legacy": "banned",
+                "pauper": "not_legal",
+                "vintage": "restricted",
+                "penny": "not_legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "banned",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "legal"
+            },
+            "games": [
+                "paper"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": false,
+            "finishes": [
+                "foil"
+            ],
+            "oversized": false,
+            "promo": true,
+            "reprint": true,
+            "variation": false,
+            "set_id": "1b90366b-7692-44ea-bd55-f17fa92869a5",
+            "set": "j20",
+            "set_name": "Judge Gift Cards 2020",
+            "set_type": "promo",
+            "set_uri": "https://api.scryfall.com/sets/1b90366b-7692-44ea-bd55-f17fa92869a5",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aj20&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/j20?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/fdbe0cf7-38e2-4b2e-8fcb-c08f160caf19/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A82004860-e589-4e38-8d61-8c0210e4ea39&unique=prints",
+            "collector_number": "4",
+            "digital": false,
+            "rarity": "rare",
+            "watermark": "judgeacademy",
+            "flavor_text": "\"Mama says it's my imagination, but I know you'd never lie to me.\"",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Anna Steinbauer",
+            "artist_ids": [
+                "3516496c-c279-4b56-8239-720683d03ae0"
+            ],
+            "illustration_id": "053dfa10-e8d5-48a7-a327-a2918b4c8344",
+            "border_color": "black",
+            "frame": "2015",
+            "security_stamp": "oval",
+            "full_art": false,
+            "textless": false,
+            "booster": false,
+            "story_spotlight": false,
+            "promo_types": [
+                "judgegift"
+            ],
+            "edhrec_rank": 40,
+            "prices": {
+                "usd": null,
+                "usd_foil": "146.47",
+                "usd_etched": null,
+                "eur": null,
+                "eur_foil": "152.42",
+                "tix": null
+            },
+            "related_uris": {
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DDemonic%2BTutor",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DDemonic%2BTutor",
+                "edhrec": "https://edhrec.com/route/?cc=Demonic+Tutor"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F206251%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Judge-Rewards-Promos/Demonic-Tutor-V-2?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Demonic+Tutor&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "77be13ed-5ef5-4452-a16f-ccd3599d8555",
+            "oracle_id": "82004860-e589-4e38-8d61-8c0210e4ea39",
+            "multiverse_ids": [],
+            "tcgplayer_id": 203644,
+            "cardmarket_id": 418446,
+            "name": "Demonic Tutor",
+            "lang": "en",
+            "released_at": "2019-11-07",
+            "uri": "https://api.scryfall.com/cards/77be13ed-5ef5-4452-a16f-ccd3599d8555",
+            "scryfall_uri": "https://scryfall.com/card/plst/DDC-49/demonic-tutor?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/7/7/77be13ed-5ef5-4452-a16f-ccd3599d8555.jpg?1706115272",
+                "normal": "https://cards.scryfall.io/normal/front/7/7/77be13ed-5ef5-4452-a16f-ccd3599d8555.jpg?1706115272",
+                "large": "https://cards.scryfall.io/large/front/7/7/77be13ed-5ef5-4452-a16f-ccd3599d8555.jpg?1706115272",
+                "png": "https://cards.scryfall.io/png/front/7/7/77be13ed-5ef5-4452-a16f-ccd3599d8555.png?1706115272",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/7/7/77be13ed-5ef5-4452-a16f-ccd3599d8555.jpg?1706115272",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/7/7/77be13ed-5ef5-4452-a16f-ccd3599d8555.jpg?1706115272"
+            },
+            "mana_cost": "{1}{B}",
+            "cmc": 2.0,
+            "type_line": "Sorcery",
+            "oracle_text": "Search your library for a card, put that card into your hand, then shuffle.",
+            "colors": [
+                "B"
+            ],
+            "color_identity": [
+                "B"
+            ],
+            "keywords": [],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "banned",
+                "timeless": "restricted",
+                "gladiator": "banned",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "not_legal",
+                "legacy": "banned",
+                "pauper": "not_legal",
+                "vintage": "restricted",
+                "penny": "not_legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "banned",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "legal"
+            },
+            "games": [
+                "paper"
+            ],
+            "reserved": false,
+            "foil": false,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+            "set": "plst",
+            "set_name": "The List",
+            "set_type": "masters",
+            "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/77be13ed-5ef5-4452-a16f-ccd3599d8555/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A82004860-e589-4e38-8d61-8c0210e4ea39&unique=prints",
+            "collector_number": "DDC-49",
+            "digital": false,
+            "rarity": "uncommon",
+            "flavor_text": "Liliana learned the secrets she sought, but at a price that was etched on her fate.",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Scott Chou",
+            "artist_ids": [
+                "9e048547-f9c3-4958-9c2c-91e45df7c6ae"
+            ],
+            "illustration_id": "e9bc7ac9-f3ea-432f-96a1-bfdfee96fcc1",
+            "border_color": "black",
+            "frame": "2003",
+            "full_art": false,
+            "textless": false,
+            "booster": true,
+            "story_spotlight": false,
+            "edhrec_rank": 40,
+            "prices": {
+                "usd": "30.08",
+                "usd_foil": null,
+                "usd_etched": null,
+                "eur": "28.96",
+                "eur_foil": null,
+                "tix": null
+            },
+            "related_uris": {
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DDemonic%2BTutor",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DDemonic%2BTutor",
+                "edhrec": "https://edhrec.com/route/?cc=Demonic+Tutor"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F203644%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Mystery-Booster/Demonic-Tutor?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Demonic+Tutor&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "2d957ecf-93e7-4a32-88bc-4d10feaab4ea",
+            "oracle_id": "82004860-e589-4e38-8d61-8c0210e4ea39",
+            "multiverse_ids": [
+                457112
+            ],
+            "mtgo_id": 70259,
+            "mtgo_foil_id": 70260,
+            "tcgplayer_id": 179461,
+            "cardmarket_id": 366166,
+            "name": "Demonic Tutor",
+            "lang": "en",
+            "released_at": "2018-12-07",
+            "uri": "https://api.scryfall.com/cards/2d957ecf-93e7-4a32-88bc-4d10feaab4ea",
+            "scryfall_uri": "https://scryfall.com/card/puma/U8/demonic-tutor?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/2/d/2d957ecf-93e7-4a32-88bc-4d10feaab4ea.jpg?1586440564",
+                "normal": "https://cards.scryfall.io/normal/front/2/d/2d957ecf-93e7-4a32-88bc-4d10feaab4ea.jpg?1586440564",
+                "large": "https://cards.scryfall.io/large/front/2/d/2d957ecf-93e7-4a32-88bc-4d10feaab4ea.jpg?1586440564",
+                "png": "https://cards.scryfall.io/png/front/2/d/2d957ecf-93e7-4a32-88bc-4d10feaab4ea.png?1586440564",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/2/d/2d957ecf-93e7-4a32-88bc-4d10feaab4ea.jpg?1586440564",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/2/d/2d957ecf-93e7-4a32-88bc-4d10feaab4ea.jpg?1586440564"
+            },
+            "mana_cost": "{1}{B}",
+            "cmc": 2.0,
+            "type_line": "Sorcery",
+            "oracle_text": "Search your library for a card, put that card into your hand, then shuffle.",
+            "colors": [
+                "B"
+            ],
+            "color_identity": [
+                "B"
+            ],
+            "keywords": [],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "banned",
+                "timeless": "restricted",
+                "gladiator": "banned",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "not_legal",
+                "legacy": "banned",
+                "pauper": "not_legal",
+                "vintage": "restricted",
+                "penny": "not_legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "banned",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "legal"
+            },
+            "games": [
+                "paper",
+                "mtgo"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": false,
+            "finishes": [
+                "foil"
+            ],
+            "oversized": false,
+            "promo": true,
+            "reprint": true,
+            "variation": false,
+            "set_id": "bb516e44-1185-4bd5-9025-2c1b994beaac",
+            "set": "puma",
+            "set_name": "Ultimate Box Topper",
+            "set_type": "masterpiece",
+            "set_uri": "https://api.scryfall.com/sets/bb516e44-1185-4bd5-9025-2c1b994beaac",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apuma&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/puma?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/2d957ecf-93e7-4a32-88bc-4d10feaab4ea/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A82004860-e589-4e38-8d61-8c0210e4ea39&unique=prints",
+            "collector_number": "U8",
+            "digital": false,
+            "rarity": "mythic",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Zack Stella",
+            "artist_ids": [
+                "17bc7f55-958b-43f4-bb40-09746d05b3f9"
+            ],
+            "illustration_id": "38139ff0-097b-4d15-9e39-13a0234500c1",
+            "border_color": "black",
+            "frame": "2015",
+            "frame_effects": [
+                "extendedart"
+            ],
+            "security_stamp": "oval",
+            "full_art": false,
+            "textless": false,
+            "booster": false,
+            "story_spotlight": false,
+            "promo_types": [
+                "boxtopper"
+            ],
+            "edhrec_rank": 40,
+            "prices": {
+                "usd": null,
+                "usd_foil": "83.15",
+                "usd_etched": null,
+                "eur": null,
+                "eur_foil": "72.14",
+                "tix": "7.53"
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457112&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DDemonic%2BTutor",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DDemonic%2BTutor",
+                "edhrec": "https://edhrec.com/route/?cc=Demonic+Tutor"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F179461%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Ultimate-Box-Toppers/Demonic-Tutor?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards/70259?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "75489def-de33-4a67-8d59-5b10b83c16f4",
+            "oracle_id": "82004860-e589-4e38-8d61-8c0210e4ea39",
+            "multiverse_ids": [],
+            "mtgo_id": 35074,
+            "name": "Demonic Tutor",
+            "lang": "en",
+            "released_at": "2013-01-11",
+            "uri": "https://api.scryfall.com/cards/75489def-de33-4a67-8d59-5b10b83c16f4",
+            "scryfall_uri": "https://scryfall.com/card/prm/35074/demonic-tutor?utm_source=api",
+            "layout": "normal",
+            "highres_image": false,
+            "image_status": "lowres",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/7/5/75489def-de33-4a67-8d59-5b10b83c16f4.jpg?1562545746",
+                "normal": "https://cards.scryfall.io/normal/front/7/5/75489def-de33-4a67-8d59-5b10b83c16f4.jpg?1562545746",
+                "large": "https://cards.scryfall.io/large/front/7/5/75489def-de33-4a67-8d59-5b10b83c16f4.jpg?1562545746",
+                "png": "https://cards.scryfall.io/png/front/7/5/75489def-de33-4a67-8d59-5b10b83c16f4.png?1562545746",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/7/5/75489def-de33-4a67-8d59-5b10b83c16f4.jpg?1562545746",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/7/5/75489def-de33-4a67-8d59-5b10b83c16f4.jpg?1562545746"
+            },
+            "mana_cost": "{1}{B}",
+            "cmc": 2.0,
+            "type_line": "Sorcery",
+            "oracle_text": "Search your library for a card, put that card into your hand, then shuffle.",
+            "colors": [
+                "B"
+            ],
+            "color_identity": [
+                "B"
+            ],
+            "keywords": [],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "banned",
+                "timeless": "restricted",
+                "gladiator": "banned",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "not_legal",
+                "legacy": "banned",
+                "pauper": "not_legal",
+                "vintage": "restricted",
+                "penny": "not_legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "banned",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "legal"
+            },
+            "games": [
+                "mtgo"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": false,
+            "finishes": [
+                "foil"
+            ],
+            "oversized": false,
+            "promo": true,
+            "reprint": true,
+            "variation": false,
+            "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+            "set": "prm",
+            "set_name": "Magic Online Promos",
+            "set_type": "promo",
+            "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/75489def-de33-4a67-8d59-5b10b83c16f4/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A82004860-e589-4e38-8d61-8c0210e4ea39&unique=prints",
+            "collector_number": "35074",
+            "digital": true,
+            "rarity": "uncommon",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Daarken",
+            "artist_ids": [
+                "e607a0d4-fc12-4c01-9e3f-501f5269b9cb"
+            ],
+            "illustration_id": "e5563258-b15e-488d-a467-8efcd2552ee9",
+            "border_color": "black",
+            "frame": "2003",
+            "full_art": false,
+            "textless": false,
+            "booster": false,
+            "story_spotlight": false,
+            "edhrec_rank": 40,
+            "prices": {
+                "usd": null,
+                "usd_foil": null,
+                "usd_etched": null,
+                "eur": null,
+                "eur_foil": null,
+                "tix": "6.49"
+            },
+            "related_uris": {
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DDemonic%2BTutor",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DDemonic%2BTutor",
+                "edhrec": "https://edhrec.com/route/?cc=Demonic+Tutor"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DDemonic%2BTutor%26view%3Dgrid",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Demonic+Tutor&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards/35074?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "b7d77e0b-c918-4a16-94e2-e9f8cf709217",
+            "oracle_id": "82004860-e589-4e38-8d61-8c0210e4ea39",
+            "multiverse_ids": [],
+            "tcgplayer_id": 38238,
+            "cardmarket_id": 19775,
+            "name": "Demonic Tutor",
+            "lang": "en",
+            "released_at": "2008-01-01",
+            "uri": "https://api.scryfall.com/cards/b7d77e0b-c918-4a16-94e2-e9f8cf709217",
+            "scryfall_uri": "https://scryfall.com/card/g08/3/demonic-tutor?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/b/7/b7d77e0b-c918-4a16-94e2-e9f8cf709217.jpg?1561757903",
+                "normal": "https://cards.scryfall.io/normal/front/b/7/b7d77e0b-c918-4a16-94e2-e9f8cf709217.jpg?1561757903",
+                "large": "https://cards.scryfall.io/large/front/b/7/b7d77e0b-c918-4a16-94e2-e9f8cf709217.jpg?1561757903",
+                "png": "https://cards.scryfall.io/png/front/b/7/b7d77e0b-c918-4a16-94e2-e9f8cf709217.png?1561757903",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/b/7/b7d77e0b-c918-4a16-94e2-e9f8cf709217.jpg?1561757903",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/b/7/b7d77e0b-c918-4a16-94e2-e9f8cf709217.jpg?1561757903"
+            },
+            "mana_cost": "{1}{B}",
+            "cmc": 2.0,
+            "type_line": "Sorcery",
+            "oracle_text": "Search your library for a card, put that card into your hand, then shuffle.",
+            "colors": [
+                "B"
+            ],
+            "color_identity": [
+                "B"
+            ],
+            "keywords": [],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "banned",
+                "timeless": "restricted",
+                "gladiator": "banned",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "not_legal",
+                "legacy": "banned",
+                "pauper": "not_legal",
+                "vintage": "restricted",
+                "penny": "not_legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "banned",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "legal"
+            },
+            "games": [
+                "paper"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": false,
+            "finishes": [
+                "foil"
+            ],
+            "oversized": false,
+            "promo": true,
+            "reprint": true,
+            "variation": false,
+            "set_id": "587e3ddb-7ffd-4e17-85e0-7846846d677f",
+            "set": "g08",
+            "set_name": "Judge Gift Cards 2008",
+            "set_type": "promo",
+            "set_uri": "https://api.scryfall.com/sets/587e3ddb-7ffd-4e17-85e0-7846846d677f",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ag08&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/g08?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/b7d77e0b-c918-4a16-94e2-e9f8cf709217/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A82004860-e589-4e38-8d61-8c0210e4ea39&unique=prints",
+            "collector_number": "3",
+            "digital": false,
+            "rarity": "rare",
+            "watermark": "dci",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Daarken",
+            "artist_ids": [
+                "e607a0d4-fc12-4c01-9e3f-501f5269b9cb"
+            ],
+            "illustration_id": "e5563258-b15e-488d-a467-8efcd2552ee9",
+            "border_color": "black",
+            "frame": "2003",
+            "full_art": false,
+            "textless": false,
+            "booster": false,
+            "story_spotlight": false,
+            "promo_types": [
+                "judgegift"
+            ],
+            "edhrec_rank": 40,
+            "prices": {
+                "usd": null,
+                "usd_foil": "331.79",
+                "usd_etched": null,
+                "eur": null,
+                "eur_foil": "183.65",
+                "tix": null
+            },
+            "related_uris": {
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DDemonic%2BTutor",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DDemonic%2BTutor",
+                "edhrec": "https://edhrec.com/route/?cc=Demonic+Tutor"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F38238%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Judge-Rewards-Promos/Demonic-Tutor?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Demonic+Tutor&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "9ee20fb3-fc63-42aa-8b52-2adf7c8b2463",
+            "oracle_id": "82004860-e589-4e38-8d61-8c0210e4ea39",
+            "multiverse_ids": [],
+            "tcgplayer_id": 109835,
+            "cardmarket_id": 15190,
+            "name": "Demonic Tutor",
+            "printed_name": "Pr\u00e9cepteur diabolique",
+            "lang": "fr",
+            "released_at": "1994-04-11",
+            "uri": "https://api.scryfall.com/cards/9ee20fb3-fc63-42aa-8b52-2adf7c8b2463",
+            "scryfall_uri": "https://scryfall.com/card/fbb/105/fr/pr%C3%A9cepteur-diabolique?utm_source=api",
+            "layout": "normal",
+            "highres_image": false,
+            "image_status": "lowres",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/9/e/9ee20fb3-fc63-42aa-8b52-2adf7c8b2463.jpg?1668753229",
+                "normal": "https://cards.scryfall.io/normal/front/9/e/9ee20fb3-fc63-42aa-8b52-2adf7c8b2463.jpg?1668753229",
+                "large": "https://cards.scryfall.io/large/front/9/e/9ee20fb3-fc63-42aa-8b52-2adf7c8b2463.jpg?1668753229",
+                "png": "https://cards.scryfall.io/png/front/9/e/9ee20fb3-fc63-42aa-8b52-2adf7c8b2463.png?1668753229",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/9/e/9ee20fb3-fc63-42aa-8b52-2adf7c8b2463.jpg?1668753229",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/9/e/9ee20fb3-fc63-42aa-8b52-2adf7c8b2463.jpg?1668753229"
+            },
+            "mana_cost": "{1}{B}",
+            "cmc": 2.0,
+            "type_line": "Sorcery",
+            "oracle_text": "Search your library for a card, put that card into your hand, then shuffle.",
+            "colors": [
+                "B"
+            ],
+            "color_identity": [
+                "B"
+            ],
+            "keywords": [],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "banned",
+                "timeless": "restricted",
+                "gladiator": "banned",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "not_legal",
+                "legacy": "banned",
+                "pauper": "not_legal",
+                "vintage": "restricted",
+                "penny": "not_legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "banned",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "restricted",
+                "premodern": "not_legal",
+                "predh": "legal"
+            },
+            "games": [
+                "paper"
+            ],
+            "reserved": false,
+            "foil": false,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "60648044-9f6a-4961-81af-47a0a94dfac9",
+            "set": "fbb",
+            "set_name": "Foreign Black Border",
+            "set_type": "core",
+            "set_uri": "https://api.scryfall.com/sets/60648044-9f6a-4961-81af-47a0a94dfac9",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Afbb&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/fbb?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/9ee20fb3-fc63-42aa-8b52-2adf7c8b2463/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A82004860-e589-4e38-8d61-8c0210e4ea39&unique=prints",
+            "collector_number": "105",
+            "digital": false,
+            "rarity": "uncommon",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Douglas Shuler",
+            "artist_ids": [
+                "a9ddb513-51c7-455c-ab8f-5b90aae9f75b"
+            ],
+            "illustration_id": "dc8d2d3d-0b02-4e67-9cd5-7f2e27375623",
+            "border_color": "black",
+            "frame": "1993",
+            "full_art": false,
+            "textless": false,
+            "booster": true,
+            "story_spotlight": false,
+            "edhrec_rank": 40,
+            "prices": {
+                "usd": "90.00",
+                "usd_foil": null,
+                "usd_etched": null,
+                "eur": "38.89",
+                "eur_foil": null,
+                "tix": null
+            },
+            "related_uris": {
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DDemonic%2BTutor",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DDemonic%2BTutor",
+                "edhrec": "https://edhrec.com/route/?cc=Demonic+Tutor"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F109835%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Foreign-Black-Bordered/Demonic-Tutor?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Demonic+Tutor&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        }
+    ]
+}

@@ -1,0 +1,643 @@
+{
+    "object": "list",
+    "total_cards": 5,
+    "has_more": false,
+    "data": [
+        {
+            "object": "card",
+            "id": "9a52c265-6920-4929-ba0a-70da08df01f1",
+            "oracle_id": "7246d45b-2185-4cdd-981b-5419b7d52bce",
+            "multiverse_ids": [
+                426704
+            ],
+            "mtgo_id": 63606,
+            "mtgo_foil_id": 63607,
+            "tcgplayer_id": 130149,
+            "cardmarket_id": 296825,
+            "name": "Anointed Procession",
+            "lang": "en",
+            "released_at": "2017-04-28",
+            "uri": "https://api.scryfall.com/cards/9a52c265-6920-4929-ba0a-70da08df01f1",
+            "scryfall_uri": "https://scryfall.com/card/akh/2/anointed-procession?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/9/a/9a52c265-6920-4929-ba0a-70da08df01f1.jpg?1543674565",
+                "normal": "https://cards.scryfall.io/normal/front/9/a/9a52c265-6920-4929-ba0a-70da08df01f1.jpg?1543674565",
+                "large": "https://cards.scryfall.io/large/front/9/a/9a52c265-6920-4929-ba0a-70da08df01f1.jpg?1543674565",
+                "png": "https://cards.scryfall.io/png/front/9/a/9a52c265-6920-4929-ba0a-70da08df01f1.png?1543674565",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/9/a/9a52c265-6920-4929-ba0a-70da08df01f1.jpg?1543674565",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/9/a/9a52c265-6920-4929-ba0a-70da08df01f1.jpg?1543674565"
+            },
+            "mana_cost": "{3}{W}",
+            "cmc": 4.0,
+            "type_line": "Enchantment",
+            "oracle_text": "If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.",
+            "colors": [
+                "W"
+            ],
+            "color_identity": [
+                "W"
+            ],
+            "keywords": [],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "legal",
+                "timeless": "legal",
+                "gladiator": "legal",
+                "pioneer": "legal",
+                "explorer": "legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "not_legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "legal",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "not_legal"
+            },
+            "games": [
+                "paper",
+                "mtgo"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil",
+                "foil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": false,
+            "variation": false,
+            "set_id": "02d1c536-68bc-4208-9b65-7741ef1f9da8",
+            "set": "akh",
+            "set_name": "Amonkhet",
+            "set_type": "expansion",
+            "set_uri": "https://api.scryfall.com/sets/02d1c536-68bc-4208-9b65-7741ef1f9da8",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aakh&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/akh?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/9a52c265-6920-4929-ba0a-70da08df01f1/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7246d45b-2185-4cdd-981b-5419b7d52bce&unique=prints",
+            "collector_number": "2",
+            "digital": false,
+            "rarity": "rare",
+            "watermark": "planeswalker",
+            "flavor_text": "\"The gods here may walk among the people, but they are not with them.\"\n\u2014Gideon Jura",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Victor Adame Minguez",
+            "artist_ids": [
+                "bd8f7368-5b10-4554-b6b8-d052c6aca89f"
+            ],
+            "illustration_id": "7aecf9a4-6c84-4aca-ab91-62ee479b9e08",
+            "border_color": "black",
+            "frame": "2015",
+            "security_stamp": "oval",
+            "full_art": false,
+            "textless": false,
+            "booster": true,
+            "story_spotlight": true,
+            "edhrec_rank": 258,
+            "penny_rank": 5015,
+            "prices": {
+                "usd": "47.51",
+                "usd_foil": "68.44",
+                "usd_etched": null,
+                "eur": "29.13",
+                "eur_foil": "39.30",
+                "tix": "0.02"
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426704&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DAnointed%2BProcession",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DAnointed%2BProcession",
+                "edhrec": "https://edhrec.com/route/?cc=Anointed+Procession"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F130149%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Amonkhet/Anointed-Procession?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards/63606?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "c9d6af7b-41a5-4077-81ed-7560548dcf3e",
+            "oracle_id": "7246d45b-2185-4cdd-981b-5419b7d52bce",
+            "multiverse_ids": [],
+            "tcgplayer_id": 262885,
+            "cardmarket_id": 609517,
+            "name": "Anointed Procession",
+            "lang": "en",
+            "released_at": "2022-02-18",
+            "uri": "https://api.scryfall.com/cards/c9d6af7b-41a5-4077-81ed-7560548dcf3e",
+            "scryfall_uri": "https://scryfall.com/card/plst/AKH-2/anointed-procession?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/c/9/c9d6af7b-41a5-4077-81ed-7560548dcf3e.jpg?1643939169",
+                "normal": "https://cards.scryfall.io/normal/front/c/9/c9d6af7b-41a5-4077-81ed-7560548dcf3e.jpg?1643939169",
+                "large": "https://cards.scryfall.io/large/front/c/9/c9d6af7b-41a5-4077-81ed-7560548dcf3e.jpg?1643939169",
+                "png": "https://cards.scryfall.io/png/front/c/9/c9d6af7b-41a5-4077-81ed-7560548dcf3e.png?1643939169",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/c/9/c9d6af7b-41a5-4077-81ed-7560548dcf3e.jpg?1643939169",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/c/9/c9d6af7b-41a5-4077-81ed-7560548dcf3e.jpg?1643939169"
+            },
+            "mana_cost": "{3}{W}",
+            "cmc": 4.0,
+            "type_line": "Enchantment",
+            "oracle_text": "If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.",
+            "colors": [
+                "W"
+            ],
+            "color_identity": [
+                "W"
+            ],
+            "keywords": [],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "legal",
+                "timeless": "legal",
+                "gladiator": "legal",
+                "pioneer": "legal",
+                "explorer": "legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "not_legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "legal",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "not_legal"
+            },
+            "games": [
+                "paper"
+            ],
+            "reserved": false,
+            "foil": false,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+            "set": "plst",
+            "set_name": "The List",
+            "set_type": "masters",
+            "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/c9d6af7b-41a5-4077-81ed-7560548dcf3e/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7246d45b-2185-4cdd-981b-5419b7d52bce&unique=prints",
+            "collector_number": "AKH-2",
+            "digital": false,
+            "rarity": "rare",
+            "watermark": "planeswalker",
+            "flavor_text": "\"The gods here may walk among the people, but they are not with them.\"\n\u2014Gideon Jura",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Victor Adame Minguez",
+            "artist_ids": [
+                "bd8f7368-5b10-4554-b6b8-d052c6aca89f"
+            ],
+            "illustration_id": "7aecf9a4-6c84-4aca-ab91-62ee479b9e08",
+            "border_color": "black",
+            "frame": "2015",
+            "security_stamp": "oval",
+            "full_art": false,
+            "textless": false,
+            "booster": true,
+            "story_spotlight": true,
+            "edhrec_rank": 258,
+            "penny_rank": 5015,
+            "prices": {
+                "usd": "50.36",
+                "usd_foil": null,
+                "usd_etched": null,
+                "eur": "35.73",
+                "eur_foil": null,
+                "tix": null
+            },
+            "related_uris": {
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DAnointed%2BProcession",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DAnointed%2BProcession",
+                "edhrec": "https://edhrec.com/route/?cc=Anointed+Procession"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F262885%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/The-List/Anointed-Procession?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Anointed+Procession&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "8e89f936-38ba-45f7-9c9b-d2d5055a4377",
+            "oracle_id": "7246d45b-2185-4cdd-981b-5419b7d52bce",
+            "multiverse_ids": [
+                547469
+            ],
+            "arena_id": 73774,
+            "name": "Anointed Procession",
+            "lang": "en",
+            "released_at": "2020-08-13",
+            "uri": "https://api.scryfall.com/cards/8e89f936-38ba-45f7-9c9b-d2d5055a4377",
+            "scryfall_uri": "https://scryfall.com/card/akr/2/anointed-procession?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/8/e/8e89f936-38ba-45f7-9c9b-d2d5055a4377.jpg?1597076321",
+                "normal": "https://cards.scryfall.io/normal/front/8/e/8e89f936-38ba-45f7-9c9b-d2d5055a4377.jpg?1597076321",
+                "large": "https://cards.scryfall.io/large/front/8/e/8e89f936-38ba-45f7-9c9b-d2d5055a4377.jpg?1597076321",
+                "png": "https://cards.scryfall.io/png/front/8/e/8e89f936-38ba-45f7-9c9b-d2d5055a4377.png?1597076321",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/8/e/8e89f936-38ba-45f7-9c9b-d2d5055a4377.jpg?1597076321",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/8/e/8e89f936-38ba-45f7-9c9b-d2d5055a4377.jpg?1597076321"
+            },
+            "mana_cost": "{3}{W}",
+            "cmc": 4.0,
+            "type_line": "Enchantment",
+            "oracle_text": "If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.",
+            "colors": [
+                "W"
+            ],
+            "color_identity": [
+                "W"
+            ],
+            "keywords": [],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "legal",
+                "timeless": "legal",
+                "gladiator": "legal",
+                "pioneer": "legal",
+                "explorer": "legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "not_legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "legal",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "not_legal"
+            },
+            "games": [
+                "arena"
+            ],
+            "reserved": false,
+            "foil": false,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "915dabb1-b82a-432d-939d-d9b128e65582",
+            "set": "akr",
+            "set_name": "Amonkhet Remastered",
+            "set_type": "masters",
+            "set_uri": "https://api.scryfall.com/sets/915dabb1-b82a-432d-939d-d9b128e65582",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aakr&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/akr?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/8e89f936-38ba-45f7-9c9b-d2d5055a4377/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7246d45b-2185-4cdd-981b-5419b7d52bce&unique=prints",
+            "collector_number": "2",
+            "digital": true,
+            "rarity": "rare",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Victor Adame Minguez",
+            "artist_ids": [
+                "bd8f7368-5b10-4554-b6b8-d052c6aca89f"
+            ],
+            "illustration_id": "7aecf9a4-6c84-4aca-ab91-62ee479b9e08",
+            "border_color": "black",
+            "frame": "2015",
+            "full_art": false,
+            "textless": false,
+            "booster": true,
+            "story_spotlight": false,
+            "edhrec_rank": 258,
+            "penny_rank": 5015,
+            "prices": {
+                "usd": null,
+                "usd_foil": null,
+                "usd_etched": null,
+                "eur": null,
+                "eur_foil": null,
+                "tix": null
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=547469&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DAnointed%2BProcession",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DAnointed%2BProcession",
+                "edhrec": "https://edhrec.com/route/?cc=Anointed+Procession"
+            }
+        },
+        {
+            "object": "card",
+            "id": "a425c968-933f-4284-a971-919047b00fd2",
+            "oracle_id": "7246d45b-2185-4cdd-981b-5419b7d52bce",
+            "multiverse_ids": [],
+            "tcgplayer_id": 130613,
+            "cardmarket_id": 297622,
+            "name": "Anointed Procession",
+            "lang": "en",
+            "released_at": "2017-04-28",
+            "uri": "https://api.scryfall.com/cards/a425c968-933f-4284-a971-919047b00fd2",
+            "scryfall_uri": "https://scryfall.com/card/pakh/2s/anointed-procession?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/a/4/a425c968-933f-4284-a971-919047b00fd2.jpg?1562925627",
+                "normal": "https://cards.scryfall.io/normal/front/a/4/a425c968-933f-4284-a971-919047b00fd2.jpg?1562925627",
+                "large": "https://cards.scryfall.io/large/front/a/4/a425c968-933f-4284-a971-919047b00fd2.jpg?1562925627",
+                "png": "https://cards.scryfall.io/png/front/a/4/a425c968-933f-4284-a971-919047b00fd2.png?1562925627",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/a/4/a425c968-933f-4284-a971-919047b00fd2.jpg?1562925627",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/a/4/a425c968-933f-4284-a971-919047b00fd2.jpg?1562925627"
+            },
+            "mana_cost": "{3}{W}",
+            "cmc": 4.0,
+            "type_line": "Enchantment",
+            "oracle_text": "If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.",
+            "colors": [
+                "W"
+            ],
+            "color_identity": [
+                "W"
+            ],
+            "keywords": [],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "legal",
+                "timeless": "legal",
+                "gladiator": "legal",
+                "pioneer": "legal",
+                "explorer": "legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "not_legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "legal",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "not_legal"
+            },
+            "games": [
+                "paper"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": false,
+            "finishes": [
+                "foil"
+            ],
+            "oversized": false,
+            "promo": true,
+            "reprint": true,
+            "variation": false,
+            "set_id": "c1847ece-b71e-4125-973a-465dfb35e496",
+            "set": "pakh",
+            "set_name": "Amonkhet Promos",
+            "set_type": "promo",
+            "set_uri": "https://api.scryfall.com/sets/c1847ece-b71e-4125-973a-465dfb35e496",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apakh&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/pakh?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/a425c968-933f-4284-a971-919047b00fd2/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7246d45b-2185-4cdd-981b-5419b7d52bce&unique=prints",
+            "collector_number": "2s",
+            "digital": false,
+            "rarity": "rare",
+            "watermark": "planeswalker",
+            "flavor_text": "\"The gods here may walk among the people, but they are not with them.\"\n\u2014Gideon Jura",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Victor Adame Minguez",
+            "artist_ids": [
+                "bd8f7368-5b10-4554-b6b8-d052c6aca89f"
+            ],
+            "illustration_id": "7aecf9a4-6c84-4aca-ab91-62ee479b9e08",
+            "border_color": "black",
+            "frame": "2015",
+            "security_stamp": "oval",
+            "full_art": false,
+            "textless": false,
+            "booster": false,
+            "story_spotlight": false,
+            "promo_types": [
+                "setpromo",
+                "prerelease",
+                "datestamped"
+            ],
+            "edhrec_rank": 258,
+            "penny_rank": 5015,
+            "prices": {
+                "usd": null,
+                "usd_foil": "75.77",
+                "usd_etched": null,
+                "eur": null,
+                "eur_foil": "37.24",
+                "tix": null
+            },
+            "related_uris": {
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DAnointed%2BProcession",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DAnointed%2BProcession",
+                "edhrec": "https://edhrec.com/route/?cc=Anointed+Procession"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F130613%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Amonkhet-Promos/Anointed-Procession?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Anointed+Procession&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "236e9bcf-ced2-4bee-8188-41dd94df02da",
+            "multiverse_ids": [],
+            "tcgplayer_id": 532537,
+            "name": "Anointed Procession // Anointed Procession",
+            "lang": "en",
+            "released_at": "2024-01-22",
+            "uri": "https://api.scryfall.com/cards/236e9bcf-ced2-4bee-8188-41dd94df02da",
+            "scryfall_uri": "https://scryfall.com/card/sld/1511/anointed-procession-anointed-procession?utm_source=api",
+            "layout": "reversible_card",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "color_identity": [
+                "W"
+            ],
+            "keywords": [],
+            "card_faces": [
+                {
+                    "object": "card_face",
+                    "oracle_id": "7246d45b-2185-4cdd-981b-5419b7d52bce",
+                    "layout": "normal",
+                    "name": "Anointed Procession",
+                    "mana_cost": "{3}{W}",
+                    "cmc": 4.0,
+                    "type_line": "Enchantment",
+                    "oracle_text": "If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.",
+                    "colors": [
+                        "W"
+                    ],
+                    "flavor_text": "Double the slobber, double the love.",
+                    "artist": "Jakob Eirich",
+                    "artist_id": "982d9460-f9b9-42f6-8a25-47afa7df22e9",
+                    "illustration_id": "41719a6d-13bc-4e7c-b03b-9c8ec0a53834",
+                    "image_uris": {
+                        "small": "https://cards.scryfall.io/small/front/2/3/236e9bcf-ced2-4bee-8188-41dd94df02da.jpg?1705792353",
+                        "normal": "https://cards.scryfall.io/normal/front/2/3/236e9bcf-ced2-4bee-8188-41dd94df02da.jpg?1705792353",
+                        "large": "https://cards.scryfall.io/large/front/2/3/236e9bcf-ced2-4bee-8188-41dd94df02da.jpg?1705792353",
+                        "png": "https://cards.scryfall.io/png/front/2/3/236e9bcf-ced2-4bee-8188-41dd94df02da.png?1705792353",
+                        "art_crop": "https://cards.scryfall.io/art_crop/front/2/3/236e9bcf-ced2-4bee-8188-41dd94df02da.jpg?1705792353",
+                        "border_crop": "https://cards.scryfall.io/border_crop/front/2/3/236e9bcf-ced2-4bee-8188-41dd94df02da.jpg?1705792353"
+                    }
+                },
+                {
+                    "object": "card_face",
+                    "oracle_id": "7246d45b-2185-4cdd-981b-5419b7d52bce",
+                    "layout": "normal",
+                    "name": "Anointed Procession",
+                    "flavor_name": "",
+                    "mana_cost": "{3}{W}",
+                    "cmc": 4.0,
+                    "type_line": "Enchantment",
+                    "oracle_text": "If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.",
+                    "colors": [
+                        "W"
+                    ],
+                    "flavor_text": "Biiiiiig stretch.",
+                    "artist": "Jakob Eirich",
+                    "artist_id": "982d9460-f9b9-42f6-8a25-47afa7df22e9",
+                    "illustration_id": "1e7609a8-cda5-4fb2-ac4b-abc8dbff8c19",
+                    "image_uris": {
+                        "small": "https://cards.scryfall.io/small/back/2/3/236e9bcf-ced2-4bee-8188-41dd94df02da.jpg?1705792353",
+                        "normal": "https://cards.scryfall.io/normal/back/2/3/236e9bcf-ced2-4bee-8188-41dd94df02da.jpg?1705792353",
+                        "large": "https://cards.scryfall.io/large/back/2/3/236e9bcf-ced2-4bee-8188-41dd94df02da.jpg?1705792353",
+                        "png": "https://cards.scryfall.io/png/back/2/3/236e9bcf-ced2-4bee-8188-41dd94df02da.png?1705792353",
+                        "art_crop": "https://cards.scryfall.io/art_crop/back/2/3/236e9bcf-ced2-4bee-8188-41dd94df02da.jpg?1705792353",
+                        "border_crop": "https://cards.scryfall.io/border_crop/back/2/3/236e9bcf-ced2-4bee-8188-41dd94df02da.jpg?1705792353"
+                    }
+                }
+            ],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "legal",
+                "timeless": "legal",
+                "gladiator": "legal",
+                "pioneer": "legal",
+                "explorer": "legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "not_legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "legal",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "not_legal"
+            },
+            "games": [
+                "paper"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": false,
+            "finishes": [
+                "foil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+            "set": "sld",
+            "set_name": "Secret Lair Drop",
+            "set_type": "box",
+            "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/236e9bcf-ced2-4bee-8188-41dd94df02da/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7246d45b-2185-4cdd-981b-5419b7d52bce&unique=prints",
+            "collector_number": "1511",
+            "digital": false,
+            "rarity": "rare",
+            "artist": "Jakob Eirich",
+            "artist_ids": [
+                "982d9460-f9b9-42f6-8a25-47afa7df22e9"
+            ],
+            "border_color": "borderless",
+            "frame": "2015",
+            "frame_effects": [
+                "inverted"
+            ],
+            "security_stamp": "oval",
+            "full_art": false,
+            "textless": false,
+            "booster": false,
+            "story_spotlight": false,
+            "edhrec_rank": 258,
+            "penny_rank": 5015,
+            "prices": {
+                "usd": null,
+                "usd_foil": "67.45",
+                "usd_etched": null,
+                "eur": null,
+                "eur_foil": null,
+                "tix": null
+            },
+            "related_uris": {
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DAnointed%2BProcession%2B%252F%252F%2BAnointed%2BProcession",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DAnointed%2BProcession%2B%252F%252F%2BAnointed%2BProcession",
+                "edhrec": "https://edhrec.com/route/?cc=Anointed+Procession+%2F%2F+Anointed+Procession"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F532537%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Anointed+Procession+%2F%2F+Anointed+Procession&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Anointed+Procession+%2F%2F+Anointed+Procession&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        }
+    ]
+}
