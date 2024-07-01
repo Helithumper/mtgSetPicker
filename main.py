@@ -1,13 +1,15 @@
 import argparse
 import csv
 from cardLoader import load_card, save_card
-from library import get_set_counts, sort_set_counts
+from library import get_set_counts, filter_sets, sort_set_counts
 from scryfallAPI import search_card
 
-def process_list(names: list) -> list:
+def process_list(names: list, useCache: bool) -> list:
     list_data = []
     for n in names:
-        data = load_card(n)
+        data = None
+        if useCache:
+            data = load_card(n)
         if data is None:
             data = search_card(n)
             if data is not None:
@@ -20,15 +22,15 @@ def process_list(names: list) -> list:
 def print_sorted_set(set_counts: dict, top_n: int) -> dict:
     i = 0
     for k, v in set_counts.items():
-        print("k:", k)
-        print("\tname:", v.name)
-        print("\tset_type:", v.set_type)
-        print(f"\tcards: ({len(v.cards)})")
+        print("Set Name:", v.name, "- Scryfall ID:", k)
+        print("\tSet Type:", v.set_type)
+        print(f"\tCards: ({len(v.cards)})")
         for c in v.cards:
             print("\t\tName:", c.name, "- Price:", c.price)
         i += 1
         if i >= top_n:
             break
+        print("\n")
 
 def load_csv_lines(filename, delimiter=',', strip_newline=True):
     lines = []
@@ -46,12 +48,15 @@ parser = argparse.ArgumentParser(
                     description='Given a list of cards you want, find the best set to buy.',
                     epilog='Created by Jooms')
 parser.add_argument('-c', '--csv', required=True)
+parser.add_argument('-t', '--top', type=int, default=5)
+parser.add_argument('--nice', default=True, action=argparse.BooleanOptionalAction)
 args = parser.parse_args()
 
 cards = load_csv_lines(args.csv)
 
-data = process_list(cards)
+data = process_list(cards, args.nice)
 set_counts = get_set_counts(data)
+set_counts = filter_sets(set_counts)
 set_counts = sort_set_counts(set_counts)
 
-print_sorted_set(set_counts, 5)
+print_sorted_set(set_counts, args.top)
