@@ -50,6 +50,8 @@ def set_list(set_code: str) -> dict:
     # We want exact names
     set = 'set:'+set_code
     query_list = [set]
+    # Filter out digital cards
+    query_list.append("-is:digital")
     # Include things like tokens
     query_list.append("include:extras")
 

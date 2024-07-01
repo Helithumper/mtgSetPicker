@@ -14,28 +14,26 @@ def __cleanFileName(name: str) -> str:
     return re.sub(r"[-\s]+", "-", value).strip("-_")
 
 
-def load_set(name: str, code: str) -> dict:
-    clean_name = __cleanFileName(name)
+def load_set(code: str) -> dict:
     clean_code = __cleanFileName(code)
     data = {}
     try:
-        dir = f"packData/{clean_name}"
-        f = open(f"{dir}/{clean_code}.json", "w")
-        data = json.load(f)
-        f.close()
+        dir = f"packData/{clean_code}"
+        data = None
+        with open(f"{dir}/set-list.json", "r") as f:
+            data = json.load(f)
     except:
         return None
     return data
 
 
-def save_set(name: str, code: str, data: dict) -> None:
+def save_set(code: str, data: dict) -> None:
     if data is None:
         return
 
-    clean_name = __cleanFileName(name)
     clean_code = __cleanFileName(code)
 
-    dir = f"packData/{clean_name}"
+    dir = f"packData/{clean_code}"
     os.makedirs(dir, exist_ok=True)
-    with open(f"{dir}/{clean_code}.json", "w") as outfile:
+    with open(f"{dir}/set-list.json", "w") as outfile:
         json.dump(data, outfile, indent=4)
