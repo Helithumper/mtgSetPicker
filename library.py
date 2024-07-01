@@ -25,12 +25,12 @@ class card_set:
         self.cards = []
 
     def add(self, card_name: str, card_price: float):
-        self.count += 1
         for c in self.cards:
             if c.name == card_name:
                 c.add_price(card_price)
                 return
         self.cards.append(card(card_name, card_price))
+        self.count += 1
 
 
 def get_set_counts(card_list: dict) -> dict:
