@@ -1,11 +1,11 @@
 import argparse
-from card_details import load_rarities
-from set_details import load_rarity_chances, get_card_chances
+from lib.manipulators.card import load_rarities
+from lib.manipulators.set import load_rarity_chances, get_card_chances
 
 parser = argparse.ArgumentParser(
                     prog='mtgCardLookup',
                     description='Given a card name, look up the likelyhood it\'s in a given pack.\n' +
-                    'This only works with local data, make sure you run packLoader first.',
+                    'This only works with local data, make sure you run setPuller first.',
                     epilog='Created by Jooms')
 parser.add_argument('-c', '--set_code', required=True)
 parser.add_argument('-p', '--pack_type', required=True)

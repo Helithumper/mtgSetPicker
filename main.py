@@ -1,8 +1,8 @@
 import argparse
 import csv
-from cardLoader import load_card, save_card
-from library import get_set_counts, filter_sets, sort_set_counts
-from scryfallAPI import search_card
+from lib.loaders.card import load_card, save_card
+from lib.obj.cardSet import get_set_counts, filter_sets, sort_set_counts
+from lib.apis.scryfall import search_card
 
 def process_list(names: list, useCache: bool) -> list:
     list_data = []

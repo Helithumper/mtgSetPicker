@@ -14,7 +14,7 @@ So:
 What set contains the largest number of cards that I'm
 looking for?
 
-![An example run](docFiles/run1.png)
+![An example run of mtg set picker](docFiles/run1.png)
 
 ## Usage
 
@@ -42,3 +42,23 @@ python main.py -c cardLists/want.csv -t 7 --no-nice
 1. Cache data from scryfall so I don't overwhelp their API.
 1. Rate-limit scryfall calls because they asked nicely (https://scryfall.com/docs/api#rate-limits-and-good-citizenship).
 
+
+## Other Tools
+
+### setPuller
+
+Download information about a provided set. This information is necessary for the cardLookup tool.
+
+```sh
+python packLoader.py -c snc
+```
+
+### cardLookup
+
+Look up the odds of getting a specific card for given set and pack type.
+
+```sh
+python cardLookup.py -c snc -p "Draft Booster" -n "A Little Chat"
+```
+
+![An example run of cardLookup](docFiles/cardLookup.png)

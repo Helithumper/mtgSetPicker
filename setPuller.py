@@ -1,7 +1,7 @@
 import argparse
-from card_details import split_rarities, save_rarities, load_rarities
-from scryfallAPI import set_list, set_detail
-from setLoader import load_set, save_set
+from lib.manipulators.card import split_rarities, save_rarities, load_rarities
+from lib.apis.scryfall import set_list, set_detail
+from lib.loaders.set import load_set, save_set
 
 def get_sets(codes: list, useCache: bool) -> list:
     list_data = []
@@ -54,7 +54,7 @@ def rarity_code_to_text(code: str) -> str:
     return "unknown"
 
 parser = argparse.ArgumentParser(
-                    prog='mtgPackLoader',
+                    prog='mtgSetPuller',
                     description='Given a set code, download information about it locally.',
                     epilog='Created by Jooms')
 parser.add_argument('-c', '--code', required=True)
