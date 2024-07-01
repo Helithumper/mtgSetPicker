@@ -16,13 +16,25 @@ looking for?
 
 ## Usage
 
+Update cardLists/want.csv with the list of cards you want to search for. The first
+column **must** be the **exact** card name. No other columns are processed.
 ```sh
-python main.py -c cardLists/want.csv
+python main.py --csv cardLists/want.csv
 ```
 
-This will use the provided csv to search for cards, you can update that csv or point to your own. The name of the card you are searching for **must** be the first column of the csv.
+### Flags
 
-This tool only searches using the card name, all other fields are ignored.
+| flag     | Usage                      | Description                                                      |
+| -------- | -------------------------- | ---------------------------------------------------------------- |
+| `--csv`  | `--csv cardLists/want.csv` | The list of card names to search for.                            |
+| `--top`  | `--top 3`                  | The number of sets to output.                                    |
+| `--nice` | `--no-nice`                | If nice, use a local cache. If not, hit scryfall for every card. |
+
+Example complex usage:
+```sh
+python main.py -c cardLists/want.csv -t 7 --no-nice
+```
+
 
 ## Bonus Features
 
