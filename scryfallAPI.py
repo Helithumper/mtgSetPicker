@@ -52,6 +52,8 @@ def set_list(set_code: str) -> dict:
     query_list = [set]
     # Filter out digital cards
     query_list.append("-is:digital")
+    # Filter out basic lands
+    query_list.append("-t:basic")
     # Include things like tokens
     query_list.append("include:extras")
 

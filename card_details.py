@@ -63,7 +63,6 @@ def load_rarities(set_code: str) -> dict:
     }
 
     for rarity in rarities:
-        print("Reading", f"packData/{clean_code}/{rarity}.json")
         with open(f"packData/{clean_code}/{rarity}.json", "r") as f:
             rarities[rarity] = json.load(f)
 
