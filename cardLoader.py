@@ -2,6 +2,13 @@ import json
 import unicodedata
 import re
 
+# Based on Django's slugify
+def __cleanFileName(name: str) -> str:
+    name = str(name)
+    value = unicodedata.normalize('NFKD', name).encode('ascii', 'ignore').decode('ascii')
+    value = re.sub(r'[^\w\s-]', '', value.lower())
+    return re.sub(r'[-\s]+', '-', value).strip('-_')
+
 def load_card(name: str) -> dict:
     clean_name = __cleanFileName(name)
     data = {}
@@ -12,13 +19,6 @@ def load_card(name: str) -> dict:
     except:
         return None
     return data
-
-# Based on Django's slugify
-def __cleanFileName(name: str) -> str:
-    name = str(name)
-    value = unicodedata.normalize('NFKD', name).encode('ascii', 'ignore').decode('ascii')
-    value = re.sub(r'[^\w\s-]', '', value.lower())
-    return re.sub(r'[-\s]+', '-', value).strip('-_')
 
 def save_card(name : str, data: dict) -> None:
     if data is None:

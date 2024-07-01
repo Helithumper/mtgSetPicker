@@ -1,0 +1,2826 @@
+[
+    {
+        "object": "card",
+        "id": "c832c0b8-aefa-459c-8de8-aa32400612cd",
+        "oracle_id": "f15460d9-0133-436c-b0fe-1661989124f0",
+        "multiverse_ids": [
+            555235
+        ],
+        "mtgo_id": 98287,
+        "arena_id": 80185,
+        "tcgplayer_id": 268676,
+        "cardmarket_id": 651623,
+        "name": "All-Seeing Arbiter",
+        "lang": "en",
+        "released_at": "2022-04-29",
+        "uri": "https://api.scryfall.com/cards/c832c0b8-aefa-459c-8de8-aa32400612cd",
+        "scryfall_uri": "https://scryfall.com/card/snc/34/all-seeing-arbiter?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/c/8/c832c0b8-aefa-459c-8de8-aa32400612cd.jpg?1664410056",
+            "normal": "https://cards.scryfall.io/normal/front/c/8/c832c0b8-aefa-459c-8de8-aa32400612cd.jpg?1664410056",
+            "large": "https://cards.scryfall.io/large/front/c/8/c832c0b8-aefa-459c-8de8-aa32400612cd.jpg?1664410056",
+            "png": "https://cards.scryfall.io/png/front/c/8/c832c0b8-aefa-459c-8de8-aa32400612cd.png?1664410056",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/c/8/c832c0b8-aefa-459c-8de8-aa32400612cd.jpg?1664410056",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/c/8/c832c0b8-aefa-459c-8de8-aa32400612cd.jpg?1664410056"
+        },
+        "mana_cost": "{4}{U}{U}",
+        "cmc": 6.0,
+        "type_line": "Creature \u2014 Avatar",
+        "oracle_text": "Flying\nWhenever All-Seeing Arbiter enters the battlefield or attacks, draw two cards, then discard a card.\nWhenever you discard a card, target creature an opponent controls gets -X/-0 until your next turn, where X is the number of different mana values among cards in your graveyard.",
+        "power": "5",
+        "toughness": "4",
+        "colors": [
+            "U"
+        ],
+        "color_identity": [
+            "U"
+        ],
+        "keywords": [
+            "Flying"
+        ],
+        "legalities": {
+            "standard": "legal",
+            "future": "not_legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "not_legal",
+            "paupercommander": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo",
+            "arena"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "df837242-8c15-42e4-b049-c933a02dc501",
+        "set": "snc",
+        "set_name": "Streets of New Capenna",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/df837242-8c15-42e4-b049-c933a02dc501",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asnc&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/snc?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/c832c0b8-aefa-459c-8de8-aa32400612cd/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af15460d9-0133-436c-b0fe-1661989124f0&unique=prints",
+        "collector_number": "34",
+        "digital": false,
+        "rarity": "mythic",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Robin Olausson",
+        "artist_ids": [
+            "adb9ad6d-6173-454b-8b50-a102b182548b"
+        ],
+        "illustration_id": "5cc1efa9-9c9b-417a-bc9a-b3ee889abe7c",
+        "border_color": "black",
+        "frame": "2015",
+        "security_stamp": "oval",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 9432,
+        "penny_rank": 1958,
+        "preview": {
+            "source": "AfterOfficeTTV",
+            "source_uri": "https://twitter.com/AfterTtv/status/1512536934270353409",
+            "previewed_at": "2022-04-08"
+        },
+        "prices": {
+            "usd": "0.23",
+            "usd_foil": "0.37",
+            "usd_etched": null,
+            "eur": "0.31",
+            "eur_foil": "0.25",
+            "tix": "0.01"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555235&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DAll-Seeing%2BArbiter",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DAll-Seeing%2BArbiter",
+            "edhrec": "https://edhrec.com/route/?cc=All-Seeing+Arbiter"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F268676%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Streets-of-New-Capenna/All-Seeing-Arbiter?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/98287?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    {
+        "object": "card",
+        "id": "cd4aee25-496d-453e-95b7-d773fe21cacc",
+        "oracle_id": "92380c57-0a92-48eb-b562-2be149b5792a",
+        "multiverse_ids": [
+            555268
+        ],
+        "mtgo_id": 98353,
+        "arena_id": 80218,
+        "tcgplayer_id": 268776,
+        "cardmarket_id": 651836,
+        "name": "Angel of Suffering",
+        "lang": "en",
+        "released_at": "2022-04-29",
+        "uri": "https://api.scryfall.com/cards/cd4aee25-496d-453e-95b7-d773fe21cacc",
+        "scryfall_uri": "https://scryfall.com/card/snc/67/angel-of-suffering?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/c/d/cd4aee25-496d-453e-95b7-d773fe21cacc.jpg?1664410701",
+            "normal": "https://cards.scryfall.io/normal/front/c/d/cd4aee25-496d-453e-95b7-d773fe21cacc.jpg?1664410701",
+            "large": "https://cards.scryfall.io/large/front/c/d/cd4aee25-496d-453e-95b7-d773fe21cacc.jpg?1664410701",
+            "png": "https://cards.scryfall.io/png/front/c/d/cd4aee25-496d-453e-95b7-d773fe21cacc.png?1664410701",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/c/d/cd4aee25-496d-453e-95b7-d773fe21cacc.jpg?1664410701",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/c/d/cd4aee25-496d-453e-95b7-d773fe21cacc.jpg?1664410701"
+        },
+        "mana_cost": "{3}{B}{B}",
+        "cmc": 5.0,
+        "type_line": "Creature \u2014 Nightmare Angel",
+        "oracle_text": "Flying\nIf damage would be dealt to you, prevent that damage and mill twice that many cards.",
+        "power": "5",
+        "toughness": "3",
+        "colors": [
+            "B"
+        ],
+        "color_identity": [
+            "B"
+        ],
+        "keywords": [
+            "Flying",
+            "Mill"
+        ],
+        "legalities": {
+            "standard": "legal",
+            "future": "not_legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "not_legal",
+            "paupercommander": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo",
+            "arena"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "df837242-8c15-42e4-b049-c933a02dc501",
+        "set": "snc",
+        "set_name": "Streets of New Capenna",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/df837242-8c15-42e4-b049-c933a02dc501",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asnc&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/snc?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/cd4aee25-496d-453e-95b7-d773fe21cacc/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A92380c57-0a92-48eb-b562-2be149b5792a&unique=prints",
+        "collector_number": "67",
+        "digital": false,
+        "rarity": "mythic",
+        "flavor_text": "\"If you wish for blessings, mortal, ask your demon masters. We've given enough to your kind.\"",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Martina Fa\u010dkov\u00e1",
+        "artist_ids": [
+            "6338124e-8e53-498d-8bf9-93a55db2f61c"
+        ],
+        "illustration_id": "401a5d12-1b4c-4e54-bf82-12845eb77af1",
+        "border_color": "black",
+        "frame": "2015",
+        "security_stamp": "oval",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 3811,
+        "penny_rank": 9385,
+        "prices": {
+            "usd": "4.19",
+            "usd_foil": "4.91",
+            "usd_etched": null,
+            "eur": "1.43",
+            "eur_foil": "2.22",
+            "tix": "0.02"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555268&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DAngel%2Bof%2BSuffering",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DAngel%2Bof%2BSuffering",
+            "edhrec": "https://edhrec.com/route/?cc=Angel+of+Suffering"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F268776%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Streets-of-New-Capenna/Angel-of-Suffering?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/98353?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    {
+        "object": "card",
+        "id": "31f1b2bd-fe06-45ec-99dc-ff357a7a31d2",
+        "oracle_id": "1e36a42f-58e2-49bc-8c14-7f75e1d8ef98",
+        "multiverse_ids": [
+            555302
+        ],
+        "mtgo_id": 98421,
+        "arena_id": 80252,
+        "tcgplayer_id": 268433,
+        "cardmarket_id": 651638,
+        "name": "Arcane Bombardment",
+        "lang": "en",
+        "released_at": "2022-04-29",
+        "uri": "https://api.scryfall.com/cards/31f1b2bd-fe06-45ec-99dc-ff357a7a31d2",
+        "scryfall_uri": "https://scryfall.com/card/snc/101/arcane-bombardment?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/3/1/31f1b2bd-fe06-45ec-99dc-ff357a7a31d2.jpg?1664411388",
+            "normal": "https://cards.scryfall.io/normal/front/3/1/31f1b2bd-fe06-45ec-99dc-ff357a7a31d2.jpg?1664411388",
+            "large": "https://cards.scryfall.io/large/front/3/1/31f1b2bd-fe06-45ec-99dc-ff357a7a31d2.jpg?1664411388",
+            "png": "https://cards.scryfall.io/png/front/3/1/31f1b2bd-fe06-45ec-99dc-ff357a7a31d2.png?1664411388",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/3/1/31f1b2bd-fe06-45ec-99dc-ff357a7a31d2.jpg?1664411388",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/3/1/31f1b2bd-fe06-45ec-99dc-ff357a7a31d2.jpg?1664411388"
+        },
+        "mana_cost": "{4}{R}{R}",
+        "cmc": 6.0,
+        "type_line": "Enchantment",
+        "oracle_text": "Whenever you cast your first instant or sorcery spell each turn, exile an instant or sorcery card at random from your graveyard. Then copy each card exiled with Arcane Bombardment. You may cast any number of the copies without paying their mana costs.",
+        "colors": [
+            "R"
+        ],
+        "color_identity": [
+            "R"
+        ],
+        "keywords": [],
+        "legalities": {
+            "standard": "legal",
+            "future": "not_legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "not_legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "not_legal",
+            "paupercommander": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo",
+            "arena"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "df837242-8c15-42e4-b049-c933a02dc501",
+        "set": "snc",
+        "set_name": "Streets of New Capenna",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/df837242-8c15-42e4-b049-c933a02dc501",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asnc&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/snc?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/31f1b2bd-fe06-45ec-99dc-ff357a7a31d2/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1e36a42f-58e2-49bc-8c14-7f75e1d8ef98&unique=prints",
+        "collector_number": "101",
+        "digital": false,
+        "rarity": "mythic",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Marta Nael",
+        "artist_ids": [
+            "266ab861-ed64-4ba5-865c-f18758421cc3"
+        ],
+        "illustration_id": "dfa04573-7177-4419-b9d3-b8a544348ef0",
+        "border_color": "black",
+        "frame": "2015",
+        "security_stamp": "oval",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 1732,
+        "preview": {
+            "source": "Sean Plott (Day9TV)",
+            "source_uri": "https://twitter.com/day9tv/status/1512452711110909954",
+            "previewed_at": "2022-04-08"
+        },
+        "prices": {
+            "usd": "1.77",
+            "usd_foil": "4.16",
+            "usd_etched": null,
+            "eur": "1.29",
+            "eur_foil": "3.33",
+            "tix": "0.02"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555302&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DArcane%2BBombardment",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DArcane%2BBombardment",
+            "edhrec": "https://edhrec.com/route/?cc=Arcane+Bombardment"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F268433%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Streets-of-New-Capenna/Arcane-Bombardment?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/98421?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    {
+        "object": "card",
+        "id": "24d7d77a-35b6-451a-af44-ecaf38facccb",
+        "oracle_id": "eaca2576-020b-4af4-b348-6d1b56116c41",
+        "multiverse_ids": [
+            555269
+        ],
+        "mtgo_id": 98355,
+        "arena_id": 80219,
+        "tcgplayer_id": 268777,
+        "cardmarket_id": 651701,
+        "name": "Body Launderer",
+        "lang": "en",
+        "released_at": "2022-04-29",
+        "uri": "https://api.scryfall.com/cards/24d7d77a-35b6-451a-af44-ecaf38facccb",
+        "scryfall_uri": "https://scryfall.com/card/snc/68/body-launderer?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/2/4/24d7d77a-35b6-451a-af44-ecaf38facccb.jpg?1664410718",
+            "normal": "https://cards.scryfall.io/normal/front/2/4/24d7d77a-35b6-451a-af44-ecaf38facccb.jpg?1664410718",
+            "large": "https://cards.scryfall.io/large/front/2/4/24d7d77a-35b6-451a-af44-ecaf38facccb.jpg?1664410718",
+            "png": "https://cards.scryfall.io/png/front/2/4/24d7d77a-35b6-451a-af44-ecaf38facccb.png?1664410718",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/2/4/24d7d77a-35b6-451a-af44-ecaf38facccb.jpg?1664410718",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/2/4/24d7d77a-35b6-451a-af44-ecaf38facccb.jpg?1664410718"
+        },
+        "mana_cost": "{2}{B}{B}",
+        "cmc": 4.0,
+        "type_line": "Creature \u2014 Ogre Rogue",
+        "oracle_text": "Deathtouch\nWhenever another nontoken creature you control dies, Body Launderer connives.\nWhen Body Launderer dies, return another target non-Rogue creature card with equal or lesser power from your graveyard to the battlefield.",
+        "power": "3",
+        "toughness": "3",
+        "colors": [
+            "B"
+        ],
+        "color_identity": [
+            "B"
+        ],
+        "keywords": [
+            "Connive",
+            "Deathtouch"
+        ],
+        "legalities": {
+            "standard": "legal",
+            "future": "not_legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "not_legal",
+            "paupercommander": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo",
+            "arena"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "df837242-8c15-42e4-b049-c933a02dc501",
+        "set": "snc",
+        "set_name": "Streets of New Capenna",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/df837242-8c15-42e4-b049-c933a02dc501",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asnc&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/snc?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/24d7d77a-35b6-451a-af44-ecaf38facccb/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aeaca2576-020b-4af4-b348-6d1b56116c41&unique=prints",
+        "collector_number": "68",
+        "digital": false,
+        "rarity": "mythic",
+        "watermark": "obscura",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Matt Stewart",
+        "artist_ids": [
+            "20871267-2d8a-41d5-b03a-be3d557c5734"
+        ],
+        "illustration_id": "4e652ce8-ee25-41c9-96d6-8afffcb94128",
+        "border_color": "black",
+        "frame": "2015",
+        "security_stamp": "oval",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 3505,
+        "preview": {
+            "source": "Wizards of the Coast",
+            "source_uri": "https://t.bilibili.com/647821977610879046",
+            "previewed_at": "2022-04-11"
+        },
+        "prices": {
+            "usd": "0.83",
+            "usd_foil": "1.04",
+            "usd_etched": null,
+            "eur": "1.21",
+            "eur_foil": "1.29",
+            "tix": "0.02"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555269&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DBody%2BLaunderer",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DBody%2BLaunderer",
+            "edhrec": "https://edhrec.com/route/?cc=Body+Launderer"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F268777%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Streets-of-New-Capenna/Body-Launderer?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/98355?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    {
+        "object": "card",
+        "id": "80b5b7e1-52c2-4453-b3c0-efe2cebad6ce",
+        "oracle_id": "d1deba03-b26a-4a0d-b242-24bb3a3f9ea6",
+        "multiverse_ids": [
+            555335
+        ],
+        "mtgo_id": 98487,
+        "arena_id": 80285,
+        "tcgplayer_id": 268940,
+        "cardmarket_id": 652104,
+        "name": "Bootleggers' Stash",
+        "lang": "en",
+        "released_at": "2022-04-29",
+        "uri": "https://api.scryfall.com/cards/80b5b7e1-52c2-4453-b3c0-efe2cebad6ce",
+        "scryfall_uri": "https://scryfall.com/card/snc/134/bootleggers-stash?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/8/0/80b5b7e1-52c2-4453-b3c0-efe2cebad6ce.jpg?1664412016",
+            "normal": "https://cards.scryfall.io/normal/front/8/0/80b5b7e1-52c2-4453-b3c0-efe2cebad6ce.jpg?1664412016",
+            "large": "https://cards.scryfall.io/large/front/8/0/80b5b7e1-52c2-4453-b3c0-efe2cebad6ce.jpg?1664412016",
+            "png": "https://cards.scryfall.io/png/front/8/0/80b5b7e1-52c2-4453-b3c0-efe2cebad6ce.png?1664412016",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/8/0/80b5b7e1-52c2-4453-b3c0-efe2cebad6ce.jpg?1664412016",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/8/0/80b5b7e1-52c2-4453-b3c0-efe2cebad6ce.jpg?1664412016"
+        },
+        "mana_cost": "{5}{G}",
+        "cmc": 6.0,
+        "type_line": "Artifact",
+        "oracle_text": "Lands you control have \"{T}: Create a Treasure token.\"",
+        "colors": [
+            "G"
+        ],
+        "color_identity": [
+            "G"
+        ],
+        "keywords": [
+            "Treasure"
+        ],
+        "all_parts": [
+            {
+                "object": "related_card",
+                "id": "93116d98-2dad-4b80-a3af-9e36e34da6d4",
+                "component": "token",
+                "name": "Treasure",
+                "type_line": "Token Artifact \u2014 Treasure",
+                "uri": "https://api.scryfall.com/cards/93116d98-2dad-4b80-a3af-9e36e34da6d4"
+            },
+            {
+                "object": "related_card",
+                "id": "e32eb60a-14ac-4ea9-a4c5-6597194af0c1",
+                "component": "combo_piece",
+                "name": "Bootleggers' Stash",
+                "type_line": "Artifact",
+                "uri": "https://api.scryfall.com/cards/e32eb60a-14ac-4ea9-a4c5-6597194af0c1"
+            }
+        ],
+        "legalities": {
+            "standard": "legal",
+            "future": "not_legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "not_legal",
+            "paupercommander": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo",
+            "arena"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "df837242-8c15-42e4-b049-c933a02dc501",
+        "set": "snc",
+        "set_name": "Streets of New Capenna",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/df837242-8c15-42e4-b049-c933a02dc501",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asnc&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/snc?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/80b5b7e1-52c2-4453-b3c0-efe2cebad6ce/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad1deba03-b26a-4a0d-b242-24bb3a3f9ea6&unique=prints",
+        "collector_number": "134",
+        "digital": false,
+        "rarity": "mythic",
+        "flavor_text": "Labyrinths of tunnels beneath the streets of the Caldaia offer an ample array of discreet routes for enterprising smugglers.",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Anastasia Ovchinnikova",
+        "artist_ids": [
+            "3605d81f-5c97-4958-9dcc-d44a85e10305"
+        ],
+        "illustration_id": "c6ed8fed-b8dd-436a-a9ff-ff4ca40095c0",
+        "border_color": "black",
+        "frame": "2015",
+        "security_stamp": "oval",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 1456,
+        "penny_rank": 7967,
+        "prices": {
+            "usd": "5.38",
+            "usd_foil": "5.41",
+            "usd_etched": null,
+            "eur": "3.70",
+            "eur_foil": "3.78",
+            "tix": "0.02"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555335&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DBootleggers%2527%2BStash",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DBootleggers%2527%2BStash",
+            "edhrec": "https://edhrec.com/route/?cc=Bootleggers%27+Stash"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F268940%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Streets-of-New-Capenna/Bootleggers-Stash?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/98487?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    {
+        "object": "card",
+        "id": "7c606af0-f3d1-44a4-b24e-ee1263569b1f",
+        "oracle_id": "24591330-d038-478f-b89d-b7b66c0b5cc3",
+        "multiverse_ids": [
+            555212
+        ],
+        "mtgo_id": 98241,
+        "arena_id": 80162,
+        "tcgplayer_id": 268362,
+        "cardmarket_id": 651362,
+        "name": "Elspeth Resplendent",
+        "lang": "en",
+        "released_at": "2022-04-29",
+        "uri": "https://api.scryfall.com/cards/7c606af0-f3d1-44a4-b24e-ee1263569b1f",
+        "scryfall_uri": "https://scryfall.com/card/snc/11/elspeth-resplendent?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/7/c/7c606af0-f3d1-44a4-b24e-ee1263569b1f.jpg?1664409608",
+            "normal": "https://cards.scryfall.io/normal/front/7/c/7c606af0-f3d1-44a4-b24e-ee1263569b1f.jpg?1664409608",
+            "large": "https://cards.scryfall.io/large/front/7/c/7c606af0-f3d1-44a4-b24e-ee1263569b1f.jpg?1664409608",
+            "png": "https://cards.scryfall.io/png/front/7/c/7c606af0-f3d1-44a4-b24e-ee1263569b1f.png?1664409608",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/7/c/7c606af0-f3d1-44a4-b24e-ee1263569b1f.jpg?1664409608",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/7/c/7c606af0-f3d1-44a4-b24e-ee1263569b1f.jpg?1664409608"
+        },
+        "mana_cost": "{3}{W}{W}",
+        "cmc": 5.0,
+        "type_line": "Legendary Planeswalker \u2014 Elspeth",
+        "oracle_text": "+1: Choose up to one target creature. Put a +1/+1 counter and a counter from among flying, first strike, lifelink, or vigilance on it.\n\u22123: Look at the top seven cards of your library. You may put a permanent card with mana value 3 or less from among them onto the battlefield with a shield counter on it. Put the rest on the bottom of your library in a random order.\n\u22127: Create five 3/3 white Angel creature tokens with flying.",
+        "loyalty": "5",
+        "colors": [
+            "W"
+        ],
+        "color_identity": [
+            "W"
+        ],
+        "keywords": [],
+        "all_parts": [
+            {
+                "object": "related_card",
+                "id": "23b14a07-7cbf-48b4-91b1-af93837adbf3",
+                "component": "combo_piece",
+                "name": "Elspeth Resplendent",
+                "type_line": "Legendary Planeswalker \u2014 Elspeth",
+                "uri": "https://api.scryfall.com/cards/23b14a07-7cbf-48b4-91b1-af93837adbf3"
+            },
+            {
+                "object": "related_card",
+                "id": "39bae778-0dee-47d5-a7cd-f2be11b5e79b",
+                "component": "token",
+                "name": "Angel",
+                "type_line": "Token Creature \u2014 Angel",
+                "uri": "https://api.scryfall.com/cards/39bae778-0dee-47d5-a7cd-f2be11b5e79b"
+            }
+        ],
+        "legalities": {
+            "standard": "legal",
+            "future": "not_legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "not_legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "not_legal",
+            "paupercommander": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo",
+            "arena"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "df837242-8c15-42e4-b049-c933a02dc501",
+        "set": "snc",
+        "set_name": "Streets of New Capenna",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/df837242-8c15-42e4-b049-c933a02dc501",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asnc&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/snc?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/7c606af0-f3d1-44a4-b24e-ee1263569b1f/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A24591330-d038-478f-b89d-b7b66c0b5cc3&unique=prints",
+        "collector_number": "11",
+        "digital": false,
+        "rarity": "mythic",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Anna Steinbauer",
+        "artist_ids": [
+            "3516496c-c279-4b56-8239-720683d03ae0"
+        ],
+        "illustration_id": "9de2d12e-4203-4089-9f84-5d40151fd37f",
+        "border_color": "black",
+        "frame": "2015",
+        "security_stamp": "oval",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 3230,
+        "prices": {
+            "usd": "2.83",
+            "usd_foil": "3.42",
+            "usd_etched": null,
+            "eur": "3.39",
+            "eur_foil": "3.89",
+            "tix": "0.01"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555212&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DElspeth%2BResplendent",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DElspeth%2BResplendent",
+            "edhrec": "https://edhrec.com/route/?cc=Elspeth+Resplendent"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F268362%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Streets-of-New-Capenna/Elspeth-Resplendent?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/98241?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    {
+        "object": "card",
+        "id": "c629217f-4a10-4d92-86f8-22dc4067a724",
+        "oracle_id": "25f5cca6-a414-46d9-82e3-ce2fa21b14ca",
+        "multiverse_ids": [
+            555243
+        ],
+        "mtgo_id": 98303,
+        "arena_id": 80193,
+        "tcgplayer_id": 268916,
+        "cardmarket_id": 652165,
+        "name": "Even the Score",
+        "lang": "en",
+        "released_at": "2022-04-29",
+        "uri": "https://api.scryfall.com/cards/c629217f-4a10-4d92-86f8-22dc4067a724",
+        "scryfall_uri": "https://scryfall.com/card/snc/42/even-the-score?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/c/6/c629217f-4a10-4d92-86f8-22dc4067a724.jpg?1664410212",
+            "normal": "https://cards.scryfall.io/normal/front/c/6/c629217f-4a10-4d92-86f8-22dc4067a724.jpg?1664410212",
+            "large": "https://cards.scryfall.io/large/front/c/6/c629217f-4a10-4d92-86f8-22dc4067a724.jpg?1664410212",
+            "png": "https://cards.scryfall.io/png/front/c/6/c629217f-4a10-4d92-86f8-22dc4067a724.png?1664410212",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/c/6/c629217f-4a10-4d92-86f8-22dc4067a724.jpg?1664410212",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/c/6/c629217f-4a10-4d92-86f8-22dc4067a724.jpg?1664410212"
+        },
+        "mana_cost": "{X}{U}{U}{U}",
+        "cmc": 3.0,
+        "type_line": "Instant",
+        "oracle_text": "This spell costs {U}{U}{U} less to cast if an opponent has drawn four or more cards this turn.\nDraw X cards.",
+        "colors": [
+            "U"
+        ],
+        "color_identity": [
+            "U"
+        ],
+        "keywords": [],
+        "legalities": {
+            "standard": "legal",
+            "future": "not_legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "not_legal",
+            "paupercommander": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo",
+            "arena"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "df837242-8c15-42e4-b049-c933a02dc501",
+        "set": "snc",
+        "set_name": "Streets of New Capenna",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/df837242-8c15-42e4-b049-c933a02dc501",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asnc&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/snc?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/c629217f-4a10-4d92-86f8-22dc4067a724/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A25f5cca6-a414-46d9-82e3-ce2fa21b14ca&unique=prints",
+        "collector_number": "42",
+        "digital": false,
+        "rarity": "mythic",
+        "flavor_text": "Those who try to rob the Obscura often leave behind more than they take away.",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Greg Opalinski",
+        "artist_ids": [
+            "b864fecb-d491-4f8d-b915-f6c93d0885fa"
+        ],
+        "illustration_id": "494a4656-87d8-4bd5-8026-8f80d653fc73",
+        "border_color": "black",
+        "frame": "2015",
+        "security_stamp": "oval",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 6459,
+        "penny_rank": 11143,
+        "preview": {
+            "source": "Nemesis Comics and Games",
+            "source_uri": "https://www.facebook.com/NCGComics21/photos/pcb.3268010646777371/3268010610110708",
+            "previewed_at": "2022-04-14"
+        },
+        "prices": {
+            "usd": "0.29",
+            "usd_foil": "0.50",
+            "usd_etched": null,
+            "eur": "0.46",
+            "eur_foil": "0.60",
+            "tix": "0.02"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555243&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DEven%2Bthe%2BScore",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DEven%2Bthe%2BScore",
+            "edhrec": "https://edhrec.com/route/?cc=Even+the+Score"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F268916%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Streets-of-New-Capenna/Even-the-Score?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/98303?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    {
+        "object": "card",
+        "id": "ae25db8c-3d10-4196-b002-9d2aabd5f4de",
+        "oracle_id": "b9c1ca24-5696-4777-8465-13a8f78e4fb5",
+        "multiverse_ids": [
+            555387
+        ],
+        "mtgo_id": 98591,
+        "arena_id": 80337,
+        "tcgplayer_id": 268335,
+        "cardmarket_id": 651373,
+        "name": "Falco Spara, Pactweaver",
+        "lang": "en",
+        "released_at": "2022-04-29",
+        "uri": "https://api.scryfall.com/cards/ae25db8c-3d10-4196-b002-9d2aabd5f4de",
+        "scryfall_uri": "https://scryfall.com/card/snc/186/falco-spara-pactweaver?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/a/e/ae25db8c-3d10-4196-b002-9d2aabd5f4de.jpg?1664413016",
+            "normal": "https://cards.scryfall.io/normal/front/a/e/ae25db8c-3d10-4196-b002-9d2aabd5f4de.jpg?1664413016",
+            "large": "https://cards.scryfall.io/large/front/a/e/ae25db8c-3d10-4196-b002-9d2aabd5f4de.jpg?1664413016",
+            "png": "https://cards.scryfall.io/png/front/a/e/ae25db8c-3d10-4196-b002-9d2aabd5f4de.png?1664413016",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/a/e/ae25db8c-3d10-4196-b002-9d2aabd5f4de.jpg?1664413016",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/a/e/ae25db8c-3d10-4196-b002-9d2aabd5f4de.jpg?1664413016"
+        },
+        "mana_cost": "{1}{G}{W}{U}",
+        "cmc": 4.0,
+        "type_line": "Legendary Creature \u2014 Bird Demon",
+        "oracle_text": "Flying, trample\nFalco Spara, Pactweaver enters the battlefield with a shield counter on it.\nYou may look at the top card of your library any time.\nYou may cast spells from the top of your library by removing a counter from a creature you control in addition to paying their other costs.",
+        "power": "3",
+        "toughness": "3",
+        "colors": [
+            "G",
+            "U",
+            "W"
+        ],
+        "color_identity": [
+            "G",
+            "U",
+            "W"
+        ],
+        "keywords": [
+            "Flying",
+            "Trample"
+        ],
+        "legalities": {
+            "standard": "legal",
+            "future": "not_legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "not_legal",
+            "paupercommander": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo",
+            "arena"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "df837242-8c15-42e4-b049-c933a02dc501",
+        "set": "snc",
+        "set_name": "Streets of New Capenna",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/df837242-8c15-42e4-b049-c933a02dc501",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asnc&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/snc?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/ae25db8c-3d10-4196-b002-9d2aabd5f4de/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab9c1ca24-5696-4777-8465-13a8f78e4fb5&unique=prints",
+        "collector_number": "186",
+        "digital": false,
+        "rarity": "mythic",
+        "watermark": "brokers",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Kieran Yanner",
+        "artist_ids": [
+            "aa7e89ed-d294-4633-9057-ce04dacfcfa4"
+        ],
+        "illustration_id": "80de2a00-5a7b-4823-bb41-c7df85377bbd",
+        "border_color": "black",
+        "frame": "2015",
+        "frame_effects": [
+            "legendary"
+        ],
+        "security_stamp": "oval",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 6000,
+        "prices": {
+            "usd": "0.34",
+            "usd_foil": "0.47",
+            "usd_etched": null,
+            "eur": "0.94",
+            "eur_foil": "1.11",
+            "tix": "0.01"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555387&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DFalco%2BSpara%252C%2BPactweaver",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DFalco%2BSpara%252C%2BPactweaver",
+            "edhrec": "https://edhrec.com/route/?cc=Falco+Spara%2C+Pactweaver"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F268335%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Streets-of-New-Capenna/Falco-Spara-Pactweaver?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/98591?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    {
+        "object": "card",
+        "id": "0ee79399-715c-4c46-9fa1-e76b1087f009",
+        "oracle_id": "36a9de4c-8073-475d-8679-e50844eef09e",
+        "multiverse_ids": [
+            555216
+        ],
+        "mtgo_id": 98249,
+        "arena_id": 80166,
+        "tcgplayer_id": 268356,
+        "cardmarket_id": 651363,
+        "name": "Halo Fountain",
+        "lang": "en",
+        "released_at": "2022-04-29",
+        "uri": "https://api.scryfall.com/cards/0ee79399-715c-4c46-9fa1-e76b1087f009",
+        "scryfall_uri": "https://scryfall.com/card/snc/15/halo-fountain?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/0/e/0ee79399-715c-4c46-9fa1-e76b1087f009.jpg?1664409688",
+            "normal": "https://cards.scryfall.io/normal/front/0/e/0ee79399-715c-4c46-9fa1-e76b1087f009.jpg?1664409688",
+            "large": "https://cards.scryfall.io/large/front/0/e/0ee79399-715c-4c46-9fa1-e76b1087f009.jpg?1664409688",
+            "png": "https://cards.scryfall.io/png/front/0/e/0ee79399-715c-4c46-9fa1-e76b1087f009.png?1664409688",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/0/e/0ee79399-715c-4c46-9fa1-e76b1087f009.jpg?1664409688",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/0/e/0ee79399-715c-4c46-9fa1-e76b1087f009.jpg?1664409688"
+        },
+        "mana_cost": "{2}{W}",
+        "cmc": 3.0,
+        "type_line": "Artifact",
+        "oracle_text": "{W}, {T}, Untap a tapped creature you control: Create a 1/1 green and white Citizen creature token.\n{W}{W}, {T}, Untap two tapped creatures you control: Draw a card.\n{W}{W}{W}{W}{W}, {T}, Untap fifteen tapped creatures you control: You win the game.",
+        "colors": [
+            "W"
+        ],
+        "color_identity": [
+            "W"
+        ],
+        "keywords": [],
+        "all_parts": [
+            {
+                "object": "related_card",
+                "id": "5131b10f-f14f-40e1-969b-224fcce2ed18",
+                "component": "combo_piece",
+                "name": "Halo Fountain",
+                "type_line": "Artifact",
+                "uri": "https://api.scryfall.com/cards/5131b10f-f14f-40e1-969b-224fcce2ed18"
+            },
+            {
+                "object": "related_card",
+                "id": "3f03e9fe-cb71-498e-bf16-5af6af37a192",
+                "component": "token",
+                "name": "Citizen",
+                "type_line": "Token Creature \u2014 Citizen",
+                "uri": "https://api.scryfall.com/cards/3f03e9fe-cb71-498e-bf16-5af6af37a192"
+            }
+        ],
+        "legalities": {
+            "standard": "legal",
+            "future": "not_legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "not_legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "not_legal",
+            "paupercommander": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo",
+            "arena"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "df837242-8c15-42e4-b049-c933a02dc501",
+        "set": "snc",
+        "set_name": "Streets of New Capenna",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/df837242-8c15-42e4-b049-c933a02dc501",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asnc&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/snc?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/0ee79399-715c-4c46-9fa1-e76b1087f009/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A36a9de4c-8073-475d-8679-e50844eef09e&unique=prints",
+        "collector_number": "15",
+        "digital": false,
+        "rarity": "mythic",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Anastasia Ovchinnikova",
+        "artist_ids": [
+            "3605d81f-5c97-4958-9dcc-d44a85e10305"
+        ],
+        "illustration_id": "d9f376ef-0c2b-4b1e-b116-25f00ee9fbed",
+        "border_color": "black",
+        "frame": "2015",
+        "security_stamp": "oval",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 1267,
+        "prices": {
+            "usd": "4.86",
+            "usd_foil": "5.65",
+            "usd_etched": null,
+            "eur": "4.78",
+            "eur_foil": "5.10",
+            "tix": "0.02"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555216&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DHalo%2BFountain",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DHalo%2BFountain",
+            "edhrec": "https://edhrec.com/route/?cc=Halo+Fountain"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F268356%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Streets-of-New-Capenna/Halo-Fountain?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/98249?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    {
+        "object": "card",
+        "id": "f9c69d75-651f-4b75-b65d-79999d2069f6",
+        "oracle_id": "da72a4bc-ce6f-4b72-bc66-2ee33cfa87df",
+        "multiverse_ids": [
+            555394
+        ],
+        "mtgo_id": 98605,
+        "arena_id": 80344,
+        "tcgplayer_id": 267925,
+        "cardmarket_id": 650983,
+        "name": "Jetmir, Nexus of Revels",
+        "lang": "en",
+        "released_at": "2022-04-29",
+        "uri": "https://api.scryfall.com/cards/f9c69d75-651f-4b75-b65d-79999d2069f6",
+        "scryfall_uri": "https://scryfall.com/card/snc/193/jetmir-nexus-of-revels?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/f/9/f9c69d75-651f-4b75-b65d-79999d2069f6.jpg?1664413153",
+            "normal": "https://cards.scryfall.io/normal/front/f/9/f9c69d75-651f-4b75-b65d-79999d2069f6.jpg?1664413153",
+            "large": "https://cards.scryfall.io/large/front/f/9/f9c69d75-651f-4b75-b65d-79999d2069f6.jpg?1664413153",
+            "png": "https://cards.scryfall.io/png/front/f/9/f9c69d75-651f-4b75-b65d-79999d2069f6.png?1664413153",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/f/9/f9c69d75-651f-4b75-b65d-79999d2069f6.jpg?1664413153",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/f/9/f9c69d75-651f-4b75-b65d-79999d2069f6.jpg?1664413153"
+        },
+        "mana_cost": "{1}{R}{G}{W}",
+        "cmc": 4.0,
+        "type_line": "Legendary Creature \u2014 Cat Demon",
+        "oracle_text": "Creatures you control get +1/+0 and have vigilance as long as you control three or more creatures.\nCreatures you control also get +1/+0 and have trample as long as you control six or more creatures.\nCreatures you control also get +1/+0 and have double strike as long as you control nine or more creatures.",
+        "power": "5",
+        "toughness": "4",
+        "colors": [
+            "G",
+            "R",
+            "W"
+        ],
+        "color_identity": [
+            "G",
+            "R",
+            "W"
+        ],
+        "keywords": [],
+        "legalities": {
+            "standard": "legal",
+            "future": "not_legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "not_legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "not_legal",
+            "paupercommander": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "arena",
+            "mtgo"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "df837242-8c15-42e4-b049-c933a02dc501",
+        "set": "snc",
+        "set_name": "Streets of New Capenna",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/df837242-8c15-42e4-b049-c933a02dc501",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asnc&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/snc?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/f9c69d75-651f-4b75-b65d-79999d2069f6/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ada72a4bc-ce6f-4b72-bc66-2ee33cfa87df&unique=prints",
+        "collector_number": "193",
+        "digital": false,
+        "rarity": "mythic",
+        "watermark": "cabaretti",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Ryan Pancoast",
+        "artist_ids": [
+            "89cc9475-dda2-4d13-bf88-54b92867a25c"
+        ],
+        "illustration_id": "0bf55256-d670-47ce-8e5a-fb047b6fc8a8",
+        "border_color": "black",
+        "frame": "2015",
+        "frame_effects": [
+            "legendary"
+        ],
+        "security_stamp": "oval",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 1494,
+        "preview": {
+            "source": "The Command Zone",
+            "source_uri": "https://www.youtube.com/watch?v=mTK3BofsvWg",
+            "previewed_at": "2022-03-31"
+        },
+        "prices": {
+            "usd": "5.95",
+            "usd_foil": "7.05",
+            "usd_etched": null,
+            "eur": "7.11",
+            "eur_foil": "8.18",
+            "tix": "0.01"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555394&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DJetmir%252C%2BNexus%2Bof%2BRevels",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DJetmir%252C%2BNexus%2Bof%2BRevels",
+            "edhrec": "https://edhrec.com/route/?cc=Jetmir%2C+Nexus+of+Revels"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F267925%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Streets-of-New-Capenna/Jetmir-Nexus-of-Revels?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/98605?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    {
+        "object": "card",
+        "id": "ee0a078d-045f-401b-a561-dcb1ad02bf62",
+        "oracle_id": "d17bfa94-5046-46ae-80af-be5d1d35af13",
+        "multiverse_ids": [
+            555398
+        ],
+        "mtgo_id": 98613,
+        "arena_id": 80348,
+        "tcgplayer_id": 267923,
+        "cardmarket_id": 650984,
+        "name": "Lord Xander, the Collector",
+        "lang": "en",
+        "released_at": "2022-04-29",
+        "uri": "https://api.scryfall.com/cards/ee0a078d-045f-401b-a561-dcb1ad02bf62",
+        "scryfall_uri": "https://scryfall.com/card/snc/197/lord-xander-the-collector?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/e/e/ee0a078d-045f-401b-a561-dcb1ad02bf62.jpg?1664413235",
+            "normal": "https://cards.scryfall.io/normal/front/e/e/ee0a078d-045f-401b-a561-dcb1ad02bf62.jpg?1664413235",
+            "large": "https://cards.scryfall.io/large/front/e/e/ee0a078d-045f-401b-a561-dcb1ad02bf62.jpg?1664413235",
+            "png": "https://cards.scryfall.io/png/front/e/e/ee0a078d-045f-401b-a561-dcb1ad02bf62.png?1664413235",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/e/e/ee0a078d-045f-401b-a561-dcb1ad02bf62.jpg?1664413235",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/e/e/ee0a078d-045f-401b-a561-dcb1ad02bf62.jpg?1664413235"
+        },
+        "mana_cost": "{4}{U}{B}{R}",
+        "cmc": 7.0,
+        "type_line": "Legendary Creature \u2014 Vampire Demon Noble",
+        "oracle_text": "When Lord Xander, the Collector enters the battlefield, target opponent discards half the cards in their hand, rounded down.\nWhenever Lord Xander attacks, defending player mills half their library, rounded down.\nWhen Lord Xander dies, target opponent sacrifices half the nonland permanents they control, rounded down.",
+        "power": "6",
+        "toughness": "6",
+        "colors": [
+            "B",
+            "R",
+            "U"
+        ],
+        "color_identity": [
+            "B",
+            "R",
+            "U"
+        ],
+        "keywords": [
+            "Mill"
+        ],
+        "legalities": {
+            "standard": "legal",
+            "future": "not_legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "not_legal",
+            "paupercommander": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "arena",
+            "mtgo"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "df837242-8c15-42e4-b049-c933a02dc501",
+        "set": "snc",
+        "set_name": "Streets of New Capenna",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/df837242-8c15-42e4-b049-c933a02dc501",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asnc&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/snc?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/ee0a078d-045f-401b-a561-dcb1ad02bf62/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad17bfa94-5046-46ae-80af-be5d1d35af13&unique=prints",
+        "collector_number": "197",
+        "digital": false,
+        "rarity": "mythic",
+        "watermark": "maestros",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Martina Fa\u010dkov\u00e1",
+        "artist_ids": [
+            "6338124e-8e53-498d-8bf9-93a55db2f61c"
+        ],
+        "illustration_id": "2289dded-d2a6-48cf-b404-1275b98cfbc0",
+        "border_color": "black",
+        "frame": "2015",
+        "frame_effects": [
+            "legendary"
+        ],
+        "security_stamp": "oval",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 4305,
+        "preview": {
+            "source": "The Command Zone",
+            "source_uri": "https://www.youtube.com/watch?v=mTK3BofsvWg",
+            "previewed_at": "2022-03-31"
+        },
+        "prices": {
+            "usd": "1.81",
+            "usd_foil": "2.30",
+            "usd_etched": null,
+            "eur": "1.63",
+            "eur_foil": "2.31",
+            "tix": "0.01"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555398&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DLord%2BXander%252C%2Bthe%2BCollector",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DLord%2BXander%252C%2Bthe%2BCollector",
+            "edhrec": "https://edhrec.com/route/?cc=Lord+Xander%2C+the+Collector"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F267923%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Streets-of-New-Capenna/Lord-Xander-the-Collector?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/98613?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    {
+        "object": "card",
+        "id": "1833662b-ccf3-4c16-9767-666d6407aa65",
+        "oracle_id": "2f9263d7-916f-4535-95d2-888ab73cf339",
+        "multiverse_ids": [
+            555441
+        ],
+        "mtgo_id": 98699,
+        "arena_id": 80391,
+        "tcgplayer_id": 268536,
+        "cardmarket_id": 651766,
+        "name": "Luxior, Giada's Gift",
+        "lang": "en",
+        "released_at": "2022-04-29",
+        "uri": "https://api.scryfall.com/cards/1833662b-ccf3-4c16-9767-666d6407aa65",
+        "scryfall_uri": "https://scryfall.com/card/snc/240/luxior-giadas-gift?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/1/8/1833662b-ccf3-4c16-9767-666d6407aa65.jpg?1664414232",
+            "normal": "https://cards.scryfall.io/normal/front/1/8/1833662b-ccf3-4c16-9767-666d6407aa65.jpg?1664414232",
+            "large": "https://cards.scryfall.io/large/front/1/8/1833662b-ccf3-4c16-9767-666d6407aa65.jpg?1664414232",
+            "png": "https://cards.scryfall.io/png/front/1/8/1833662b-ccf3-4c16-9767-666d6407aa65.png?1664414232",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/1/8/1833662b-ccf3-4c16-9767-666d6407aa65.jpg?1664414232",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/1/8/1833662b-ccf3-4c16-9767-666d6407aa65.jpg?1664414232"
+        },
+        "mana_cost": "{1}",
+        "cmc": 1.0,
+        "type_line": "Legendary Artifact \u2014 Equipment",
+        "oracle_text": "Equipped creature gets +1/+1 for each counter on it.\nEquipped permanent isn't a planeswalker and is a creature in addition to its other types. (Loyalty abilities can still be activated.)\nEquip planeswalker {1}\nEquip {3}",
+        "colors": [],
+        "color_identity": [],
+        "keywords": [
+            "Equip"
+        ],
+        "legalities": {
+            "standard": "legal",
+            "future": "not_legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "not_legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "not_legal",
+            "paupercommander": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo",
+            "arena"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "df837242-8c15-42e4-b049-c933a02dc501",
+        "set": "snc",
+        "set_name": "Streets of New Capenna",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/df837242-8c15-42e4-b049-c933a02dc501",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asnc&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/snc?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/1833662b-ccf3-4c16-9767-666d6407aa65/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2f9263d7-916f-4535-95d2-888ab73cf339&unique=prints",
+        "collector_number": "240",
+        "digital": false,
+        "rarity": "mythic",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Volkan Ba\u01f5a",
+        "artist_ids": [
+            "93bec3c0-0260-4d31-8064-5d01efb4153f"
+        ],
+        "illustration_id": "425bfbe1-e9c7-4624-a3d6-1cf8191b962e",
+        "border_color": "black",
+        "frame": "2015",
+        "frame_effects": [
+            "legendary"
+        ],
+        "security_stamp": "oval",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": true,
+        "edhrec_rank": 2381,
+        "preview": {
+            "source": "IGN",
+            "source_uri": "https://www.ign.com/articles/magic-the-gathering-streets-of-new-capenna-ign-card-reveal-luxior-giadas-gift",
+            "previewed_at": "2022-04-11"
+        },
+        "prices": {
+            "usd": "4.09",
+            "usd_foil": "4.55",
+            "usd_etched": null,
+            "eur": "3.92",
+            "eur_foil": "4.69",
+            "tix": "0.03"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555441&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DLuxior%252C%2BGiada%2527s%2BGift",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DLuxior%252C%2BGiada%2527s%2BGift",
+            "edhrec": "https://edhrec.com/route/?cc=Luxior%2C+Giada%27s+Gift"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F268536%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Streets-of-New-Capenna/Luxior-Giadas-Gift?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/98699?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    {
+        "object": "card",
+        "id": "d6c3c08f-ae9d-4932-ba0e-65652b8b318b",
+        "oracle_id": "60fc4c2d-1bf9-4c9a-a240-ab9b1c9c6817",
+        "multiverse_ids": [
+            555403
+        ],
+        "mtgo_id": 98623,
+        "arena_id": 80353,
+        "tcgplayer_id": 269087,
+        "cardmarket_id": 652207,
+        "name": "Meeting of the Five",
+        "lang": "en",
+        "released_at": "2022-04-29",
+        "uri": "https://api.scryfall.com/cards/d6c3c08f-ae9d-4932-ba0e-65652b8b318b",
+        "scryfall_uri": "https://scryfall.com/card/snc/202/meeting-of-the-five?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/d/6/d6c3c08f-ae9d-4932-ba0e-65652b8b318b.jpg?1674125027",
+            "normal": "https://cards.scryfall.io/normal/front/d/6/d6c3c08f-ae9d-4932-ba0e-65652b8b318b.jpg?1674125027",
+            "large": "https://cards.scryfall.io/large/front/d/6/d6c3c08f-ae9d-4932-ba0e-65652b8b318b.jpg?1674125027",
+            "png": "https://cards.scryfall.io/png/front/d/6/d6c3c08f-ae9d-4932-ba0e-65652b8b318b.png?1674125027",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/d/6/d6c3c08f-ae9d-4932-ba0e-65652b8b318b.jpg?1674125027",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/d/6/d6c3c08f-ae9d-4932-ba0e-65652b8b318b.jpg?1674125027"
+        },
+        "mana_cost": "{3}{W}{U}{B}{R}{G}",
+        "cmc": 8.0,
+        "type_line": "Sorcery",
+        "oracle_text": "Exile the top ten cards of your library. You may cast spells with exactly three colors from among them this turn. Add {W}{W}{U}{U}{B}{B}{R}{R}{G}{G}. Spend this mana only to cast spells with exactly three colors.",
+        "colors": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "color_identity": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "keywords": [],
+        "produced_mana": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "legalities": {
+            "standard": "legal",
+            "future": "not_legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "not_legal",
+            "paupercommander": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo",
+            "arena"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "df837242-8c15-42e4-b049-c933a02dc501",
+        "set": "snc",
+        "set_name": "Streets of New Capenna",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/df837242-8c15-42e4-b049-c933a02dc501",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asnc&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/snc?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/d6c3c08f-ae9d-4932-ba0e-65652b8b318b/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A60fc4c2d-1bf9-4c9a-a240-ab9b1c9c6817&unique=prints",
+        "collector_number": "202",
+        "digital": false,
+        "rarity": "mythic",
+        "flavor_text": "For years, the five families ruled New Capenna in uneasy peace, and the city prospered.",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Dominik Mayer",
+        "artist_ids": [
+            "c3439c4a-1fee-4e33-9b89-18dac27ac927"
+        ],
+        "illustration_id": "a687450c-e106-4a19-8e34-ec5cde3574d4",
+        "border_color": "black",
+        "frame": "2015",
+        "security_stamp": "oval",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": true,
+        "edhrec_rank": 15106,
+        "preview": {
+            "source": "Wizards of the Coast",
+            "source_uri": "",
+            "previewed_at": "2022-04-14"
+        },
+        "prices": {
+            "usd": "0.14",
+            "usd_foil": "0.31",
+            "usd_etched": null,
+            "eur": "0.19",
+            "eur_foil": "0.22",
+            "tix": "0.01"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555403&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DMeeting%2Bof%2Bthe%2BFive",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DMeeting%2Bof%2Bthe%2BFive",
+            "edhrec": "https://edhrec.com/route/?cc=Meeting+of+the+Five"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F269087%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Streets-of-New-Capenna/Meeting-of-the-Five?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/98623?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    {
+        "object": "card",
+        "id": "80226520-6b0a-48ea-a868-a29eb3fbd403",
+        "oracle_id": "a6abb6af-7ea2-43f3-8718-2a077ad0c947",
+        "multiverse_ids": [
+            555407
+        ],
+        "mtgo_id": 98631,
+        "arena_id": 80357,
+        "tcgplayer_id": 268359,
+        "cardmarket_id": 651375,
+        "name": "Ob Nixilis, the Adversary",
+        "lang": "en",
+        "released_at": "2022-04-29",
+        "uri": "https://api.scryfall.com/cards/80226520-6b0a-48ea-a868-a29eb3fbd403",
+        "scryfall_uri": "https://scryfall.com/card/snc/206/ob-nixilis-the-adversary?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/8/0/80226520-6b0a-48ea-a868-a29eb3fbd403.jpg?1664413416",
+            "normal": "https://cards.scryfall.io/normal/front/8/0/80226520-6b0a-48ea-a868-a29eb3fbd403.jpg?1664413416",
+            "large": "https://cards.scryfall.io/large/front/8/0/80226520-6b0a-48ea-a868-a29eb3fbd403.jpg?1664413416",
+            "png": "https://cards.scryfall.io/png/front/8/0/80226520-6b0a-48ea-a868-a29eb3fbd403.png?1664413416",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/8/0/80226520-6b0a-48ea-a868-a29eb3fbd403.jpg?1664413416",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/8/0/80226520-6b0a-48ea-a868-a29eb3fbd403.jpg?1664413416"
+        },
+        "mana_cost": "{1}{B}{R}",
+        "cmc": 3.0,
+        "type_line": "Legendary Planeswalker \u2014 Nixilis",
+        "oracle_text": "Casualty X. The copy isn't legendary and has starting loyalty X. (As you cast this spell, you may sacrifice a creature with power X. When you do, copy this spell. The copy becomes a token.)\n+1: Each opponent loses 2 life unless they discard a card. If you control a Demon or Devil, you gain 2 life.\n\u22122: Create a 1/1 red Devil creature token with \"When this creature dies, it deals 1 damage to any target.\"\n\u22127: Target player draws seven cards and loses 7 life.",
+        "loyalty": "3",
+        "colors": [
+            "B",
+            "R"
+        ],
+        "color_identity": [
+            "B",
+            "R"
+        ],
+        "keywords": [
+            "Casualty"
+        ],
+        "all_parts": [
+            {
+                "object": "related_card",
+                "id": "ec75fdab-818c-4f3a-94c1-fd3f577a87f5",
+                "component": "token",
+                "name": "Devil",
+                "type_line": "Token Creature \u2014 Devil",
+                "uri": "https://api.scryfall.com/cards/ec75fdab-818c-4f3a-94c1-fd3f577a87f5"
+            },
+            {
+                "object": "related_card",
+                "id": "1e6ce56c-ca2e-48e8-a4d9-671cb4de8a9d",
+                "component": "token",
+                "name": "Copy",
+                "type_line": "Token",
+                "uri": "https://api.scryfall.com/cards/1e6ce56c-ca2e-48e8-a4d9-671cb4de8a9d"
+            },
+            {
+                "object": "related_card",
+                "id": "54630dd4-65bc-468a-b9a5-f24242459e61",
+                "component": "combo_piece",
+                "name": "Ob Nixilis, the Adversary",
+                "type_line": "Legendary Planeswalker \u2014 Nixilis",
+                "uri": "https://api.scryfall.com/cards/54630dd4-65bc-468a-b9a5-f24242459e61"
+            }
+        ],
+        "legalities": {
+            "standard": "legal",
+            "future": "not_legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "not_legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "not_legal",
+            "paupercommander": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo",
+            "arena"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "df837242-8c15-42e4-b049-c933a02dc501",
+        "set": "snc",
+        "set_name": "Streets of New Capenna",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/df837242-8c15-42e4-b049-c933a02dc501",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asnc&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/snc?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/80226520-6b0a-48ea-a868-a29eb3fbd403/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa6abb6af-7ea2-43f3-8718-2a077ad0c947&unique=prints",
+        "collector_number": "206",
+        "digital": false,
+        "rarity": "mythic",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Yongjae Choi",
+        "artist_ids": [
+            "5ab91c3b-a6da-4751-a56e-81d0f61a67ab"
+        ],
+        "illustration_id": "1a4a36d5-d91d-414c-80b7-34557280002b",
+        "border_color": "black",
+        "frame": "2015",
+        "security_stamp": "oval",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 4704,
+        "prices": {
+            "usd": "3.36",
+            "usd_foil": "4.86",
+            "usd_etched": null,
+            "eur": "4.84",
+            "eur_foil": "5.37",
+            "tix": "0.59"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555407&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DOb%2BNixilis%252C%2Bthe%2BAdversary",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DOb%2BNixilis%252C%2Bthe%2BAdversary",
+            "edhrec": "https://edhrec.com/route/?cc=Ob+Nixilis%2C+the+Adversary"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F268359%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Streets-of-New-Capenna/Ob-Nixilis-the-Adversary?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/98631?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    {
+        "object": "card",
+        "id": "716a44b4-f6b0-4f14-a270-6442aed3251f",
+        "oracle_id": "9307f7e9-bcd9-41f9-88f8-0fb9700a6b12",
+        "multiverse_ids": [
+            555414
+        ],
+        "mtgo_id": 98645,
+        "arena_id": 80364,
+        "tcgplayer_id": 267921,
+        "cardmarket_id": 650985,
+        "name": "Raffine, Scheming Seer",
+        "lang": "en",
+        "released_at": "2022-04-29",
+        "uri": "https://api.scryfall.com/cards/716a44b4-f6b0-4f14-a270-6442aed3251f",
+        "scryfall_uri": "https://scryfall.com/card/snc/213/raffine-scheming-seer?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/7/1/716a44b4-f6b0-4f14-a270-6442aed3251f.jpg?1711471750",
+            "normal": "https://cards.scryfall.io/normal/front/7/1/716a44b4-f6b0-4f14-a270-6442aed3251f.jpg?1711471750",
+            "large": "https://cards.scryfall.io/large/front/7/1/716a44b4-f6b0-4f14-a270-6442aed3251f.jpg?1711471750",
+            "png": "https://cards.scryfall.io/png/front/7/1/716a44b4-f6b0-4f14-a270-6442aed3251f.png?1711471750",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/7/1/716a44b4-f6b0-4f14-a270-6442aed3251f.jpg?1711471750",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/7/1/716a44b4-f6b0-4f14-a270-6442aed3251f.jpg?1711471750"
+        },
+        "mana_cost": "{W}{U}{B}",
+        "cmc": 3.0,
+        "type_line": "Legendary Creature \u2014 Sphinx Demon",
+        "oracle_text": "Flying, ward {1}\nWhenever you attack, target attacking creature connives X, where X is the number of attacking creatures. (Draw X cards, then discard X cards. Put a +1/+1 counter on that creature for each nonland card discarded this way.)",
+        "power": "1",
+        "toughness": "4",
+        "colors": [
+            "B",
+            "U",
+            "W"
+        ],
+        "color_identity": [
+            "B",
+            "U",
+            "W"
+        ],
+        "keywords": [
+            "Flying",
+            "Ward",
+            "Connive"
+        ],
+        "legalities": {
+            "standard": "legal",
+            "future": "not_legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "not_legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "not_legal",
+            "paupercommander": "not_legal",
+            "duel": "restricted",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "arena",
+            "mtgo"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "df837242-8c15-42e4-b049-c933a02dc501",
+        "set": "snc",
+        "set_name": "Streets of New Capenna",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/df837242-8c15-42e4-b049-c933a02dc501",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asnc&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/snc?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/716a44b4-f6b0-4f14-a270-6442aed3251f/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9307f7e9-bcd9-41f9-88f8-0fb9700a6b12&unique=prints",
+        "collector_number": "213",
+        "digital": false,
+        "rarity": "mythic",
+        "watermark": "obscura",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Johannes Voss",
+        "artist_ids": [
+            "3593dd7e-c547-4a32-81cd-7da725f60118"
+        ],
+        "illustration_id": "6f571eb1-def9-4cc1-969b-a08b2e910700",
+        "border_color": "black",
+        "frame": "2015",
+        "frame_effects": [
+            "legendary"
+        ],
+        "security_stamp": "oval",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 4147,
+        "preview": {
+            "source": "The Command Zone",
+            "source_uri": "https://www.youtube.com/watch?v=mTK3BofsvWg",
+            "previewed_at": "2022-03-31"
+        },
+        "prices": {
+            "usd": "2.32",
+            "usd_foil": "3.78",
+            "usd_etched": null,
+            "eur": "3.51",
+            "eur_foil": "4.73",
+            "tix": "1.56"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555414&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DRaffine%252C%2BScheming%2BSeer",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DRaffine%252C%2BScheming%2BSeer",
+            "edhrec": "https://edhrec.com/route/?cc=Raffine%2C+Scheming+Seer"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F267921%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Streets-of-New-Capenna/Raffine-Scheming-Seer?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/98645?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    {
+        "object": "card",
+        "id": "4dfdab77-d7c3-4e6a-bb4b-55153bd2fd4d",
+        "oracle_id": "713bcfb6-e5ea-411e-b4b3-52e5eed5cdf1",
+        "multiverse_ids": [
+            555231
+        ],
+        "mtgo_id": 98279,
+        "arena_id": 80181,
+        "tcgplayer_id": 268919,
+        "cardmarket_id": 652160,
+        "name": "Sanctuary Warden",
+        "lang": "en",
+        "released_at": "2022-04-29",
+        "uri": "https://api.scryfall.com/cards/4dfdab77-d7c3-4e6a-bb4b-55153bd2fd4d",
+        "scryfall_uri": "https://scryfall.com/card/snc/30/sanctuary-warden?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/4/d/4dfdab77-d7c3-4e6a-bb4b-55153bd2fd4d.jpg?1664409970",
+            "normal": "https://cards.scryfall.io/normal/front/4/d/4dfdab77-d7c3-4e6a-bb4b-55153bd2fd4d.jpg?1664409970",
+            "large": "https://cards.scryfall.io/large/front/4/d/4dfdab77-d7c3-4e6a-bb4b-55153bd2fd4d.jpg?1664409970",
+            "png": "https://cards.scryfall.io/png/front/4/d/4dfdab77-d7c3-4e6a-bb4b-55153bd2fd4d.png?1664409970",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/4/d/4dfdab77-d7c3-4e6a-bb4b-55153bd2fd4d.jpg?1664409970",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/4/d/4dfdab77-d7c3-4e6a-bb4b-55153bd2fd4d.jpg?1664409970"
+        },
+        "mana_cost": "{4}{W}{W}",
+        "cmc": 6.0,
+        "type_line": "Creature \u2014 Angel Soldier",
+        "oracle_text": "Flying\nSanctuary Warden enters the battlefield with two shield counters on it.\nWhenever Sanctuary Warden enters the battlefield or attacks, you may remove a counter from a creature or planeswalker you control. If you do, draw a card and create a 1/1 green and white Citizen creature token.",
+        "power": "5",
+        "toughness": "5",
+        "colors": [
+            "W"
+        ],
+        "color_identity": [
+            "W"
+        ],
+        "keywords": [
+            "Flying"
+        ],
+        "all_parts": [
+            {
+                "object": "related_card",
+                "id": "bf22288f-4fd4-45d4-9fcc-08aeba4d93a7",
+                "component": "combo_piece",
+                "name": "Sanctuary Warden",
+                "type_line": "Creature \u2014 Angel Soldier",
+                "uri": "https://api.scryfall.com/cards/bf22288f-4fd4-45d4-9fcc-08aeba4d93a7"
+            },
+            {
+                "object": "related_card",
+                "id": "3f03e9fe-cb71-498e-bf16-5af6af37a192",
+                "component": "token",
+                "name": "Citizen",
+                "type_line": "Token Creature \u2014 Citizen",
+                "uri": "https://api.scryfall.com/cards/3f03e9fe-cb71-498e-bf16-5af6af37a192"
+            }
+        ],
+        "legalities": {
+            "standard": "legal",
+            "future": "not_legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "not_legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "not_legal",
+            "paupercommander": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo",
+            "arena"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "df837242-8c15-42e4-b049-c933a02dc501",
+        "set": "snc",
+        "set_name": "Streets of New Capenna",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/df837242-8c15-42e4-b049-c933a02dc501",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asnc&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/snc?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/4dfdab77-d7c3-4e6a-bb4b-55153bd2fd4d/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A713bcfb6-e5ea-411e-b4b3-52e5eed5cdf1&unique=prints",
+        "collector_number": "30",
+        "digital": false,
+        "rarity": "mythic",
+        "watermark": "brokers",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Johannes Voss",
+        "artist_ids": [
+            "3593dd7e-c547-4a32-81cd-7da725f60118"
+        ],
+        "illustration_id": "fddc6e65-ec7a-482a-89f7-95770efe59a9",
+        "border_color": "black",
+        "frame": "2015",
+        "security_stamp": "oval",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 5056,
+        "preview": {
+            "source": "LadyLavinias",
+            "source_uri": "https://twitter.com/LadyLavinias/status/1514651622315544592",
+            "previewed_at": "2022-04-14"
+        },
+        "prices": {
+            "usd": "0.52",
+            "usd_foil": "0.49",
+            "usd_etched": null,
+            "eur": "1.37",
+            "eur_foil": "1.59",
+            "tix": "0.01"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555231&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DSanctuary%2BWarden",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DSanctuary%2BWarden",
+            "edhrec": "https://edhrec.com/route/?cc=Sanctuary+Warden"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F268919%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Streets-of-New-Capenna/Sanctuary-Warden?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/98279?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    {
+        "object": "card",
+        "id": "5b6f03c1-9e9d-4a0c-af3b-9753b440cd9f",
+        "oracle_id": "5d8acafe-c13e-43ca-a89e-0cfd12d95662",
+        "multiverse_ids": [
+            555360
+        ],
+        "mtgo_id": 98537,
+        "arena_id": 80310,
+        "tcgplayer_id": 268973,
+        "cardmarket_id": 652201,
+        "name": "Titan of Industry",
+        "lang": "en",
+        "released_at": "2022-04-29",
+        "uri": "https://api.scryfall.com/cards/5b6f03c1-9e9d-4a0c-af3b-9753b440cd9f",
+        "scryfall_uri": "https://scryfall.com/card/snc/159/titan-of-industry?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/5/b/5b6f03c1-9e9d-4a0c-af3b-9753b440cd9f.jpg?1664412518",
+            "normal": "https://cards.scryfall.io/normal/front/5/b/5b6f03c1-9e9d-4a0c-af3b-9753b440cd9f.jpg?1664412518",
+            "large": "https://cards.scryfall.io/large/front/5/b/5b6f03c1-9e9d-4a0c-af3b-9753b440cd9f.jpg?1664412518",
+            "png": "https://cards.scryfall.io/png/front/5/b/5b6f03c1-9e9d-4a0c-af3b-9753b440cd9f.png?1664412518",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/5/b/5b6f03c1-9e9d-4a0c-af3b-9753b440cd9f.jpg?1664412518",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/5/b/5b6f03c1-9e9d-4a0c-af3b-9753b440cd9f.jpg?1664412518"
+        },
+        "mana_cost": "{4}{G}{G}{G}",
+        "cmc": 7.0,
+        "type_line": "Creature \u2014 Elemental",
+        "oracle_text": "Reach, trample\nWhen Titan of Industry enters the battlefield, choose two \u2014\n\u2022 Destroy target artifact or enchantment.\n\u2022 Target player gains 5 life.\n\u2022 Create a 4/4 green Rhino Warrior creature token.\n\u2022 Put a shield counter on a creature you control.",
+        "power": "7",
+        "toughness": "7",
+        "colors": [
+            "G"
+        ],
+        "color_identity": [
+            "G"
+        ],
+        "keywords": [
+            "Reach",
+            "Trample"
+        ],
+        "all_parts": [
+            {
+                "object": "related_card",
+                "id": "6fb623e9-384e-41bb-b3af-f593212a0e77",
+                "component": "combo_piece",
+                "name": "Titan of Industry",
+                "type_line": "Creature \u2014 Elemental",
+                "uri": "https://api.scryfall.com/cards/6fb623e9-384e-41bb-b3af-f593212a0e77"
+            },
+            {
+                "object": "related_card",
+                "id": "230419f9-a9f7-441d-bad7-0ed867326aa1",
+                "component": "token",
+                "name": "Rhino Warrior",
+                "type_line": "Token Creature \u2014 Rhino Warrior",
+                "uri": "https://api.scryfall.com/cards/230419f9-a9f7-441d-bad7-0ed867326aa1"
+            }
+        ],
+        "legalities": {
+            "standard": "legal",
+            "future": "not_legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "not_legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "not_legal",
+            "paupercommander": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo",
+            "arena"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "df837242-8c15-42e4-b049-c933a02dc501",
+        "set": "snc",
+        "set_name": "Streets of New Capenna",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/df837242-8c15-42e4-b049-c933a02dc501",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asnc&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/snc?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/5b6f03c1-9e9d-4a0c-af3b-9753b440cd9f/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5d8acafe-c13e-43ca-a89e-0cfd12d95662&unique=prints",
+        "collector_number": "159",
+        "digital": false,
+        "rarity": "mythic",
+        "watermark": "brokers",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Lucas Staniec",
+        "artist_ids": [
+            "b4344292-387b-4aa0-8225-13f1fbe77808"
+        ],
+        "illustration_id": "9d7e0841-6170-4a85-91c4-e9462ae0ea0f",
+        "border_color": "black",
+        "frame": "2015",
+        "security_stamp": "oval",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 3145,
+        "preview": {
+            "source": "Wizards of the Coast",
+            "source_uri": "https://www.twitch.tv/videos/1456061046",
+            "previewed_at": "2022-04-15"
+        },
+        "prices": {
+            "usd": "3.21",
+            "usd_foil": "3.95",
+            "usd_etched": null,
+            "eur": "4.53",
+            "eur_foil": "5.46",
+            "tix": "1.10"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555360&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DTitan%2Bof%2BIndustry",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DTitan%2Bof%2BIndustry",
+            "edhrec": "https://edhrec.com/route/?cc=Titan+of+Industry"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F268973%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Streets-of-New-Capenna/Titan-of-Industry?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/98537?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    {
+        "object": "card",
+        "id": "d9a4ec18-1da4-43c6-a79a-03fbd4aef3db",
+        "oracle_id": "3fe61a65-b1c0-4d15-b379-e4ce22c96941",
+        "multiverse_ids": [
+            555330
+        ],
+        "mtgo_id": 98477,
+        "arena_id": 80280,
+        "tcgplayer_id": 268361,
+        "cardmarket_id": 651370,
+        "name": "Urabrask, Heretic Praetor",
+        "lang": "en",
+        "released_at": "2022-04-29",
+        "uri": "https://api.scryfall.com/cards/d9a4ec18-1da4-43c6-a79a-03fbd4aef3db",
+        "scryfall_uri": "https://scryfall.com/card/snc/129/urabrask-heretic-praetor?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/d/9/d9a4ec18-1da4-43c6-a79a-03fbd4aef3db.jpg?1664411925",
+            "normal": "https://cards.scryfall.io/normal/front/d/9/d9a4ec18-1da4-43c6-a79a-03fbd4aef3db.jpg?1664411925",
+            "large": "https://cards.scryfall.io/large/front/d/9/d9a4ec18-1da4-43c6-a79a-03fbd4aef3db.jpg?1664411925",
+            "png": "https://cards.scryfall.io/png/front/d/9/d9a4ec18-1da4-43c6-a79a-03fbd4aef3db.png?1664411925",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/d/9/d9a4ec18-1da4-43c6-a79a-03fbd4aef3db.jpg?1664411925",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/d/9/d9a4ec18-1da4-43c6-a79a-03fbd4aef3db.jpg?1664411925"
+        },
+        "mana_cost": "{3}{R}{R}",
+        "cmc": 5.0,
+        "type_line": "Legendary Creature \u2014 Phyrexian Praetor",
+        "oracle_text": "Haste\nAt the beginning of your upkeep, exile the top card of your library. You may play it this turn.\nAt the beginning of each opponent's upkeep, the next time they would draw a card this turn, instead they exile the top card of their library. They may play it this turn.",
+        "power": "4",
+        "toughness": "4",
+        "colors": [
+            "R"
+        ],
+        "color_identity": [
+            "R"
+        ],
+        "keywords": [
+            "Haste"
+        ],
+        "legalities": {
+            "standard": "legal",
+            "future": "not_legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "not_legal",
+            "paupercommander": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo",
+            "arena"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "df837242-8c15-42e4-b049-c933a02dc501",
+        "set": "snc",
+        "set_name": "Streets of New Capenna",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/df837242-8c15-42e4-b049-c933a02dc501",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asnc&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/snc?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/d9a4ec18-1da4-43c6-a79a-03fbd4aef3db/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3fe61a65-b1c0-4d15-b379-e4ce22c96941&unique=prints",
+        "collector_number": "129",
+        "digital": false,
+        "rarity": "mythic",
+        "watermark": "phyrexian",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Simon Dominic",
+        "artist_ids": [
+            "b0e80135-db5a-4b88-a0bc-815a0e94faa1"
+        ],
+        "illustration_id": "73648f17-86f7-45b8-884b-af6b2379e4e3",
+        "border_color": "black",
+        "frame": "2015",
+        "frame_effects": [
+            "legendary"
+        ],
+        "security_stamp": "oval",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": true,
+        "edhrec_rank": 2331,
+        "penny_rank": 5487,
+        "prices": {
+            "usd": "2.01",
+            "usd_foil": "2.43",
+            "usd_etched": null,
+            "eur": "3.25",
+            "eur_foil": "3.43",
+            "tix": "0.01"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555330&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DUrabrask%252C%2BHeretic%2BPraetor",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DUrabrask%252C%2BHeretic%2BPraetor",
+            "edhrec": "https://edhrec.com/route/?cc=Urabrask%2C+Heretic+Praetor"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F268361%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Streets-of-New-Capenna/Urabrask-Heretic-Praetor?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/98477?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    {
+        "object": "card",
+        "id": "5edfb119-abc9-4d4d-bc46-33cce1a0922d",
+        "oracle_id": "f6f927f3-dc3f-446c-aa7b-81048eb73243",
+        "multiverse_ids": [
+            555363
+        ],
+        "mtgo_id": 98543,
+        "arena_id": 80313,
+        "tcgplayer_id": 268431,
+        "cardmarket_id": 651372,
+        "name": "Vivien on the Hunt",
+        "lang": "en",
+        "released_at": "2022-04-29",
+        "uri": "https://api.scryfall.com/cards/5edfb119-abc9-4d4d-bc46-33cce1a0922d",
+        "scryfall_uri": "https://scryfall.com/card/snc/162/vivien-on-the-hunt?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/5/e/5edfb119-abc9-4d4d-bc46-33cce1a0922d.jpg?1664412571",
+            "normal": "https://cards.scryfall.io/normal/front/5/e/5edfb119-abc9-4d4d-bc46-33cce1a0922d.jpg?1664412571",
+            "large": "https://cards.scryfall.io/large/front/5/e/5edfb119-abc9-4d4d-bc46-33cce1a0922d.jpg?1664412571",
+            "png": "https://cards.scryfall.io/png/front/5/e/5edfb119-abc9-4d4d-bc46-33cce1a0922d.png?1664412571",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/5/e/5edfb119-abc9-4d4d-bc46-33cce1a0922d.jpg?1664412571",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/5/e/5edfb119-abc9-4d4d-bc46-33cce1a0922d.jpg?1664412571"
+        },
+        "mana_cost": "{4}{G}{G}",
+        "cmc": 6.0,
+        "type_line": "Legendary Planeswalker \u2014 Vivien",
+        "oracle_text": "+2: You may sacrifice a creature. If you do, search your library for a creature card with mana value equal to 1 plus the sacrificed creature's mana value, put it onto the battlefield, then shuffle.\n+1: Mill five cards, then put any number of creature cards milled this way into your hand.\n\u22121: Create a 4/4 green Rhino Warrior creature token.",
+        "loyalty": "4",
+        "colors": [
+            "G"
+        ],
+        "color_identity": [
+            "G"
+        ],
+        "keywords": [
+            "Mill"
+        ],
+        "all_parts": [
+            {
+                "object": "related_card",
+                "id": "230419f9-a9f7-441d-bad7-0ed867326aa1",
+                "component": "token",
+                "name": "Rhino Warrior",
+                "type_line": "Token Creature \u2014 Rhino Warrior",
+                "uri": "https://api.scryfall.com/cards/230419f9-a9f7-441d-bad7-0ed867326aa1"
+            },
+            {
+                "object": "related_card",
+                "id": "ac63c976-a6cd-42b4-b799-8624a9da4d32",
+                "component": "combo_piece",
+                "name": "Vivien on the Hunt",
+                "type_line": "Legendary Planeswalker \u2014 Vivien",
+                "uri": "https://api.scryfall.com/cards/ac63c976-a6cd-42b4-b799-8624a9da4d32"
+            }
+        ],
+        "legalities": {
+            "standard": "legal",
+            "future": "not_legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "not_legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "not_legal",
+            "paupercommander": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo",
+            "arena"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "df837242-8c15-42e4-b049-c933a02dc501",
+        "set": "snc",
+        "set_name": "Streets of New Capenna",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/df837242-8c15-42e4-b049-c933a02dc501",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asnc&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/snc?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/5edfb119-abc9-4d4d-bc46-33cce1a0922d/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af6f927f3-dc3f-446c-aa7b-81048eb73243&unique=prints",
+        "collector_number": "162",
+        "digital": false,
+        "rarity": "mythic",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Jake Murray",
+        "artist_ids": [
+            "be53e4e1-ab31-494a-b154-e00ee97eb463"
+        ],
+        "illustration_id": "32c62b8a-6b8e-425c-990f-5a2c5ad84cf0",
+        "border_color": "black",
+        "frame": "2015",
+        "security_stamp": "oval",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 3894,
+        "preview": {
+            "source": "Wizards of the Coast",
+            "source_uri": "https://magic.wizards.com/en/articles/archive/card-image-gallery/streets-of-new-capenna",
+            "previewed_at": "2022-04-08"
+        },
+        "prices": {
+            "usd": "0.66",
+            "usd_foil": "0.64",
+            "usd_etched": null,
+            "eur": "1.29",
+            "eur_foil": "1.14",
+            "tix": "0.04"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555363&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DVivien%2Bon%2Bthe%2BHunt",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DVivien%2Bon%2Bthe%2BHunt",
+            "edhrec": "https://edhrec.com/route/?cc=Vivien+on+the+Hunt"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F268431%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Streets-of-New-Capenna/Vivien-on-the-Hunt?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/98543?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    },
+    {
+        "object": "card",
+        "id": "ba4fa4c8-f09f-4d97-a7d1-1b93caf7d4f9",
+        "oracle_id": "d46c3fb6-f1c7-4a96-ae42-5bce17fc7c1d",
+        "multiverse_ids": [
+            555432
+        ],
+        "mtgo_id": 98681,
+        "arena_id": 80382,
+        "tcgplayer_id": 268340,
+        "cardmarket_id": 651376,
+        "name": "Ziatora, the Incinerator",
+        "lang": "en",
+        "released_at": "2022-04-29",
+        "uri": "https://api.scryfall.com/cards/ba4fa4c8-f09f-4d97-a7d1-1b93caf7d4f9",
+        "scryfall_uri": "https://scryfall.com/card/snc/231/ziatora-the-incinerator?utm_source=api",
+        "layout": "normal",
+        "highres_image": true,
+        "image_status": "highres_scan",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/b/a/ba4fa4c8-f09f-4d97-a7d1-1b93caf7d4f9.jpg?1664413989",
+            "normal": "https://cards.scryfall.io/normal/front/b/a/ba4fa4c8-f09f-4d97-a7d1-1b93caf7d4f9.jpg?1664413989",
+            "large": "https://cards.scryfall.io/large/front/b/a/ba4fa4c8-f09f-4d97-a7d1-1b93caf7d4f9.jpg?1664413989",
+            "png": "https://cards.scryfall.io/png/front/b/a/ba4fa4c8-f09f-4d97-a7d1-1b93caf7d4f9.png?1664413989",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/b/a/ba4fa4c8-f09f-4d97-a7d1-1b93caf7d4f9.jpg?1664413989",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/b/a/ba4fa4c8-f09f-4d97-a7d1-1b93caf7d4f9.jpg?1664413989"
+        },
+        "mana_cost": "{3}{B}{R}{G}",
+        "cmc": 6.0,
+        "type_line": "Legendary Creature \u2014 Demon Dragon",
+        "oracle_text": "Flying\nAt the beginning of your end step, you may sacrifice another creature. When you do, Ziatora, the Incinerator deals damage equal to that creature's power to any target and you create three Treasure tokens.",
+        "power": "6",
+        "toughness": "6",
+        "colors": [
+            "B",
+            "G",
+            "R"
+        ],
+        "color_identity": [
+            "B",
+            "G",
+            "R"
+        ],
+        "keywords": [
+            "Flying",
+            "Treasure"
+        ],
+        "all_parts": [
+            {
+                "object": "related_card",
+                "id": "93116d98-2dad-4b80-a3af-9e36e34da6d4",
+                "component": "token",
+                "name": "Treasure",
+                "type_line": "Token Artifact \u2014 Treasure",
+                "uri": "https://api.scryfall.com/cards/93116d98-2dad-4b80-a3af-9e36e34da6d4"
+            },
+            {
+                "object": "related_card",
+                "id": "dbd6b307-c3a5-4dfd-b137-e1077700c51f",
+                "component": "combo_piece",
+                "name": "Ziatora, the Incinerator",
+                "type_line": "Legendary Creature \u2014 Demon Dragon",
+                "uri": "https://api.scryfall.com/cards/dbd6b307-c3a5-4dfd-b137-e1077700c51f"
+            }
+        ],
+        "legalities": {
+            "standard": "legal",
+            "future": "not_legal",
+            "historic": "legal",
+            "timeless": "legal",
+            "gladiator": "legal",
+            "pioneer": "legal",
+            "explorer": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "oathbreaker": "legal",
+            "standardbrawl": "legal",
+            "brawl": "legal",
+            "alchemy": "not_legal",
+            "paupercommander": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal",
+            "premodern": "not_legal",
+            "predh": "not_legal"
+        },
+        "games": [
+            "paper",
+            "mtgo",
+            "arena"
+        ],
+        "reserved": false,
+        "foil": true,
+        "nonfoil": true,
+        "finishes": [
+            "nonfoil",
+            "foil"
+        ],
+        "oversized": false,
+        "promo": false,
+        "reprint": false,
+        "variation": false,
+        "set_id": "df837242-8c15-42e4-b049-c933a02dc501",
+        "set": "snc",
+        "set_name": "Streets of New Capenna",
+        "set_type": "expansion",
+        "set_uri": "https://api.scryfall.com/sets/df837242-8c15-42e4-b049-c933a02dc501",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asnc&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/snc?utm_source=api",
+        "rulings_uri": "https://api.scryfall.com/cards/ba4fa4c8-f09f-4d97-a7d1-1b93caf7d4f9/rulings",
+        "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad46c3fb6-f1c7-4a96-ae42-5bce17fc7c1d&unique=prints",
+        "collector_number": "231",
+        "digital": false,
+        "rarity": "mythic",
+        "watermark": "riveteers",
+        "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+        "artist": "Chris Rahn",
+        "artist_ids": [
+            "7742047e-0f80-4c0f-a530-d07460165e86"
+        ],
+        "illustration_id": "aa3f657a-e3b6-4d87-be15-104c58f64356",
+        "border_color": "black",
+        "frame": "2015",
+        "frame_effects": [
+            "legendary"
+        ],
+        "security_stamp": "oval",
+        "full_art": false,
+        "textless": false,
+        "booster": true,
+        "story_spotlight": false,
+        "edhrec_rank": 2134,
+        "prices": {
+            "usd": "3.04",
+            "usd_foil": "2.96",
+            "usd_etched": null,
+            "eur": "3.28",
+            "eur_foil": "4.89",
+            "tix": "0.01"
+        },
+        "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555432&printed=false",
+            "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DZiatora%252C%2Bthe%2BIncinerator",
+            "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DZiatora%252C%2Bthe%2BIncinerator",
+            "edhrec": "https://edhrec.com/route/?cc=Ziatora%2C+the+Incinerator"
+        },
+        "purchase_uris": {
+            "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F268340%3Fpage%3D1",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Streets-of-New-Capenna/Ziatora-the-Incinerator?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/98681?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+        }
+    }
+]
