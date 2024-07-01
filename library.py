@@ -1,7 +1,21 @@
 class card:
     def __init__(self, name: str, price: float):
         self.name = name
-        self.price = price
+        self.prices = []
+        if price is not None:
+            self.prices.append(price)
+
+    def add_price(self, price: float):
+        if price is None:
+            return
+        self.prices.append(price)
+        self.prices = sorted(self.prices)
+
+    def price_range(self) -> list:
+        if len(self.prices) == 0:
+            return [0, 0]
+        return [float(self.prices[0]), float(self.prices[len(self.prices) - 1])]
+
 
 class card_set:
     def __init__(self, name: str, set_type: str):
@@ -10,9 +24,14 @@ class card_set:
         self.count = 0
         self.cards = []
 
-    def add(self, card):
+    def add(self, card_name: str, card_price: float):
         self.count += 1
-        self.cards.append(card)
+        for c in self.cards:
+            if c.name == card_name:
+                c.add_price(card_price)
+                return
+        self.cards.append(card(card_name, card_price))
+
 
 def get_set_counts(card_list: dict) -> dict:
     set_map = {}
@@ -20,14 +39,11 @@ def get_set_counts(card_list: dict) -> dict:
         for card_data in c["data"]:
             set_id = card_data["set_id"]
             if set_id not in set_map.keys():
-                set_map[set_id] = card_set(
-                    card_data['set_name'],
-                    card_data['set_type']
-                )
-            set_map[set_id].add( card(
-                card_data['name'],
-                card_data['prices']['usd'],
-            ))
+                set_map[set_id] = card_set(card_data["set_name"], card_data["set_type"])
+            set_map[set_id].add(
+                card_data["name"],
+                card_data["prices"]["usd"],
+            )
     return set_map
 
 

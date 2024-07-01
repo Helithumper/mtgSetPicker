@@ -26,7 +26,8 @@ def print_sorted_set(set_counts: dict, top_n: int) -> dict:
         print("\tSet Type:", v.set_type)
         print(f"\tCards: ({len(v.cards)})")
         for c in v.cards:
-            print("\t\tName:", c.name, "- Price:", c.price)
+            p_range = c.price_range()
+            print(f"\t\tName: {c.name} - Price: ${p_range[0]} ~ ${p_range[1]}")
         i += 1
         if i >= top_n:
             break
