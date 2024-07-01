@@ -1,6 +1,6 @@
 {
     "object": "list",
-    "total_cards": 5,
+    "total_cards": 4,
     "has_more": false,
     "data": [
         {
@@ -246,119 +246,6 @@
                 "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F262885%3Fpage%3D1",
                 "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/The-List/Anointed-Procession?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
                 "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Anointed+Procession&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
-            }
-        },
-        {
-            "object": "card",
-            "id": "8e89f936-38ba-45f7-9c9b-d2d5055a4377",
-            "oracle_id": "7246d45b-2185-4cdd-981b-5419b7d52bce",
-            "multiverse_ids": [
-                547469
-            ],
-            "arena_id": 73774,
-            "name": "Anointed Procession",
-            "lang": "en",
-            "released_at": "2020-08-13",
-            "uri": "https://api.scryfall.com/cards/8e89f936-38ba-45f7-9c9b-d2d5055a4377",
-            "scryfall_uri": "https://scryfall.com/card/akr/2/anointed-procession?utm_source=api",
-            "layout": "normal",
-            "highres_image": true,
-            "image_status": "highres_scan",
-            "image_uris": {
-                "small": "https://cards.scryfall.io/small/front/8/e/8e89f936-38ba-45f7-9c9b-d2d5055a4377.jpg?1597076321",
-                "normal": "https://cards.scryfall.io/normal/front/8/e/8e89f936-38ba-45f7-9c9b-d2d5055a4377.jpg?1597076321",
-                "large": "https://cards.scryfall.io/large/front/8/e/8e89f936-38ba-45f7-9c9b-d2d5055a4377.jpg?1597076321",
-                "png": "https://cards.scryfall.io/png/front/8/e/8e89f936-38ba-45f7-9c9b-d2d5055a4377.png?1597076321",
-                "art_crop": "https://cards.scryfall.io/art_crop/front/8/e/8e89f936-38ba-45f7-9c9b-d2d5055a4377.jpg?1597076321",
-                "border_crop": "https://cards.scryfall.io/border_crop/front/8/e/8e89f936-38ba-45f7-9c9b-d2d5055a4377.jpg?1597076321"
-            },
-            "mana_cost": "{3}{W}",
-            "cmc": 4.0,
-            "type_line": "Enchantment",
-            "oracle_text": "If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.",
-            "colors": [
-                "W"
-            ],
-            "color_identity": [
-                "W"
-            ],
-            "keywords": [],
-            "legalities": {
-                "standard": "not_legal",
-                "future": "not_legal",
-                "historic": "legal",
-                "timeless": "legal",
-                "gladiator": "legal",
-                "pioneer": "legal",
-                "explorer": "legal",
-                "modern": "legal",
-                "legacy": "legal",
-                "pauper": "not_legal",
-                "vintage": "legal",
-                "penny": "legal",
-                "commander": "legal",
-                "oathbreaker": "legal",
-                "standardbrawl": "not_legal",
-                "brawl": "legal",
-                "alchemy": "not_legal",
-                "paupercommander": "not_legal",
-                "duel": "legal",
-                "oldschool": "not_legal",
-                "premodern": "not_legal",
-                "predh": "not_legal"
-            },
-            "games": [
-                "arena"
-            ],
-            "reserved": false,
-            "foil": false,
-            "nonfoil": true,
-            "finishes": [
-                "nonfoil"
-            ],
-            "oversized": false,
-            "promo": false,
-            "reprint": true,
-            "variation": false,
-            "set_id": "915dabb1-b82a-432d-939d-d9b128e65582",
-            "set": "akr",
-            "set_name": "Amonkhet Remastered",
-            "set_type": "masters",
-            "set_uri": "https://api.scryfall.com/sets/915dabb1-b82a-432d-939d-d9b128e65582",
-            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aakr&unique=prints",
-            "scryfall_set_uri": "https://scryfall.com/sets/akr?utm_source=api",
-            "rulings_uri": "https://api.scryfall.com/cards/8e89f936-38ba-45f7-9c9b-d2d5055a4377/rulings",
-            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7246d45b-2185-4cdd-981b-5419b7d52bce&unique=prints",
-            "collector_number": "2",
-            "digital": true,
-            "rarity": "rare",
-            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
-            "artist": "Victor Adame Minguez",
-            "artist_ids": [
-                "bd8f7368-5b10-4554-b6b8-d052c6aca89f"
-            ],
-            "illustration_id": "7aecf9a4-6c84-4aca-ab91-62ee479b9e08",
-            "border_color": "black",
-            "frame": "2015",
-            "full_art": false,
-            "textless": false,
-            "booster": true,
-            "story_spotlight": false,
-            "edhrec_rank": 258,
-            "penny_rank": 5015,
-            "prices": {
-                "usd": null,
-                "usd_foil": null,
-                "usd_etched": null,
-                "eur": null,
-                "eur_foil": null,
-                "tix": null
-            },
-            "related_uris": {
-                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=547469&printed=false",
-                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DAnointed%2BProcession",
-                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DAnointed%2BProcession",
-                "edhrec": "https://edhrec.com/route/?cc=Anointed+Procession"
             }
         },
         {
