@@ -8,11 +8,15 @@ def search_card(name: str) -> dict:
     time.sleep(0.1)
 
     url = "https://api.scryfall.com/cards/search"
+    # We want exact names
+    name = '!"' + name.strip('"') + '"'
+    query_list = [name]
     # Filter out digital cards
-    query_list = [name, "-is:digital"]
+    query_list.append("-is:digital")
+    # Include things like tokens
+    query_list.append("include:extras")
 
     params = {"q": " ".join(query_list), "unique": "prints"}
-
     req = requests.models.PreparedRequest()
     req.prepare_url(url, params)
     response = requests.get(req.url)
